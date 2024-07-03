@@ -2076,10 +2076,10 @@
                     "Dr. Dedekind, however, also speaks of “wahres tropisches Himmelblau” from <<i#M. trunculus<< in his possession. See Beitrag I, p. 93. <<i#Archives de Zoologie,<< Paris (1896)."
                 ],
                 "orgPdfs": [
-                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131235/HerzogDoctorate/0427100216_lozncu.jpg",
-                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131411/HerzogDoctorate/0427100217_jwfj5s.jpg",
-                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131488/HerzogDoctorate/0427100218_wn2ohj.jpg",
-                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131222/HerzogDoctorate/0427100219_dgvla7.jpg"
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131235/HerzogDoctorate/0427100216_lozncu.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131411/HerzogDoctorate/0427100217_jwfj5s.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131488/HerzogDoctorate/0427100218_wn2ohj.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131222/HerzogDoctorate/0427100219_dgvla7.jpg"
                 ]
             },
             {
@@ -2104,7 +2104,7 @@
                     },
                     {
                         "txt": "ת״ר חלזון זהו גופו דומה לים וברייתו<<1<< דומה לדג עולה אחד<<2<< לשבעים שנה ובדמו צובעין תכלת לפיכך דמיו יקרין<<3<<",
-                        "type": "regular"
+                        "type": "hebrew"
                     },
                     {
                         "txt": "“...This is the description of the hillazon:",
@@ -2124,7 +2124,7 @@
                     },
                     {
                         "txt": "תנו רבנו חלזון זו גופו דומה לים וכו׳ עולה אחת לשבעים שנה",
-                        "type": "regular"
+                        "type": "hebrew"
                     },
                     {
                         "txt": "The reading זו would seem to treat חלזון as of feminine gender though it is masculine throughout the rest of the passage as well as in all other texts when חלזון occurs.",
@@ -2154,61 +2154,595 @@
                     "Menahot, 44a."
                 ],
                 "orgPdfs": [
-                  "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131438/HerzogDoctorate/0427100220_ldao2s.jpg",
-                  "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131394/HerzogDoctorate/0427100221_czzpya.jpg",
-                  "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131244/HerzogDoctorate/0427100222_xlydbo.jpg",
-                  "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131526/HerzogDoctorate/0427100223_uju0is.jpg",
-                  "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131465/HerzogDoctorate/0427100224_aya5uf.jpg",
-                  "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131215/HerzogDoctorate/0427100225_anj8ac.jpg"
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131438/HerzogDoctorate/0427100220_ldao2s.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131394/HerzogDoctorate/0427100221_czzpya.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131244/HerzogDoctorate/0427100222_xlydbo.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131526/HerzogDoctorate/0427100223_uju0is.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131465/HerzogDoctorate/0427100224_aya5uf.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131215/HerzogDoctorate/0427100225_anj8ac.jpg"
                 ]
             },
             {
                 "num": "5G",
                 "title": "Speculations about the Cause Which Prompted the Formal Declaration of the Characteristics of the Tekhelet-hillazon",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "What may have been the occasion of this formal declaration of the hillazon-tradition? Was it an attempt made in certain quarters to replace the traditional <<i#hillazon-shel-Tekhelet<< by some other species? Or does the baraitha owe its origin to a desire on the part of the Jewish authorities to enlighten the general public with regard to the true nature of the <<i#Tekhelet<< dye in view of a widely prevalent error that kala-ilan (vegetable dyestuff producing a <<i#Tekhelet<<-like colour) might do for <<i#Tekhelet shel tzitzit?<< Or again, does the description simply represent an halakhah pure and simple taught in the academies as explanatory of the halakhah dating from hoary antiquity:תכלת אלא בחלזון אין צובעין <<i#“Tekhelet<< is not kasher (ritually fit), except if dyed with the blood of the <<i#hillazon”<< There is, I think, some ground for supposing that the baraitha represents an epistle sent to the diaspora (גולה) either for the purpose of enlightening extraPalestinian Jewry, or in direct answer to the inquiry about the identity of the <<i#hillazon-shel-Tekhelet<<. The final statement לפיכך דמיו יקרים “Therefore (i.e., because of the rarity of the species) it (<<i#Tekhelet<<) is very dear” would have been a superfluity in an halakhah taught at a Palestinian academy. The hearers of the lecture would be as cognisant of the cause of the expensiveness of <<i#Tekhelet<< as the lecturer himself. In an ordinary discourse the point might well be mentioned but in a formal concise halakhah it would be rather out of place. If, on the other hand, the baraitha was primarily intended for the information of the exiled communities, the case would be different. People buying at an exorbitant price <<i#Tekhelet<< shel <<i#tzitzit<< sent from the Holy Land might be eager to learn the reason of the high expensiveness of the article.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131215/HerzogDoctorate/0427100225_anj8ac.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131491/HerzogDoctorate/0427100226_ch0vtd.jpg"
+                ]
             },
             {
                 "num": "5H",
                 "title": "Description of the Tekhelet-hillazon in the Baraitha d’Tzitzit",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "The Baraitha d’Tzitzit contains substantially the same description:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "שאין צובעין תכלת אלא בחלזון חלזון למה הוא.",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "ברייתו דומה לדג וגופו דומה לרקיע ואין עולה אלא שבע שנים",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "“… What is the hillazon like unto? Its shape is like unto that of a fish and its body (i.e., colour of body or shell) is like unto the sky, and it only ‘comes up’ once in seven years therefore is it very dear?”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The differences to be noted are:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": [
+                            "characteristic (b) precedes (a);",
+                            "the colour is likened to the sky not to the sea as in the Talmud;",
+                            "the shorter number seven for seventy of the Talmud."
+                        ],
+                        "type": "list"
+                    }
+                ],
+                "footNotes": [],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131491/HerzogDoctorate/0427100226_ch0vtd.jpg"
+                ]
             },
             {
                 "num": "5I",
                 "title": "Detailed Study of the Talmudic Description of the Tekhelet-hillazon",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Which species of marine shell-snail is meant by the description thus recorded in the Talmud and the Baraitha d’Tzitzit?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Before we attempt answering the question, it is of course absolutely essential to ascertain the exact import of each of the three elements which constitute the description.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(a) presents no serious difficulties: it refers to a dark blue or dark violet-blue resembling the colour of the Mediterranean or of the clear cloudless Palestinian sky in bright sunshine",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(b) offers considerable difficulty. What is the exact delimiting force of this likening of the form of the <<i#Tekhelet–hillazon<< to a fish? In other words which species or genera of marine shell-snails are meant to be excluded by (b)?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is clearly of vital importance to determine first of all the scope of application of the term <<i#dag<< (fish) in the Talmud. With reference to the concept “fish” in ancient classical literature Dr. L. Germain in reply to a question addressed by me says:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Chez les anciens on designait sous ce nom de Poissons tousles animaux qui vivent dans la mer. Ainsi Pline, après avoir dit Piscium quidam sanguine carent <<1<< ce qui est une assertion au moins bizarre, ajoute qu’il y a 3 categories de Poissons: les Pois, mous (Mollia); les Crustaces (Crustacea); et les Testaces (testacea). <<n<<Aristote est le seul auteur ancien ayant nettement separe les mollusques des poissons. Chez les Modernes, le terme poisson est restrictif et ne s’applique comme vous savez qu’aux vertèbres marins ou d’eau douce dont le type est, par exemple, le saumon en eliminant tousles Crustaces, Mollusques, Cephalopèdes et autres qui sont des Invertèbres.”",
+                        "txtTrans": "“Among the ancients, all animals that live in the sea were designed under the name of Pisces. Thus Pliny, after saying Piscium quidam sanguine carent192 which is an assertion at least bizarre, adds that there are 3 categories of Pisces: peas, soft (Mollia); Crustaceans (Crustacea); and testaces (testacea). <<n<<Aristotle is the only ancient author who clearly separated molluscs from fish. Among the Moderns, the term fish is restrictive and applies as you only know to marine or freshwater vertebrae whose type is, for example, salmon by eliminating all Crustaceans, Molluscs, Cephalopeds and others that are Invertebrates. “",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "The Tanaites, as is clear from their likening of the figure of the <<i#hillazon<< to that of fishes, were not in this instance behind Aristotle. The Mishna (Kelim X, 1) distinguishes “fishes” (<<i#dagim<<) and “beasts of the sea” (<<i#hayyot hayam<<) <<2<< עצמות הדג… עצמות חיה שבים",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "1. Elijah Wilna (ib. אליהו רבה) strikes out חיה שבים on the ground that all marine creatures whatever their form are comprised in the appellation <<i#dag<<:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "ול״ג עצמות חיה שבים כל שבים מין דג הוא כל דמות שתהיה לו",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "There is, however, no real ground for questioning the correctness of the text; characteristic (b) in the description of the <<i#hillazon<< shows clearly the inexactness of R. Elijah Wilna’s sweeping generalisation. I doubt if the assertion really emanates from the celebrated “<<i#gaon<< of Wilna.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "From the sporadic allusion to the nature and characteristics of fishes it is difficult to evolve a more or less clear idea of the type <<i#dag<< (fish) according to the Talmudic conception.<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Maimonides distinguishes two classes of aquine creatures:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": [
+                            "<<i#dagim<< (fishes)",
+                            "<<i#sheretz hamayim<< (שרץ המים), i.e., “creatures not of the shape of <<i#dagim<<.”"
+                        ],
+                        "type": "list"
+                    },
+                    {
+                        "txt": "איזהו שרץ המים אלו הבריות הקטנות כמו התולעים והעלוקה שבמים והבריות הגדולות ביתר שהן חיות הים כצצות של בבל<<4<< כל שאינו בצורת דג לא דג המא ולא דג טהור כגון כלב המים והדלפון והצפרדע וכיוצא בהן",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "This is not very helpful. It would appear, however, that in his conception the Gasteropoda and Cephalopoda, at least are comprised in the term <<i#dag<<. It is significant that in his description of the <<i#Tekhelet-hillazon<< Maimonides does not reproduce the Talmudic statement that the <<i#hillazon<< is like unto a fish, but says plainly that it is a species of fish. Nachmanides<<5<< seems to hold that all marine creatures furnished with legs in the manner of terrestrial animals are excluded from the category of <<i#dag<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Would it follow according to Nachmanides that (b) should be understood as excluding the Gasteropoda to which belong the genera <<i#Murex Purpura<< and also <<i#Janthina<<? Is then the <<i#hillazon-shel-Tekhelet<< to be sought, according to Nachmanides, exclusively among the Cephalopoda? I very much doubt whether such is the import of (b). It should also be noted that דומה (<<i#domeh<<, “is like”) is a relative term. It is scarcely possible to determine the degree of similarity demanded by (b).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Our search for the <<i#hillazon shel Tekhelet<< is thus hampered by an obscurity which is hard to dispel.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The last element also offers certain difficulties. ועולה אחד לשבעים שנה “it comes up once in seventy years.” “oleh” (עולה) has been taken by some as meaning that the <<i#hillazon-shel-Tekhelet<< is not fished but is caught on the cliffs and rocks when it creeps up from the sea. This is, however, not warranted by the verb <<i#alah<< עלה. <<i#Oleh<< may well mean “is fished.” Sabbath 74b refers to the manipulation of nets in fishing the <<i#hillazon<< in connection with the preparatory work for the construction of the Tabernacle.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Rashi explains the reference as applying to the <<i#Tekhelet-hillazon<<. But the Talmud has in view the <<i#Argaman-hillazon<<, of both species. Rashi reflects his interpretation of <<i#Argaman<< as only a colour designation with no restriction as to the origin of the dyestuff producing the particular colour.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Sabbath 26a referring to fishermen engaged in the catching of <<i#hillazon<< may likewise apply either to both species or to <<i#Argaman<< alone. It might be argued that since in the time of Raba or R. Ilai (to either of whom is ascribed the reference to the fishing of the <<i#hillazon<< quoted Sab. 74b) <<i#Argaman<< had long disappeared from religious use,<<6<< the <<i#Tekhelet<< rather than the <<i#Argaman<< species would be uppermost in the minds of students of the Torah when speaking of <<i#hillazon<< in connection with the Tabernacle or Temple; if therefore the <<i#Tekhelet<<-species were not secured by means of fishing, Raba or R. Ilai would have thought it necessary to add some such qualification as <<i#shel Argaman<< to <<i#hillazon<<. The argument, however, hardly possesses sufficient cogency to serve as a basis for our inquiry.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(c) “… once in seventy years”. This appears very baffling on the face of it but in reality the statement should present no insurmountable difficulty. When in 1887 a certain R. Gershon Enoch Leiner embarked upon a hard search after the <<i#Tekhelet–hillazon<< he found his way blocked by (c). Science knows nothing of such a septuagenarian “appearance” of any of the denizens of the sea.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Apart from that it is not stated what date is taken as a starting point from which the periodicity is to be counted nor is there a record of the “appearance” of that rare species at a definite point of time which might serve us a base of calculation. Leiner<<7<< contends that though its “appearance” <<i#en masse<< would occur only once in seventy years it could be found in small quantities at any time.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In reality, however, the expression is simply an arithmetic hyperbole of the kind which is pretty common in the Talmudim and Midrashim. “Once in seventy years” amounts to saying that the species is caught at long intervals of time. The value of (b) is rightly estimated in his edition of the Baraitha d’Tzitzit.<<8<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": ".בגמרא שם הגירסא) שבעים שנה והוא אגדה. ובשבת אמרו לכרמים וליוגבים ומזה מוכח ר״ע שנה לאו דוקא)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "His argument, however, from Sabbath 26a is pointless because the reference in that passage may be to the <<i#Argaman<<-species. Nebuzzadan would be as much interested in the fishing of the <<i#Argaman–hillazon<< as in that of the <<i#Tekhelet<< species. Perhaps his interest would be centred in the former rather than in the latter species.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Owing to the absence of a distinct mention in Talmudic literature of <<i#hillazon<< in connection with <<i#Argaman<<, Jewish writers, generally speaking, laboured under the misconception that <<i#Argaman<< was not of <<i#hillazon<< origin.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Baraitha d’Tzitzit has “once in seventy years” which being the more sober number is probably the original one. “Seven years” is likewise a round number; strict periodicity is hardly to be thought of.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It should be carefully noted that the Talmud does not attribute the expensiveness of <<i#Tekhelet<< to the fewness of the individuals constituting the <<i#Tekhelet<<-species but to the rare “appearance” of individuals belonging to that variety of sea-snail. When the “appearance” does take place it may be a very numerous one.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Pliny, <<i#ibid.,<< book IX, ch. 44.",
+                    "Sifra,מצורע; שמיני",
+                    "Cf. ירושלמי: כלאים, פרק א ,הלכה ו״; בכורות ח ע״א; עבודה זרה מ ,ע״א מררש רבא; בראשית, פרשה א; כלים פרק י,; משנה א״; חולין קי״ב ע״ב; נדה מ ע״א.",
+                    ".רמב״ם כ״ב הלכות, מלאכות אסורות",
+                    "Nachmanides, Comm, on the <<i#Pentateuch,<< sect. שמיני",
+                    "Since the destruction of the Temple",
+                    "לינר גרשון חנוך, שפוני סמני חול. וארשא תרמ״ז(1887) ע׳4א׳",
+                    "שבע מסכתות קטנות ירושלמיות … (עורך) רפאל בן קיר כה״ם פראנקפורט א״מ תרי״א (1851) ."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131418/HerzogDoctorate/0427100227_wiao1z.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131426/HerzogDoctorate/0427100228_vcx5yn.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131219/HerzogDoctorate/0427100229_ltksab.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131363/HerzogDoctorate/0427100230_mhouea.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131236/HerzogDoctorate/0427100231_y6mxfs.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131392/HerzogDoctorate/0427100232_xc3kxp.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131230/HerzogDoctorate/0427100233_xbrmnw.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131243/HerzogDoctorate/0427100234_dxi0yw.jpg"
+                ]
             },
             {
                 "num": "5J",
                 "title": "Identification of the Tekhelet-hillazon according to the Talmud; Correspondence between the Present Writer and Dr. L. Germain of the Department of Malacology, Museum National d’Histoire Naturelle (Paris)",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "It is, as already explained, very difficult to determine the exact value of (b); but whatever genera or orders of marine forms of life may be meant to be excluded, it is not unlikely that, to say the least, the exclusion does not comprise all the species belonging to the Gasteropoda and the Cephalopoda. In making our search among these classes of Mollusca we are limited by the consideration that the species sought must be a Mediterranean one. This somewhat narrows the area of research and so, to some extent lightens our task. The first species to occur to the mind is of course <<i#Murex trunculus<< which, if we had no traditional description of the <<i#Tekhelet-hillazon<<, we should not have hesitated for a moment to suggest as the most probable identification. But <<i#Murex trunculus<< fails, in the first place, to satisfy characteristic (a). The shell of M. trunculus is brownish white; the colour of the animal is dirty whitish speckled with brown and yellow; the operculum is reddish brown.<<1<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It does not satisfy (c) either, even after the indication has been stripped of its hyperbolic clothing. That it satisfies (b) is also not entirely free from doubt.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The shell of a certain variety of <<i#Murex brandaris<< is of a blue colour not unlike the colour of the Mediterranean sea.<<2<< <<i#Murex brandaris<<, however, gives rather red purple, or <<i#Argaman<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The colour of the shell, by the way, is hardly what (a) requires. גופו “gupho” means the colour of the animal rather than that of the shell.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In most mollusca the colour of the body is rather whitish or yellowish.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The <<i#Purpura patula<< very nearly satisfies (a) and enjoys the additional distinction of belonging to a genus one species of which, at least, is known to have been anciently used for purple-dyeing.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is also said to be rarely met with.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“L’animal (i.e., <<i#Purpura patula<<) diffères des précédents en ce que sa couleur est plus foncée et tire sur le violet .. <<n<< Ce coquillȧge est assez rare; on le voit sur les rochers du cap Manuel… Lorsqu’on presse un peu l’opercule de cet animal après qu’il est rentré dans sa coquille, il rend une assez grande quantité de liqueur qui est d’abord verdâtre et qui devient pourpre foncé en se dessechant. On sait que cette propriété est commune à la plupart des espèces de ce genre.”<<3<<",
+                        "txtTrans": "“The animal (i.e., Purpura patula) differs from the previous ones in that its color is darker and pulls on purple .. <<n<< This coquillȧge is quite rare; we see it on the rocks of Cape Manuel… When the operculum of this animal is pressed a little after it has entered its shell, it renders a fairly large amount of liquor that is initially greenish and becomes dark purple as it dries out. It is known that this property is common to most species of this genus.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "May not (c) mean that the species usually very sparsely represented is at some rare occasions found in greater abundance?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Another point to be noticed is that there is nothing in the Talmud indicating the minuteness of the purpurigenic liquor secreted by the <<i#Tekhelet<< species. It is to the paucity of the dye-secretion in the purple snails that the expensiveness of purple is attributed in ancient authors.<<4<< In the Talmud on the other hand, the preciousness of <<i#Tekhelet<< is ascribed solely to the rare “appearance” of the animal. This would seem to imply that the colouring matter in the <<i#Tekhelet<< species was not so very small. In <<i#Purpura patula<< this is indeed the case. (Cf. above “une assez grande quantité de liqueur (a fairly large amount of liquor).“) Does the colour of the final development of its pigment also go to support the suggestion of <<i#P. patula<< as the <<i#hillazon-shel-Tekhelet<<?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "An almost fatal objection against <<i#Purpura patula<< is offered by the fact that the species is a non-Mediterranean one. But may not <<i#P. patula<< though no longer known to live in the Mediterranean have lived in that sea along the Syrian coast until some 13 centuries ago or so? May not the final disappearance of the species from that region have been the real cause of the extinction of <<i#Tekhelet<<? This is extremely improbable if not utterly impossible.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "A passage in the Sifre almost seems to indicate that the <<i#hillazon<< finally disappeared altogether, the fact being ascribed to the desire on the part of the Almighty to reserve the precious species for the use of the righteous in the Messianic age. “R. Jose said, Once in walking from Kezib to Tyre I met a certain old man. I greeted him and asked him ‘What are you gaining your living from?’ He said to me: ‘From the <<i#hillazon<<.’ I said to him: ‘Is it often found?’ He said to me: ‘By Heaven, there is a certain place in the sea where it (scilicet: the <<i#hillazon<<) is cast on mountains and lizards strike it and it dies and melts (or rots) away on the spot.’ I thereupon said to him: ‘By Heaven it is a souvenir which has been stored away for the righteous in the World to Come.'”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "A variant reading which I prefer has: “it is shown (<<i#by this fact<<) that it (the <<i#hillazon<<) has been stored away for the righteous in the future time” (the Messianic age). That the passage refers to the <<i#Tekhelet–hillazon<< is clear from the context.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "When the old man says that he makes his living from the <<i#hillazon<< without any limiting epithet he has only the <<i#Tekhelet–hillazon<< in view; for the <<i#Argaman–hillazon<< had little interest for Jews in R. Jose’s time. Imagination pictures the righteous (צדיקים) in the Messianic age clad wholly in <<i#Tekhelet<<, the colour recalling the sky and the Throne of Glory. Compare Baba Batra 74a דעתירה דשריא תכילתא לאריקי לעלמא ראתי.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Does the expression “it is hidden” or “has been hidden” imply that the <<i#hillazon-shel-Tekhelet<< was not to be had in R. Jose’s days? But R. Jose lived centuries before the disappearance of <<i#Tekhelet shel Tzitzit<<! The passage perhaps admits of a satisfactory explanation. The rareness of the appearance of the <<i#hillazon<< would be generally ascribed to the fact that the species rarely visited the Palestinian waters. On being told by the “old man” that the <<i#hillazon<< was often cast ashore upon a certain out-of-the-way island, R. Jose inferred that the rareness in question was a special dispensation of providence. In the Messianic age the <<i#hillazon<< would appear in abundance in order to enable the just to clothe themselves wholly in <<i#Tekhelet<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "If for the present all hope is to be abandoned of rediscovering the <<i#hillazon-shel-Tekhelet<< in some species of the genera <<i#Murex<< and <<i#Purpura<< we could do worse than suggest the <<i#Janthina<< as a not improbable identification. The identification readily occurred to me on beginning the study of the subject. I was glad to find afterwards that I had been anticipated by Gesenius. On further investigation I came across <<5<< certain objections against the identification with <<i#Helix janthina<< in particular. In order that I might be able to walk on firmer ground I forwarded a copy of notes prepared by me on the identification of the <<i#Tekhelet–hillazon<< to Professor Joubin, Professor of Malacology at the Museum National d’Histoire Naturelle. The learned professor handed over my manuscript to Dr. L. Germain, Dr. des Sciences, <<i#preparateur<< at the Museum. The following is the text of Dr. Germain’s reply with reference to the identification of the species employed according to the Talmud for the dyeing of <<i#Tekhelet<<:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“HYACINTHE <<n<< Les seuls Mollusques de la Mediterranée qui puissent fournir une teinture bleue sont les Janthines. Ces animaux sont peu nombreux en espèces. Le type est le <<i#Janthina communis<< de Lamarck…<<6<< qui est <<i#l’Helix janthina<< de Linne.<<7<< Mais cette espèce ne vit pas dans la Mediterrannée. Les Janthines qui habitent cette mer appartiennent surtout aux deux espèces suivantes: <<i#Janthina pallida<< de Harvey <<8<< et <<i#Janthina prolongata<< de Blainville.<<9<< <<n<< Ainsi que vous l’avez vu par les textes cités par vous (p. 6 de votre manuscrit) ces animaux fournissent abondamment une liqueur colorante bleue violacée vive et brillante. <<n<< Les particularités attribuées au <<i#hillazon<< par la tradition Talmudique tiennent, je le crois, du moins, en grande partie au <<i#modus vivendi<< des Janthines. Ces animaux sont <<i#pélagiques<< c’est-à-dire qu’ils habitent presque continuellement la haute mer à la surface et que, dans <<i#tous les cas<<, ils ne vivent jamais fixés au rivage comme les Pourpres, les Murex, etc… Ils se tiennent à la surface des eaux, malgre leur coquille légère mais cependant d’un poids appréciable grace à un flotteur où ils collent leurs oeufs. Leur coloration est d’un beau bleu violacé, qui se confond assez facilement avec la couleur de la mer. <<n<< Enfin et vous verrez de suite l’importance de cette dernière remarque comme un grand nombre d’animaux pélagiques, les Janthines sont certaines années extraordinairement abondantes, alors que les années précédentes elles étaient rares ou même très rares. Quand elles sont très abondantes, les coups de mers, même peu violents, les rejettent en grande quantité sur le rivage où elles sont très facilement recueillies, même encore vivantes. C’est sans doute à cette particularité qui n’avait pas dû échapper aux habitants qu’il faut attribuer la périodicité septuagénaire de l’apparence du <<i#hillazon<< dont parle le Talmud. Mais cette périodicité n’est pas en réalite régulière: la vérité est que, en partant d’une année où les Janthines sont très abondantes, on voit pendant plusieurs années (3,4 ou 5 ans, parfois même davantage) ces animaux devenir beaucoup plus rares, pour être à nouveau extraordinairement communs pendant une nouvelle saison et ainsi de suite. <<n<< J’oubliais de vous dire que les 2 Janthines citées précédemment vivant sur les côtes de Syrie, notamment <<i#J. prolongata<< Blainville qui fournit le plus abondamment la teinture. Les objections tirées des auteurs cités par vous (p. 6 et 7 de votre travail) contre cette identification du <<i#hillazon<< ne résistent pas à l’examen puisqu’elles sont basées sur <<i#l’Helix janthina<< Linné, qui est la <<i#Janthina communis<< de Lamarck, <<i#espèce qui ne vit pas dans la Méditeranée<<.”",
+                        "txtTrans": "“HYACINTH” <<n<< The only molluscs in the Mediterranean that can provide a blue dye are the Janthines. These animals are few in number in species. The type is Lamarck’s Janthina communis… which is linne’s Helix janthina. But this species does not live in the Mediterranean. The Janthines that inhabit this sea belong mainly to the following two species: Janthina pallida de Harvey207 and Janthina prolongata de Blainville.208 <<n<< As you have seen from the texts quoted by you (p. 6 of your manuscript), these animals abundantly provide a bright and brilliant purplish blue coloring liquor. <<n<< The peculiarities attributed to the hillazon by the Talmudic tradition are, I believe, at least largely due to the modus vivendi of the Janthines. These animals are pelagic that is to say that they inhabit almost continuously the high seas on the surface and that, in any case, they never live fixed to the shore like the Purples, the Murex, etc … They stand on the surface of the waters, despite their light shell but nevertheless of an appreciable weight thanks to a float where they stick their eggs. Their coloration is a beautiful purplish blue, which can be easily confused with the color of the sea. <<n<< Finally, you will immediately see the importance of this last remark as a large number of pelagic animals, Janthines for some years are extraordinarily abundant, while in previous years they were rare or even very rare. When they are very abundant, the blows of the sea, even if not very violent, throw them back in large quantities on the shore where they are very easily collected, if still alive. It is undoubtedly to this peculiarity, which must not have escaped the inhabitants, that we must attribute the septuagenarian periodicity of the appearance of the hillazon of which the Talmud speaks. But this periodicity is not in regular reality: the truth is that, starting from a year when the Janthines are very abundant, we see for several years (3, 4 or 5 years, sometimes even more) these animals become much rarer, to be again extraordinarily common during a new season and so on. <<n<< I forgot to tell you that the 2 Janthines mentioned above living on the coast of Syria, including J. prolongata Blainville which provides the most abundant dye, The objections drawn from the authors cited by you (pp. 6 and 7 of your work) against this identification of the hillazon do not stand up to scrutiny since they are based on the Linnaeus Helix janthina, which is Lamarck’s Janthina communis, a species that does not live in the Mediterranean.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "In the manuscript referred to by Dr. Germain I based the claims of Janthina upon four grounds.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": [
+                            "it satisfies (a);",
+                            "it gives a violet-blue dye;",
+                            "it is rare in the Mediterranean;",
+                            "its dye-secretion is fairly abundant in quantity. In <<i#Janthina prolongata<< the secretion in fact amounts to an ounce."
+                        ],
+                        "type": "list"
+                    },
+                    {
+                        "txt": "Dr. Germain’s initial assertion: “Les seuls Mollusques de la Méditerranée qui puissent fournir une teinture bleue sont les Janthines (The only molluscs in the Mediterranean that can provide a blue dye are the Janthines)” makes the case for <<i#Janthina<< exceedingly strong. Thus according to Dr. Germain even if we had not the traditional description of the <<i#Tekhelet–hillazon<< we should have had no other choice but <<i#Janthina<<. The element of blue in the pigment of <<i#Murex trunculus<< does not, it would seem, appear to my learned correspondent sufficiently pronounced to establish the claim of the species to the identification in question. Here, of course, comes in the question of the determination of the <<i#Tekhelet<<-colour. The subject will be treated later, but I may say here that Dr. Germain’s conception of the <<i#Tekhelet<<-nuance is in harmony with the trend of Jewish tradition. The pure-bluish will be very nearly satisfied. As Dr. Germain describes the dye as “teinture bleue (blue dye)” at the outset of his instructive reply, his later definition of the colour as “bleu violacé (purplish blue)” need not trouble much the pure-blue theory. The colour according to him would seem to be distinguishable from blue only with a certain amount of difficulty. It can also easily be turned into a pure blue.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Par l’oxolate d’ammoniaque elle donne un précipité … d’un bleu foncé et par le nitrate d’argent une couleur de cendre bleue très agréable.” <<10<<",
+                        "txtTrans": "“By ammonia oxolate it gives a precipitate … of a dark blue color and by silver nitrate a very pleasant blue ash color.” ",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "(c) is admirably explained by Dr. Germain. We should read with Baraitha d’Tzitzit <<i#seven<< instead of <<i#seventy<<. As the interval varies between 3 to 5 or 6 years, “seven” roundly describes it.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "No evidence has hitherto been found of the employment of the <<i#Janthina<< in ancient dyeing, but too great stress need not be laid upon the point. In view of the rarity of the occasions on which the species could be secured, no serious objection should be drawn from the absence of remains of <<i#Janthina<< shells on the sites of former dyeing establishments on the Phoenician coasts. Of the species <<i#known<< to have been used by the Phoenicians in purple-dyeing, the one which furnishes a dye answering at least to some extent to the tradition of the <<i#Tekhelet<< nuance is none other than the <<i#Murex trunculus<<. Did the Jews then, employ for the dyeing of <<i#Tekhelet<< a species of mollusc different from the one used by the Phoenicians for the manufacture of their <<i#Tekhelet<<? Granting that such was the case what explanation could we offer for this deviation? Was the Jewish <<i#Tekhelet<< different in nuance from that of the Phoenicians?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "But the rendering of <<i#Tekhelet<< by <<i#Iakinthos<< in the LXX, in Philo, in Josephus, etc…. certainly disproves any such assumption. This Hellenic designation of the fabric most certainly was not confined to <<i#Tekhelet<< of Jewish provenance. Or was the difference between the Jewish and the Phoenician practice due to a change on the part of the latter? <<i#Tekhelet<< dyeing on the earliest times had been confined to the <<i#Janthina<< pigment; while the Phoenicians at a certain point of time abandoned the <<i#Janthina<< in favour of the <<i#Murex trunculus<<, the Jews continued to adhere exclusively to the former. For ritual <<i#Tekhelet<< the Law required cloth dyed with the <<i#Janthina<< pigment because the dyeing with it was believed to go back to Mosaic times, while the <<i#Tekhelet<< from <<i#Murex trunculus<< was looked upon as post-Mosaic. The hypothesis is, I think, hardly tenable. In the Talmud mention is made only of <<i#kala-ilan<<, a certain colour produced from a vegetable stuff, as an inadmissible substitute for ritual <<i#Tekhelet<<. Again, the tests prescribed for ascertaining the genuine character of a given sample of <<i#Tekhelet<< would have little meaning on that hypothesis. How could it be ascertained by means of the tests that the <<i#Tekhelet<<, though not <<i#kala-ilan<<, was dyed with the pigment of the <<i#hillazon-shel-Tekhelet<<, and not with that of <<i#Murex trunculus<<? Here, however, there is a loophole of escape for the hypothesis in question, should the dye of the Janthina prove to be faster than that of <<i#Murex trunculus<<; for then the tests might well distinguish <<i#Tekhelet<< dyed with Janthina from that dyed with <<i#M. trunculus<<. It may also be worth remarking that as the pigment of <<i#Murex trunculus<< is <<i#not<< fast to washing while the <<i#Tekhelet<<-dye, according to the Talmud, appears to possess greater fastness than indigo which is fast to washing, it follows that the <<i#Tekhelet<< secretion is faster than that of <<i#Murex trunculus<<. As, however, we do not know the exact nature of the drugs with which the <<i#hillazon<< secretion was mixed in the manufacture of <<i#Tekhelet<<, we cannot confidently assert that the <<i#Tekhelet<< pigment, whatever it may be, is faster than that of <<i#Murex trunculus<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "An alternative hypothesis suggests itself: under the stress of the imperial legislation ever narrowing the use of purple, and monopolising its manufacture for the government, the production of <<i#Tekhelet<< with <<i#Murex trunculus<< became increasingly difficult and even dangerous for the Jewish dyers. Under these circumstances the Jews adopted <<i#Janthina<<, a species not envisaged by the imperial legislation, as a substitute for <<i#Murex trunculus<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "This suggestion, too, cannot stand anything like a close examination. If such were the case the Talmud would have recorded descriptions of both <<i#M. trunculus<< and <<i#Janthina<<, or it would have indicated somehow that <<i#Tekhelet<< might be produced from another species than the one described. Besides, there is no trace whatever of a break in the <<i#hillazon<< tradition, nor is it at all likely that such a change would take place at so late a period as that which is required by the exigencies of the hypothesis.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The only alternative left is the supposition that all <<i#Tekhelet (Iakinthos)<< whether Jewish or Phoenician was dyed with the pigment of a species not used in purple dyeing in the stricter sense: This species, according to indications supplied by Jewish tradition may perhaps be the Janthina (i.e., <<i#Janthina prolongate<< Blainville and <<i#Janthina pallida<< Harwey. Cf. Dr. Germain).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Some explanation should be given of Dr. Germain’s statement: ",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Les objections tirées des auteurs cités par vous (p. 6 et 7 de votre travail) contre cette identification du <<i#hillazon<< ne résistent pas à l’examen puisqu’elles sont basées sur <<i#l’Hélix Janthina<< Linné qui est la <<i#Janthina communis<< de Lamarck, espèce qui ne vit pas dans la Méditerranée.”",
+                        "txtTrans": "“The objections drawn from the authors cited by you (pp. 6 and 7 of your work) against this identification of the hillazon do not stand up to scrutiny since they are based on the Helix Janthina Linnaeus which is lamarck’s Janthina communis, a species that does not live in the Mediterranean.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "In the manuscript to which Dr. Germain refers, I said: “Lewysohn <<11<< raises two objections against the identification of the <<i#hillazon-shel-Tekhelet<< with the <<i#Helix Janthina<<:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Uber die Gewinnung des Saftes wird Sabbat 75a berichtet dass man den Schnecken den Saft ausquetschte, wobei bemerkt wird, dass der Saft einer lebendig zerquetschten Schnecke klarer und werthvoller ist. – Hieraus geht hier dass das talm. חלזון (hilazon) nicht die <<i#Helix Janthina<<… sein kann, denn einerseits gewinnt man den Purpur dieser Schnecke erst, wenn man sie auf glühende Kohlen legt andreseits ist der Saft diese Tieres, so lange es lebt, grün oder weiss; erst wenn es stirbt bekommt es eine schöne Purpur ähnliche Farbe.'”",
+                        "txtTrans": "“About the extraction of the juice, Sabbath 75a reported that the snails were squeezed out of the juice, noting that the juice of a vividly crushed snail is clearer and more valuable. – From this goes here that the talm. snail not the Helix Janthina… because on the one hand you only get the purple of this snail when you put it on glowing coals and on the other hand the juice of this animal, as long as it lives, is green or white; only when it dies does it get a beautiful purple-like color",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "The passage referred to by Lewysohn really requires elucidation.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "…ת״ר הצד חלזון וכו׳ וליחייב נמי משום נתילת נשמה נשמה",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "כל כמה ראית ביה נשמה טפי ניחש ציה כי היכי דליצל צבעיה",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "“… the longer the <<i#hillazon<< retains its life, the better pleased is he who tries to extract its dye for then its pigment will produce a brighter hue.”<<12<< The readings vary between דליצל “in order that it be bright” (or splendid), and דליצלח … “that it be successful.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Dr. L. Germain to whom I forwarded a translation of the above Talmudic statement says in his reply with reference to this point:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Pline et Aristote ont parfaitement raison; les Pourpres et Murex <<i#vivants<< donnent une liquer colorante bien supérieure à celle fournie par les animaux morts.”",
+                        "txtTrans": "Pliny and Aristotle are absolutely right; living Purples and Murex give a much higher coloring lique than that provided by dead animals. “",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "This of course applied to the Talmud as well. The matter, however, is not quite clear to me. Aristotle, who is blindly followed by Pliny, informs us that “those who collect the flower (i.e, dye-secretion) of the <<i#hillazon<< endeavour to bruise them while they are alive, for if they should die before they are bruised they cast out the flower together with their life.”<<13<< Aristotle, it is thus seen, does <<i#not<< really say that the quality of the dye varies according to whether the dye was extracted before or after the animal’s death.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Talmud, on the other hand, states a fact of which apparently no mention is made by Aristotle.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Does the <<i#Janthina<< satisfy Sabbath 75a? Or does the passage in question refer only to the <<i#Argaman<<-species? The first question I must leave for the present unanswered. With regard to the second, I should say that <<i#prime facie<< (based on the first impression) one would be inclined to say that the text has in view both species, but it is really difficult to decide the point.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "With regard to the fastness of the dye of <<i#Janthina<<, Dr. Germain states in one of his replies to me: ",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Nous ne savons rien, actuellement, d’absolument precis en ce qui concerne l’inaltérabilité de la liqueur colorante de la <<i#Janthina<<. Il est cependant extrêmement probable que se colorant possède les mêmes propriétés que celui tiré des Murex et des Buccina.”",
+                        "txtTrans": "“We do not know anything at present about the inalterability of the colouring liquor of Janthina. However, it is extremely likely that its dye has the same properties as that derived from Murex and Buccina.”",
+                        "type": "translation"
+                    }
+                ],
+                "footNotes": [
+                    "Pali, Testacea utriusque Sicilidae (1795), PI. XLIX, fig. 7.",
+                    "Martini, Friedrich, Neues Systematisches Conchyliencabinet, Nürnberg ( 1769-1829), v.III, Table 115, fig. 1064.",
+                    "Adamson, Michel, Histoire Naturelle du Senegal, Coquillages, Paris (1757), p. 106.",
+                    "Pliny, ibid.. Bk. IX, ch. 46: “liquoris hic minimi…”",
+                    "Lewysohn, ibid.",
+                    "Lamarck, Jean Baptiste, <<i#Histoire Naturelle des Animaux sans vertèbres,<< Paris (1822), v.VI, part II, p. 206.",
+                    "Linné, Carl von. Systema Naturae. 13th ed. Wien (1767-70), p. 1246.",
+                    "Thompson, <<i#Ann. Natur. History<< (1846), II, fig. 6.",
+                    "Dictionn. hist, natur (1822), XXIV, p. 156.",
+                    "Lesson, René, “Voyage autour du Monde,יי ZoologieU, Paris (1826), p. 367 “Janthina prolongata.”",
+                    "Lewysohn, ibid., p. 281, Par. 365.",
+                    "Shabbat 75a.",
+                    "Aristotle, Historia Animalium, Bk. V, ch. 15."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131423/HerzogDoctorate/0427100235_pmmgc0.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131315/HerzogDoctorate/0427100236_m3wz69.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131278/HerzogDoctorate/0427100237_advnn9.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131299/HerzogDoctorate/0427100238_yqzcfl.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131316/HerzogDoctorate/0427100239_ohyzfn.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131289/HerzogDoctorate/0427100240_si4k4r.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131277/HerzogDoctorate/0427100241_jbfpiv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131481/HerzogDoctorate/0427100242_ydgqnk.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131401/HerzogDoctorate/0427100243_dvbtlv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131477/HerzogDoctorate/0427100244_zitf38.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131217/HerzogDoctorate/0427100245_thcdbv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131305/HerzogDoctorate/0427100246_nvporv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131284/HerzogDoctorate/0427100247_dpywov.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131374/HerzogDoctorate/0427100248_uahsor.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131287/HerzogDoctorate/0427100249_q7cuni.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131275/HerzogDoctorate/0427100250_rtorcj.jpg"
+                ]
             },
             {
                 "num": "5K",
                 "title": "Description of the Tekhelet-Hillazon in Maimonides’ Code",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Maimonides’ description of the <<i#hillazon<< is noteworthy in itself and also because of its association with a movement for the restoration of <<i#Tekhelet-shel–sisit<< after centuries of desuetude.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "והוא דג<<1<<​ שדומה עינו לעין התכלת ודמו שחור כדיו<<2<< ובים מלח הוא מצוי",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "“It is a species of fish the colour of which resembles that of <<i#Tekhelet<< and its blood is black like ink and it is found in the salt-sea” (i.e., not in sweet water). By the “blood which is like ink,” Maimonides doubtless understands the dye-secretion of the species. Maimonides, it will have been observed, makes no mention of the septuagenarian or septennial “appearance” or “coming up” of the <<i#hillazon<<. His severe critic R. Abraham b. David whose wont it is to challenge the slightest deviation of Maimonides from the Talmud here maintains complete silence. Again the indication concerning the inklike blackness of the “blood” is not traceable, so far as I know, to any traditional source. Here too R. Abraham b. David’s silence is significant. It would seem that in scientific matters Maimonides’ critic fully recognised his (Maimonides’) superiority.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "The Arabic designation for the sea in general: ;אלמלח = ים המלח; אל בחר",
+                    "Maimonides, ibid., hillazon, tzitzit, II, 1."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131239/HerzogDoctorate/0427100251_lkdyg5.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131271/HerzogDoctorate/0427100252_kd0oxj.jpg"
+                ]
             },
             {
                 "num": "5L",
                 "title": "Identification of the Tekhelet-hillazon as Described by Maimonides.",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Michaelis identifies Maimonides’ <<i#hillazon<< with <<i#Sepia loligo<<. <<1<<​ Lewysohn apparently unaware of Michaelis’ attempt explains the description as applying to <<i#Sepia officinalis<<, commenting at the same time very adversely upon Maimonides’ view: the colour obtained with the Sepia secretion is brown or black-brown whereas <<i#Tekhelet<< according to the Talmud was sky-blue; the colour of the shell of <<i#Sepia officinalis<< is white throughout, that of the body is whitish punctuated red.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Thus, says Lewysohn, neither the colour of the dye of <<i#Sepia officinalis<< nor that of its body or shell answers to the identifications given in the Talmud.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“Auch die weitere Angabe Maimunis’, (Also the further indication of Maimonides)’, ” Lewysohn declares,",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“dass das Blut des Tintenfisches schwarz sei, ist ungenau, denn sein Blut ist weiss, und nur im Unterleib befindet sich die mit schwarzer Flüssigkeit angefüllte Blase. – Endlich ist dieser Fisch, obwohl am häufigsten im mittelländischen Meere, doch auch in allen Meeren vorhanden; er ist viel weniger kostbar; es hätte dann Sebulon keinen so werthvollen Meerschatz, wie er im Besitze des חלזון dargestellt wird, besessen.”",
+                        "txtTrans": "“that the blood of the squid is black is inaccurate, because its blood is white, and only in the abdomen is the bladder filled with black liquid. – Finally, this fish, although most common in the Mediterranean seas, but also in all lakes ‘he is much less precious; then Zebulun would not have possessed such a valuable sea treasure as is shown in the possession of the snail.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Anent <<2<< the colour of <<i#Sepia<<, I should mention that the identification with <<i#Sepia loligo<<, adopted by Michaelis, enjoys the advantage of being able to point to Voigt (Mollusken) as the authority for the statement that the animal is “blau rot punktiert (blue red dotted).” In charging Maimonides with exactness for saying דמו שחור וכו׳ “its blood is ink-black” shows clearly that he has misunderstood the codifier’s meaning. In the Talmud as in Maimonides’ code the dye secretion is termed דם “blood.”<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Having identified Maimondes’ <<i#Tekhelet–hillazon<< with <<i#Sepia officinalis<< Lewysohn was fully within his rights when he tried to point out the untenability of what he thought to be the Maimunistic theory, but when, however, he ventured to suggest the source of Maimonides’ “error” he must have forgotten that he was dealing with one of the deepest and most careful thinkers that ever lived.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Alsdann möchte, wie Landau richtig bemerkt eine Lesort in LXX hivizu Veranlassung gegeben haben. Diese übersetzen nämlich B.M. 4:7 תכלת durch oloporhyron d.i. ganz purpurn; eine andere Lesart aber lautete oloporphyron, und allerdings heisst der Saft des Tintenfisches olos.”",
+                        "txtTrans": "“Then, as Landau rightly pointed out, a reading place in LXX hivizu would have given permission. These translate namely B.M. 4: 7 blue by oloporhyron d.i. very purple; another reading but loud oloporphyron, and allerdings means the juice”.",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "One feels almost amused. In the first place it is extremely doubtful whether Maimonides had a first hand acquaintance with the LXX. Granting that he read the LXX in Greek, would he have allowed himself to be guided by a single exception? Would it not occur to him that the Greek text might be corrupt?",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Michaelis, Lexicon, ״תכלת״.",
+                    "(concerning)",
+                    "Cf. Aristotle, Pliny and Vitruvius."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131271/HerzogDoctorate/0427100252_kd0oxj.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131274/HerzogDoctorate/0427100253_wtrxyb.jpg"
+                ]
             },
             {
                 "num": "5M",
                 "title": "G.E. Leiner’s Supposed Rediscovery of the Tekhelet-hillazon in Sepia officinalis.",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "In 1887 R.G.E. Leiner, of whom much will be said afterwards, fired by the ambition of becoming the restorer of <<i#Tekhelet<< published a pamphlet entitled שפוני טמוני חול in which he gave an exposition of the data relating to the identification, suggesting at last that the <<i#Sepia officinalis<< seemed to be the <<i#Tekhelet<<-species. In a booklet פתיל תכלת published shortly afterwards he tried to fortify his position, adducing arguments which he thought were strong enough to disarm all opposition.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "I forbear examining his thesis in detail. Suffice it to say that Leiner started with the wrong assumption that all references to <<i#hillazon<< apply exclusively to the <<i#Tekhelet<<-species.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "One argument in particular which Leiner regarded as irrefutable has not indeed a grain of cogency: (a) R. Nachshon Gaon<<1<<​ in a responsum gives למאסמא (<<i#l’masma<<) as the Arabic equivalent of <<i#Tekhelet<<; (b) in the Hebrew translation of Ibn Sina’s compendium of medicine it is stated that the bone of the hillazon called in Latin למאסיא (<<i#l’masia<<) is used for medicinal purposes; (c) the species so employed is none other than the <<i#Sepia officinalis<< and since <<i#l’masia = l’masma = Tekhelet<< – ergo, the <<i#Sepia officinalis<< is the <<i#Tekhelet<<-species.<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Needles to say למאסיא is not to be transcribed by <<i#l’masia<< but by <<i#limacia<<, plural of limax, snail. למאסמא denotes the colour of the sky, sky-blue.<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Lewysohn states that the <<i#Sepia officinalis<< does not satisfy the condition of similarity of the colour to the sea. Leiner maintains that it does, or in other words, that the colour of the body of <<i#Sepia officinalis<< is essentially blue.<<4<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Dr. Germain may be allowed to decide the question:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Il est impossible d’admettre que la couleur de <<i#Sepia officinalis<< L. satisfasse à la condition de similarité avec la couleur de la mer. Bien que, grace à des organes speciaux, appelés chromatophores et répandu dans presque toute l’étendue de la peau, le <<i#Sepia officinalis<< puisse faire varier, à sa volonte, la couleur de son corps, il ne peut obtenir une couleur générale semblable à celle de la mer; il lui est surtout possible de mimer l’aspect du fond sur lequel il nage ou de simuler avec plus ou moins d’exactitude les rochers ou les algues sur lesquels il se tient en embuscade.”",
+                        "txtTrans": "“It is impossible to accept that the color of Sepia officinalis L. satisfies the condition of similarity with the color of the sea. Although, thanks to special organs, called chromatophores and spread throughout almost the entire extent of the skin, Sepia officinalis can vary, at its will, the color of its body, it can not obtain a general color similar to that of the sea; it is above all possible for him to mimic the appearance of the bottom on which he swims or to simulate with more or less accuracy the rocks or algae on which he stands in ambush.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "The only serious ground for identifying the Maimunistic <<i#hillazon<< with <<i#Sepia officinalis<< is the indication about the ink-like blackness of the dye-secretion. It seems to me, however, highly improbable that Maimonides interpreted the Talmudic description of the <<i#hillazon<< as applying to Sepia. Nor can it be supposed that the great codifier simply followed a tradition recorded in an old source no longer extant. In view of all that has been said, it is clear that <<i#Sepia officinalis<< cannot be the species anciently used for <<i#Tekhelet<< dyeing. Maimondes’ description represents, I think, a combination of the Talmud with Aristotle.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The great codifier would seem to have had no first hand knowledge of the purple-giving species. The indication about the blackness of the dye would seem to be derived from Aristotle.<<5<<",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "עיתור הל, ציצית",
+                    "27 ,לינר פתיל תכלת ע",
+                    "Jepheth the Karaite’s commentary on the Pentateuch, section ש״מ. Ms. copy, Bibliothèque Nationale, Paris: כי תפסיר תכלת קאלקוס אנה איסלון מן מזומן אלצבע והו אלאסממוני",
+                    ".לינר, שם, מבוא",
+                    "Aristotle, <<i#ibid<<.. Bk. V, ch. 15."
+                ],
+                "orgPdfs": [
+                     "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131383/HerzogDoctorate/0427100254_tymlhv.jpg",
+                     "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131484/HerzogDoctorate/0427100255_uduyto.jpg",
+                     "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131216/HerzogDoctorate/0427100256_rtggih.jpg"
+                ]
             },
             {
                 "num": "5N",
                 "title": "The Possibility of Textual Corruption in the Talmudic Description of the Tekhelet-hillazon",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "It is sorely disappointing to be told that the striking researches and discoveries which have thrown so much light on the subject of ancient purple dyeing fail to afford us the key to the solution of the problem presented by the Talmudic description of the <<i#hillazon-shel-Tekhelet<<. The only escape from the difficulty, however, is recourse to textural emendation. Lewysohn identifying the <<i#Tekhelet<<-species with Pliny’s <<i#Purpura<<, which, by the way, he wrongly equates with the <<i#Purpura<< of modern zoology emends גוונו i.e. the colouring matter, for גופו, “the body” in characterisation (a). The correction, besides lacking the support of any authority, is really inadmissible; for גוונו does not mean colouring matter but colour, appearance.<<1<<​ If in the text גוונו would have the same significance as מפו, that is, the colour of its body. Kohut<<2<< entirely misinterprets גופו.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Raphael Rabinowicz<<3<< mentions the omission of גופו in a single manuscript. Working on the basis of the variant reading we might suggest that ( 1 ) the original text read: חלזון רמו דומה לים i.e. its blood is like unto the sea, (2) the omission of דמו was occasioned by the graphic similarity of the two words; (3)גופו was afterwards inserted to complete the sense.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Once we have substituted “damo domeh l’yam” דמו דומה לים “its blood (dye secretion) is like unto the sea” for gupho, etc. … “its body is like unto the sea,” we have thrown the door wide open for the admission of the old favourite Murex trunculus, though (c) at any rate may still occasion some difficulty. Compare Professor Friedlaender<<4<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“… und ein Blick auf die belichteten Drüsen von Murex trunculus zeigt uns man auch, dass das ‘purpurne Meer’ eine dichterische Hyperboi bedeutet.”",
+                        "txtTrans": "“… and a look at the illuminated glands of the Murex trunculus also shows us that the ‘purple sea’ means a poetic hyperbola.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": " But to build a scientific identification on an hypothetical reading based upon the very doubtful authority of a single manuscript is like “trusting on yon cracked reed-staff, which if a man lean on it, will enter into his hand and pierce it.”<<5<<",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "e.g.,.ערובין נ״ה, ע״ב",
+                    "Aruch, Completum, s.v. חלזון",
+                    ".,רביניביץ, רפאל נתן, דקדוקי סופרים. מינכן, תרכ״ח-ע תרנ״ז.(1868—1897) מנחות מ״ד ,א",
+                    "Friedlaender, ibid., p. 7.",
+                    "Isaiah, Ch. XXVI, v.6."
+                ],
+                "orgPdfs": [
+                      "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131216/HerzogDoctorate/0427100256_rtggih.jpg",
+                      "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131247/HerzogDoctorate/0427100257_rnan9v.jpg"
+                ]
             }
         ]
     },
@@ -2219,20 +2753,110 @@
             {
                 "num": "6A",
                 "title": "The Greek Equivalent of Tekhelet and Argaman Respectively in the LXX",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "In the LXX, the oldest Greek translation of the Bible, <<i#Tekhelet<< is rendered by <<i#Iakinthos<<, <<i#Argaman<< by Porphyra. A single exception has been pointed out:<<1<<​ Numbers 4, 7 where <<i#Iakinthos<< represents beged <<i#Tekhelet<< (a garment of <<i#Tekhelet<<) of the Hebrew. On closer examination, however, the discrepancy vanishes altogether. The Greek version obviously reflects a Hebrew original differing from the Masoretic text: <<i#olo<< has nothing corresponding to it in our Hebrew copies. Is it not highly probable that the original lying before the translation had here beged kelil <<i#Argaman<< בגד כליל ארגמן? This is otherwise apparent; for it is scarcely imaginable that the translator engaged upon rendering the highest literary treasure of his nation would work so arbitrarily as to put Porphyros a word used by him several times in this chapter as the Greek equivalent of <<i#Argaman<< for <<i#Tekhelet<<, an expression rendered by <<i#Iakinthos<< throughout the rest of this very chapter. In our Hebrew text, it may be passingly noticed, כליל never occurs in association with ארגמן· In verse 13, where the Septuagint otherwise exhibits traces of a variant original, Imagys oloporphyron stand for our  .בגד ארגמן",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Bochart, Brunius, Gesenius. Wetstein on Pollux VII, XII, Schmidt, Lewysohn Riedel et <<i#alia<<. <<n<< Note the symmetry maintained by the Masoretic text: vv. 5-12 Tekhelet is ordered throughout for the furniture belonging to the Inner-Sanctuary (כלים שבפנים) <<i#Kelil Tekhelet<< (כליל תכלת) being assigned to the Holy Ark as the object of the highest veneration: vv. 13-14 <<i#Argaman<< is prescribed for the appurtenance of the Outer-Sanctuary (כלים שבחוץ)."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131212/HerzogDoctorate/0427100258_c70ldl.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131247/HerzogDoctorate/0427100259_ylfiue.jpg"
+                ]
             },
             {
                 "num": "6B",
                 "title": "The Greek Equivalents of Tekhelet and Argaman Respectively in Aquilas, Symmachus and Theodotion",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Aquilas, Symmachus and Theodotion follow the LXX",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Aquilas: Exodus, 35, 23, 25; Ezekiel, 27, 24.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Symmachus: Ex. 35, 23 (Ezek. 23, 6 תכלית = תכלת)",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Theodotion: Ex. 28,6; 35,23; Jer. 10,9 (Ezek. 23,6 תכלית for תכלת as Symmachus).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Aruch s.v. איירינון quotes Midrash Rabbah Esther I, 6",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "חור כרפס ותכלת תרגם עקילס איירינון קרפסיגון טיגון",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "Benjamin Musaphia (ib.) observes that טיגון <<i#tinon<< must be a corruption of יקיגטיגון = Iakinthinon. Sachs<<1<<​ next suggests that the correct reading is ינטינון Ianthinon. The corruption of ינטינון Ianthinon into טיגון being more likely than that of יקיגטינון Iakinthinon into טיגון. Were we to admit the correctness of Sachs’ emendation we would have to cast about for an explanation why in Esther I, 6 Aquilas rendered <<i#Tekhelet<< by Ianthina. Were Iakinthina and Ianthina synonymous in contemporary usage?<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Midrashic passage is, however, not quoted in full in the Aruch. The complete text reads:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "חור כרפס תכלת תרגם עקילם אייריון קרפסינון ר׳ ביבי אמר טינון וכו׳",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "1. Bibi evidently does not intend טינון (tinon) as a rendering of <<i#Tekhelet<<, nowhere in Talmudic, Midrashic or Targumic literature is <<i#Tekhelet<< represented otherwise than by tekelta, or tikla - תכלא ,תכלתא: there could have been no occasion for citing Aquilas in explanation of so ordinary a word: if indeed recourse to Aquilas were necessary, it would hardly have been deferred in the Midrash until Esther I, 6 was reached. Again <<i#Tekhelet-shel-tzitzit<< being still in vogue, the meaning of the word must have been clear to everybody in R. Bibi’s time.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In all probability therefore טינון is given as an alternative rendering to that of Aquilas for either חור or כרפס. From the context it is clear, I think, that טינון = Thinon refers to חור. It is probably a corruption of אטוגון = Othonion.<<3<<",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Sachs, Michael, <<i#Beiträge<<. Berlin (1852), p. 131.",
+                    "The LXX, on the other hand, with its Olorporphyron in v.7, disturbs the harmony.",
+                    "Fine muslin-like linen. Cf. Proverbs, VII: אסון מצרים"
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131276/HerzogDoctorate/0427100260_qoeooh.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131370/HerzogDoctorate/0427100261_n4ly12.jpg"
+                ]
             },
             {
                 "num": "6C",
                 "title": "Iakinthos – Tekhelet, Fabric, Stone or Flower?",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Iakinthos as the Traditional Rendering of Tekhelet",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "Thus a chain of tradition extending from the LXX (not later than 250 B.C.) to Aquilas (about 100 C.E. ) attests the equivalence of Iakinthos for Tekhelet in the language of the Greek-speaking Jews. The testimony of Aquilas is of especial significance in view of the fact that his translation far from being based upon the LXX was in reality the outcome of an anti-Septuagint movement inspired by the highest representatives of tradition.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Iakinthos as the Name of a Certain Colored Fabric",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "<<i#Iakinthos<< as the name of a coloured fabric is rarely met with in Greek literature. Homer only refers to the flower called",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "υάκινθος: ουλας ηκε κομας, ύακινθίνω ανθει ομοιασ.",
+                        "txtOrg": "Yakinthos: oulas ike komas, ýakinthíno anthei omoias.",
+                        "txtTrans": "Hyacinth: she [Athene] made the locks flow in curls like the hyacinth flower. <<1<<",
+                        "type": "tripleTranslation"
+                    }
+                ],
+                "footNotes": [],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131370/HerzogDoctorate/0427100261_n4ly12.jpg"
+                ]
             },
             {
                 "num": "6D",
