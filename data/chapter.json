@@ -2701,9 +2701,9 @@
                     "Aristotle, <<i#ibid<<.. Bk. V, ch. 15."
                 ],
                 "orgPdfs": [
-                     "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131383/HerzogDoctorate/0427100254_tymlhv.jpg",
-                     "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131484/HerzogDoctorate/0427100255_uduyto.jpg",
-                     "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131216/HerzogDoctorate/0427100256_rtggih.jpg"
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131383/HerzogDoctorate/0427100254_tymlhv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131484/HerzogDoctorate/0427100255_uduyto.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131216/HerzogDoctorate/0427100256_rtggih.jpg"
                 ]
             },
             {
@@ -2740,8 +2740,8 @@
                     "Isaiah, Ch. XXVI, v.6."
                 ],
                 "orgPdfs": [
-                      "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131216/HerzogDoctorate/0427100256_rtggih.jpg",
-                      "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131247/HerzogDoctorate/0427100257_rnan9v.jpg"
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131216/HerzogDoctorate/0427100256_rtggih.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131247/HerzogDoctorate/0427100257_rnan9v.jpg"
                 ]
             }
         ]
@@ -2851,18 +2851,435 @@
                         "txtOrg": "Yakinthos: oulas ike komas, ýakinthíno anthei omoias.",
                         "txtTrans": "Hyacinth: she [Athene] made the locks flow in curls like the hyacinth flower. <<1<<",
                         "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "Xenophon, so far as I have been able to trace, contains the earliest known allusion to <<i#Iakinthos<< as a color designation; “Loron Iakinthibary,” 6.4. The LXX would seem to be the oldest extant witness for the use <<i#Iakinthos<< as a term designating a certain coloured fabric.<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The translators of the Pentateuch must have found <<i#Iakinthos<< already in current usage as the Greek name for the fabric called <<i#Tekhelet<< in Hebrew.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Iakinthos as the Name of a Certain Stone",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "It is by no means easy to ascertain the precise meaning of <<i#“Iakinthos”<< as a colour designation. The word occurs:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": [
+                            " – as the name of the flower;",
+                            " – as that of a precious stone."
+                        ],
+                        "type": "list"
+                    },
+                    {
+                        "txt": "There seems to have been a variety of gems known by that name. In Pliny’s terminology the word seems to designate a violet-coloured precious stone closely akin to the pure violet stone, amethyst, still known by that name<<3<< but paler in shade than the latter.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Ille emicans in amethysto color violaceus dilutus est in hyacintho.”",
+                        "txtTrans": "that sparkling in amethyst violet is diluted in blue",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "On the other hand, there is evidence for a deep blue or a deep blue violet very closely bordering on blue being called Iankinthos:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“visio tharsis quae nos in mare vertimus Aquilas hyacinthum posuit qui lapis coeli habet similitudinem.”",
+                        "txtTrans": "“In the vision of Tharsis, as we turn into the sea he placed blue eagles  the stone of heaven has a likeness.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Abrosius is more explicit:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“hyacinthus cujus species hyacinthino colori nomen imposiut pretiosissimus est coeli sereni colorem habens siccut sapphirus.”<<4<<",
+                        "txtTrans": "“hyacinth, whose name is the most precious color in the color of blue, having the color of the clear sky like sapphire”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Solin (Collectanea ed. Momeen 1864, p. 152) says of the hyacinth:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Inter ea quae diximus nitore caeruleo, hyacinthus invenitur lapis pretiosus siquidem inculpabilis invenitur.”<<5<<",
+                        "txtTrans": "“Among those things which we have mentioned are the blue glitter, the precious stone is found blue, indeed it is found to be blameless.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "He thus emphasizes its blueness. Hieronymus also compares its colour to that of the ocean (“pelagi color”).<<6<< It is sometimes described as hyacinthus (Mely, V.I., p. 156.). Epiphanius enumerates several varieties of hyacinthus, one being the thalassitous (of the colour of the sea). While from the other church fathers, especially from Ambrosius, we should infer no other nuance for the hyacinth than that of deep dark blue (“Coeli sereni”).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Epiphanius would seem to ascribe to it a reflex of violet or violet red.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "εοικε δε υάκινθος τη ερεα υποπορφυριζων ποσως",
+                        "txtOrg": "eoike de yákinthos ti erea ypoporfyrizon posos.<<7<<",
+                        "txtTrans": "But it seems the hyacinth of wool is very slightly purple",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "The correct interpretation of the epithets derived from <<i#Iakinthos<< in the various connections in which these occur is a task often fraught with serious difficulty.<<8<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Mr. F. de Mely<<9<< says the hyacinth according to Ephiphanius is like “au ciel pur un peu pourpre (in the pure sky a little purple),” doubtless understanding by the last word a violet or violet red colour. I am not quite sure that this is necessarily what the patristic writer had in mind. Epiphanius says of the sapphire:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“σάπφειρος πορφυρίζων, ὡς βλάττης πορφύρας τῆς μελαίνης τὸ εἶδος.”",
+                        "txtOrg": "“Sappheiros porphyrizon os blattys porphyros tys elainys to eidos.“",
+                        "txtTrans": "“The sapphire is purplish, as the image of a dark purple dye.“",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "Did Epiphanius class under the sapphire-genus a predominant number of violets? Epiphanius further says:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“ἔστι γὰρ ὁ βασιλικός, χρυσοστιγής· οὐ πάνυ δὲ οὗτος θαυμαζόμενος ὡς ὁ διόλου πορφυρίζων.”",
+                        "txtOrg": "“Hrusosigys on panu dé ontos thaumazomenos, os ô diolon porphyrizon.”",
+                        "txtTrans": "“There is also the ‘Basilikos ’, that is golden <<10<<. This one is certainly not that admired as the one that is completely purple.”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "Here he is plainly referring to the mineral now called lapis lazuli. He attributes greater beauty to another variety which is thoroughly “purple-like,” implying however that the lapis lazuli is also covered by porphyrizon though to a small extent. Did Epiphanius’ vision discern a reflex of violet in the lapis lazuli?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It may perhaps be that porphyrizon simply means that in the gem is reproduced the exact nuance of a certain well-known variety of purple fabric.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "M. de Mely states that in Arabic mineralogy the hyacinth is divided into four species:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": [
+                            "1. le madzanabi, rouge clair;",
+                            "2. le benefes, limpide, à nuance très foncée;",
+                            "3. l’assiad-sisat, d’une couleur jaune franche;",
+                            "4. le violacé noir avec une légère teinte superficielle rouge chatoyant en bleu faible."
+                        ],
+                        "txtTrans": [
+                            "1. the “madzanabi,” light red;",
+                            "2. the “benefes,” clear, with a very dark shade;",
+                            "3. “assiad-sisat,” a distinct yellow color;",
+                            "4. purplish black with a slight surface tint of shimmering red to faint blue."
+                        ],
+                        "type": "translationList"
+                    },
+                    {
+                        "txt": "M. de Mely holds that it is to this last species that the early Christian writers refer, when in speaking of the hyacinth, they emphasize its resemblance to the colour of the sky or of the sea or otherwise allude to its blueness. I do not feel quite sure about the correctness of M. de Mely’s view.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The minéralogie literature of the Arabs is too far removed from the patristic authors to be applied without further ado to the illustration of the minéralogie references occurring in the latter.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "We have seen that the hyacinth of Hieronymus and Ambrosius cannot be identifiedwith that of Pliny, an author with whom the former writers certainly had closer affinities than the Arabic mineralogists had with them.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Benjamin Musaphia (died 1767) in a note on the Aruch s.v.יקינט (=Iakinthos) makes the following statement:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "אמר בנימין פ׳ בלשון יוני ורומי מין אבן טובה ירוקה ובתוכה פעמים כמו עפרות זהב ועוד בשם זה נקרא פרח אשר לו גוון תכלת",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "This identification by Musaphia of the hyacinth (Iakinthos) with the lapis lazuli is certainly based upon data supplied by ancient Greek or Latin authors.<<11<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The information derived from the above authors hardly places us in a position to ascertain the exact meaning of <<i#Iakinthos<< as a colour designation. On the ground of Pliny’s description of the nuance of the gem, we should conclude that hyacinthus denoted a violet akin to that of the amethyst but of a paler shade. The evidence from the church fathers warrants the conclusion that the expression designated an intense dark blue or a deep violet not easily distinguishable from deep blue.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Taking into consideration the fact that the Christian Bible commentators wrote of the gem called hyacinth with the full consciousness of what the word stood for in the Septuagint, while in Pliny nowhere is made mention of a coloured fabric of that designation, we are, I think, fairly entitled to decide that the indications afforded by the former rather than those furnished by Pliny are to be viewed as giving the right key to the solution of our problem. It is worth mentioning that Hieronymus, living in Judaea and studying under Jewish masters, must have had a visual acquaintance with <<i#Tekhelet<< or hyacinthus for in his days<<12<< <<i#Tekhelet shel tzitzit<< was still in practice.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Ambrosius in particular who defines the colour of the gem as that of the serene sky (i.e., a deep dark blue closely bordering on black) expressly states that the fabric borrowed its name from the precious stone. This statement may merely represent his personal opinion but it is of extreme importance for the determination of the colour of <<i#Tekhelet<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is, as Franz Delitzsch says<<13<< doubtful whether it was the stone or the flower that gave the hyacinth fabric its name. Ambrosius’ authority can scarcely be appealed to in this connection as we do not know from what source he derived the assertion just quoted. The fact, however, that <<i#Iakinthos<< does not occur in minéralogie literature earlier than Pliny<<14<< tends, I think, in favour of the latter alternative. Would a gem to which one of the purple varieties best known in antiquity owed its appellation fail to find its way into the catalogues of precious stones? Epiphanius indeed expresses surprise at the omission of the hyacinth from the list of gems ordered for the High Priest’s breast-plate.<<15<< It is not improbable that the reverse was the case: the fabric gave the name to the stone. We cannot, however, advance in this connection beyond the region of hypothesis.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "<<i#Iakinthos as the Name of a Certain Flower.<<",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "It is just as hard if not indeed harder to ascertain the colour of the flower anciently termed hyacinthus.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It might be thought that it is scarcely correct to speak of the colour of the hyacinth,for may not the name in antiquity have been a generic one covering a number of varieties exhibiting all sorts of colours and shades?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "If indeed it were proved that the hyacinth fabric derived its name from the flower, the objection would be of course utterly worthless. But this is at least dubious. Homer, however, compares the colour of hair to the hyacinth flower, indicating that he has in view a particular variety of a definite colour. As, however, it is simply impossible for us at this time of the day to ascertain the colour of that lady’s hair of whom the wonderful bard sang:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“οὔλας ἧκε κὄμας, ὑακινθίνῳ ἄνθει ὁμοίας.”",
+                        "txtOrg": "“Oilas ake komas, iakinthino anthei omoias.”",
+                        "txtTrans": "“she made the locks flow in curls like the hyacinth flower.”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "this indication alone would hardly carry us far on the way. Applying, however, the results obtained from the study of hyacinth as the name of a gem we should say that Homer refers to deep black hair, thus emphasizing the depth of shade of the hyacinth colour.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Similarly Theocritus<<16<< describes the hyacinth as black, meaning very dark coloured. Philostrates also accentuates the intense darkness of the colour of the hyacinth:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“τὴν πανοπλίαν. ὑάκινθος μὲν οὖν λευκῷ μειρακίῳ πρέπει, etc.”",
+                        "txtOrg": "“Iakinthos men oun leuko meirakio prepei kai narkissos melani.”<<17<<",
+                        "txtTrans": "“For the hyacinth befits a young white boy, etc.”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "On the other hand, the hyacinth is sometimes spoken of in Greek literature as “kuaneos” (blue). Compare Columella “et caeruleus hyacinthos.” Guided by the combination of this indication with the allusions to the darkness (“blackness”) of the colour of the hyacinth we should come to the conclusion that the hyacinth of the ancient Greeks was a flower of a deep dark blue colour. The well-known Greek legend centering around the hyacinth would seem to refer to the violet-blue larkspur or to a species of iris.<<18<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Vergil and Pliny describe the hyacinth as red. A recent writer, Joseph Bergel,<<19<< misled by the references of these authors, even ventures so far as to convict the Talmudists of error in having defined <<i#Tekhelet<< as resembling the colour of the sky.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "I may quote here the statements of Dr. Ed. Bonnet of the Museum National d’Histoire Naturelle, Section de Botanique, in reply to a query I had addressed to him on the subject:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Le <<i#“Iakinthos”<< de Theophraste et de Dioscoride … d’après la figure du MS. grec de la Bible Nat. de Paris et de celle du Codex Coxerus de Vienne, c’est soit le Hyacinthus seriotireus Forg. X., soit le Hyacinthus orientalis L., le premier a les fleurs variées de verdâtre et de brunrougeâtre, le second a les fleurs bleues. Sous le nom d’hyacinthus, Vergile a confondu plusieurs plantes.”",
+                        "txtTrans": "“The “Iakinthos” of Theophrastus and Dioscorides … according to the figure of the MS. Greek from the Bible Nat. of Paris and that of the Codex Coxerus of Vienna, it is either the Hyacinthus seriotireus Forg. X., or Hyacinthus orientalis L., the former has various greenish and reddish-brown flowers, the latter has blue flowers. Under the name of hyacinthus, Vergile confused several plants.“",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "<<i#Tekhelet<<, whatever its exact nuance, was not of the colour of the former plant of which Dr. Bonnet speaks; Hyacinthus as a colour designation of the fabric so rendered by the Greek version must therefore have been related to the latter species of flower which is blue. The <<i#Hyacinthus orientalis<< is described in standard authors as <<i#“intense caeruleus.”<< Pliny in describing the hyacinth as red refers either to a certain variety of Hy. orientalis, or to some other member of the genus Hyacinthus.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The hyacinth is however referred to in Dioscorides as: “Pleré porphyroeidous.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Hartmann<<20<< gives several quotations from Greek poets in which the epithet “porphyreos” (purple-like) is applied to the flower.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is partly on the ground of these allusions to the colour of the flower and of the indications found in Pliny and in Vergil that Hartmann comes to the conclusion that the:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“hyacinth” – “Farbe durchaus nicht blau sondern mehr ins rote spielend purpurblau dunkel rot blau violett gewesen sei.”<<21<<",
+                        "txtTrans": "“hyacinth” – “Color was by no means blue but more in the red playful purple blue dark red blue violet.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "He is followed by De Wette, Winner, Gesenius and Knobel who render <<i#Tekhelet<< by “violette Purpur.” Hartmann’s theory does not indeed rest on sure foundations. The allusions to a purple-like nuance may refer to certain varieties of hyacinth of a violet purpuric shade of colour: they do not necessarily describe the colour of the particular species after which the hyacinth was named.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Again, leaving out Pliny and Vergil, the epithet “purple” as applied in the Greek poets to the hyacinth may simply mean that the flower presents a colour recalling that of a well-known principal variety of purple fabric (hyacinth, <<i#Tekhelet<<).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Thus the red-bill (Poule Sultane) was called by the Greeks (“Porphyrion”) on account of its colour.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Aristotle describes it as of a blue colour. There is, however, no need to go to Aristotle for the determination of the bird’s colour. Purple dyeing has long died but Nature continues to live.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Poule Sultane ou Talève, Porphyrio, genre d’oiseaux de l’ordre des Echassiers Macrodactyles… leur plumage est, sur les joues, sur la gorge, sur le devant et les côtés du cou d’un bleu turquoise très pur; sur l’occiput, la nuque, les cuisses et l’abdomen, d’un bleu indigo très foncé; sur la poitrine, le dos, les ailes et la queue d’un bleu indigo éclatant.”<<22<<",
+                        "txtTrans": "“Poule Sultane or Talève, Porphyrio, genus of birds of the order Echassiers Macrodactyles… their plumage is, on the cheeks, on the throat, on the front and on the sides of the neck of a very pure turquoise blue; on the occiput, nape, thighs and abdomen, very dark indigo blue; on the chest, back, wings and tail of a bright indigo blue.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "The red-bill clearly owed its name to its resemblance to the colour of a certain variety of purple.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The argument from Dioscorides, however, makes one pause a little and think. If, as Dr. Bonnet holds, that author, in speaking of the hyacinth, has only two species in mind, one being the Hy. orientalis, to which species is <<i#“plere Porphyroeidous“<< meant to apply? To the one the flowers of which present a variation of reddish brown? Or is it to the deep-blue Hy. orientalis? Did Dioscorides simply mean that the hyacinth flower recalls that of a certain chief variety of purple fabric?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Assuming now that the references in the Greek writers (Homer, Theocritus, Philostratos etc.) to the darkness of the hyacinth, to its blueness and to its purple-like colour, all apply to one and the same species we should not hesitate to identify the plant with the Hyacinthus orientalis Linné. The flowers of that species would then afford us a fair idea of what the <<i#Tekhelet<< colour was like, if the fabric owed its name to the plant.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "As, however, the underlying bases of the conclusion so reached cannot be described as more than hypothetical they hardly furnish a solid foundation for the solution of our problem and further research is necessary.",
+                        "type": "regular"
                     }
                 ],
-                "footNotes": [],
+                "footNotes": [
+                    "<<l#https://www.loebclassics.com/view/homer-odyssey/1919/pb_LCL105.395.xml<<",
+                    "However, in Arrian’s description of Cyrus’ tomb at Psargadae: “Én de tou ékeinto ai dé oikumati… kai stolai Jakinthobareis legei oti ékeito, ai dé Porphyras ai dé alius chroas kte.” () These statements are made upon the authority of Aristobulos, a constant attendant of Alexander the Great. The use of “iakinthos” as the designation of a certain coloured fabric is thus traceable to about the end of the 4th century B.C.",
+                    "Pliny, Hist. Nat., XXXVII, ch. 9. For an exact reproduction of the nuance see: Mely, F. d., “Pierres Precieusesin: Vigoreux, Fulcran, Diet, de la Bible, Paris (1912).",
+                    "Ambrosius, <<i#Apologia<<, Bk. XXI, ch. 30.",
+                    "Solinus, Cains Julius, <<i#Collectanea rerum<<. Ed. Mommsen, Berlin (1864), p. 152.",
+                    "Hieronymus, Cf. Michael Psillus: “<<i#Iakinthos<< … esti blattys Porphyos elainys to eidos. Mely, <<i#ibid<<.",
+                    "Epiphanius, “De Gemmis,” Bk. XII, ch. VI. Mely, <<i#ibid<<. The text is corrected by de Mely.",
+                    "Bluemner, <<i#ibid<<.",
+                    "Mely, “Hyacinth,” Vigoreux, <<i#ibid<<.",
+                    "The literal translation of this word is “kingly” or “royal”, but it can also refer to the origin of the stone. There are at least two attestations of “βασιλικός” meaning “from Persia” (Amphis 27.3, Dsc.1.125) and at least one meaning “from Ethiopia” (Dsc.3.62).",
+                    "The hyacinth of the Midrashists is however not to be identified with <<i#lapis lazuli<<. Compare Midrash Rabbah Exodus, section 38. with <<i#ib<<. Musbara, section 2.",
+                    "Hieronymus died in 420.",
+                    "Delitzsch, Franz, <<i#Iris<<, p. 63.",
+                    "See: P. de Mely, “Hyacinth,” in Vigoureux, <<i#Diet, de la Bible<<, and idem, <<i#Lapidaire Grec<<, Paris ( 1897), p. 196.",
+                    "Mely, “Hyacinth,” Vigoreux, <<i#ibid<<. - Mely, <<i#Sapidaire<<, p. 196.",
+                    "Theocritus, <<i#The Idyll<<, Oxford (1866), Bk. X, ch. 28.",
+                    "Philostrates, <<i#Epistolae<<, epistle III.",
+                    "<<i#Eneyel. Brit<<. 11th ed., “Hyacinth”.",
+                    "Bergel, Joseph, <<i#Studien<<, Leipzig (1880), p. 49.",
+                    "Hartmann, Anton, <<i#Die Hebraenm beim Putztische<<, Amsterdam ( 1809-10), V. I, p. 574; v.II, p. 128.",
+                    "Baehr, <<i#ibid<<.",
+                    "Bouillet, Jean Baptiste, “Poule,” <<i#Diet, de Sciences<<."
+                ],
                 "orgPdfs": [
-                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131370/HerzogDoctorate/0427100261_n4ly12.jpg"
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131459/HerzogDoctorate/0427100262_v1qvvd.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131282/HerzogDoctorate/0427100263_nhkins.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131215/HerzogDoctorate/0427100264_j4fmdo.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131426/HerzogDoctorate/0427100265_vebig3.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131372/HerzogDoctorate/0427100266_vqogxq.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131272/HerzogDoctorate/0427100267_uzaugv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131242/HerzogDoctorate/0427100268_kqp6qr.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131233/HerzogDoctorate/0427100269_njy4ru.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131234/HerzogDoctorate/0427100270_beejvl.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131238/HerzogDoctorate/0427100271_xj4xye.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131280/HerzogDoctorate/0427100272_obspkv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131363/HerzogDoctorate/0427100273_ctmt9c.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131448/HerzogDoctorate/0427100274_qgxa1m.jpg"
                 ]
             },
             {
                 "num": "6D",
                 "title": "Data Supplied by Pliny Concerning the Varieties of Purple Fabric in as far as These Have a Bearing Upon the Determination of the Colour of Tekhelet.",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Pliny is our chief source of information on the ancient purple and its varieties. We naturally turn to him for light on hyacinthus. In the 9th book that author gives a scarcely full account of purple dyeing. He names only two sorts of purple, <<i#Purpura<< Tyria or dibapha and <<i#Purpura<< amethystina, describing the latter as “color eximius ille.” In another passage he divides purple into three varieties. Commenting upon the imitation of the colours of flowers by means of certain pigments he says:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Et de odoratis floribus satis dictum: in quibus unguento ricisse naturam gaudens luxuria, vestibus quoque purocarit eos flores qui colore commendantur. Has animadverto tres esse principales. Rubentem, in coco: qui a rosis migrante gratia idem trahitur suspectu, et in <<i#Purpuras<< Tyrias, dibaphasque a c. Laconicas. Alium in amethysto, quia viola, et ipse in purpureum, quemque ianthinum appellarimus. Genera enim tractamus in species mutas sese spargentia. Tertium est qui proprie conchylii intelligitur, multis modis, alius in heliotropio, ad <<i#Purpuram<< inclinans: alius in viola serotina conchyliorum vegetissimus.” <<1<<",
+                        "txtTrans": "“Enough  has  been  said  about  scented  flowers. In  this  sphere  luxury,  glad  to  have  conquered  nature with  its  unguents,  has  with  its  dyed  fabrics  gone  on to  challenge  those  flowers  that  are  commended  for their  colour.  I  note  that  the  principal  colours  are the  three  following  :  (1)  red,  as  of  the  kermes-insect, which,  from  the  loveliness  of  the  dark  rose,  shades,  if you  look  up  at  it  in  a  bright  light,*  into  Tyrian purple,  double-dyed  purple  and  Laconian  purple ; (2)  amethyst,  which  from  violet  itself  passes  into purple,  and  which  I  have  called  ianthine.  I  am  dis- cussing  general  types  of  colour,  which  shade  off  into many  kinds.  (3)  The  third  belongs  properly  to  the purple  of  the  murex,  but  includes  many  kindred shades.  One  is  the  colour  of  the  heliotrope,  some- times  of  a  light,  though  usually  of  a  deeper,  tint ; another  is  that  of  the  mallow,  shading  into  a  purple ; vet  a  third,  seen  in  the  late  violet,  is  the  most  vivid  of the  murex  tints.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "In the same book Pliny in dealing with a certain species of Viola which he qualifies as “purplish” (purpurea) he remarks “ab his ianthina vestis (from these Janthina clothes).” <<2<< The species in question has been identified with the Viola odorata Linné. Nature has thus preserved for us an illustration of the colour of the <<i#Purpura<< ianthina. W. Adolf Schmidt<<3<< comes to the conclusion that amethystina, ianthina, and hyacinthina are synonyms denoting one and the same purple-variety. The identification of ianthina with amethystina is based upon Pliny 21, 8, just quoted (“et ipse in purpurum quemque ianthinum appelarimus”). The equation of hyacinth with the two is founded upon the following reasoning: Pliny and Vergil emphasize the blackness or darkness of shade of the violet purple (<<i#Purpura<< violacea). Philo qualifies the hyacinth purple as black or dark: <<i#Purpura<< hyacinthina is the same as P. amesthystina or ianthina. Another argument is derived from the fact that the <<i#Purpura<< violacea is classed as <<i#Purpura<< blatta or pure purple unmixed with other materials. Now the Lex Valentina<<4<< divides <<i#Purpura<< blatta into two classes (a) oxyblatta; and (b) hyacinthina. Oxyblatta, as is shown by Schmidt being identical with the <<i#Purpura<< Tyria, hyacinthina must be identical with the <<i#Purpura<< violacea, ergo, etc. … Dr. Dedekind accepts these equations. <<i#Tekhelet<< would thus be violet purple of the colour of the Viola odorata L. Dr. Dedekind, however, in subscribing on the one hand to the equations established by Schmidt and in maintaining on the other that the species furnishing <<i#Tekhelet<< must be identified with Murex trunculus is somewhat inconsistent. The amethyst or ianthina colour as described by Pliny, was the result of a mixture in certain proportions of the dyestuffs obtained from two different species, the one furnishing black and the other red pigment. It is precisely this fact which at once cuts away the ground from under the attempted identification of <<i#Tekhelet<< as handed down by Talmudic tradition with Pliny’s <<i#Purpura<< amesthystina or ianthina. <<i#Tekhelet<< according to the Talmud was dyed with the pigment of one particular species of which a description is given Menahot 44a. Schmidt being unacquainted with the Talmud was not aware of this fatal objection. On quite different grounds, however, Schmidt reaches a certain conclusion which if applied here might save his position. Having learnt from Bochart that according to Maimonides the colour of <<i#Tekhelet<< was sky-blue, (not violet or amethyst-like) he draws a distinction between the Tekhelet of the LXX, and Philo and that of Maimonides.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "After the promulgation of the imperial decrees placing heavy restrictions upon the manufacture and use of both the <<i#Purpura<< Tyria and <<i#Purpura<< amethystina, the Jews, so Schmidt thinks, had perforce to replace the traditional <<i#Tekhelet<< by a variety of the <<i#Purpura<< conchyliata, the latter not falling within the scope of the imperial legislation respecting purple. He accordingly identifies Maimonides’ <<i#Tekhelet<< with the heliotrope variety of conchylium. Now, as the <<i#Purpura<< conchyliata, according to Pliny, was dyed with only black purple pigment Schmidt might have met the argument from the Talmudic description of the <<i#Tekhelet hillazon<< by the assumption that already in early Talmudic times <<i#Tekhelet<< was a kind of <<i#Purpura<< conchyliata. It is, however, rather unlikely that such an important change in the manufacture of ritual <<i#Tekhelet<< took place in Tanaitic times. If that were the case would not Talmudic tradition have preserved some reminiscence of an alteration made in the ritual under the force of imperial persecution?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In view of Schmidt’s identification of <<i#Iakinthos<< (Hyacinth purple) with <<i#Purpura<< amethystina and ianthina it strikes one as very strange that the Greek versions never render <<i#Tekhelet<< by any of these latter terms but always <<i#Iakinthos<<. Pliny on the other hand never mentions <<i#Purpura<< hyacinthina. This too is a fact which is hardly without significance. Was the hyacinth purple only one out of several species comprised in the designation <<i#Purpura<< amethystina or ianthina:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Genera enim tractamus in species multas sese spargentia.”",
+                        "txtTrans": "“I  am  discussing  general  types  of  colour,  which  shade  off  into many  kinds.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "I should remark in the first place that ianthina does not seem to me synonymous with amethystina. Amethystina is the generic name denoting varieties of purple more or less reproducing the colour of the amethyst gem. Compare Pliny:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“amethysti Indicae … pelucent omnes violaceo colore … Indicae absolutum felicis <<i#Purpurae<< colorem habent, ad hancque tingentium officinae dirigent vota.”<<5<<",
+                        "txtTrans": "“India Amethysts … all shine through violet colors… The Indian amethyst has the perfect shade of Tyrian purple at its best, and it is this stone that the dye-factories aspire to emulate.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Ianthina, on the other hand, is the designation of a certain species of P. amethystina. This is, I think, what Pliny means when he says:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“et ipse in purpureum, quemque ianthinum appelarimus. Genera enim tractamus in species multas sese spargentia.”",
+                        "txtTrans": "“Amethyst, which from violet itself passes into purple, and which I have called ianthine. I am discussing general types of colour, which shade off into many kinds.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "<<i#Purpura<< amethystina, it may also be noted, occurs far more frequently than ianthina.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "That <<i#Iakinthos<< (hyacinth purple) was not synonymous with ianthina (ianthina purple) in Ephesian usage, can be shown to be so earlier than Diogenes Laertus can, I think, by an argument amounting to proof. Athenaeus quotes from Democritus Ephesius<<6<< certain observations upon the extravagance of the Ephesians in matters of dress:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“Καὶ καλασίρεις Κορινθιουργεῖς· εἰσὶ δὲ αἱ μὲν πορφυραῖ τούτων, αἱ δὲ ἰοβαφεῖς, αἱ δὲ ὑακίνθιναι.”",
+                        "txtOrg": "“Kai kalasires kalinthiourgeis eisi de ai mén porphyrai touton ai de iobareis ai de iakinthinai.”<<7<<",
+                        "txtTrans": "“And then there are Corinthian garments. Some of them are purple, some of them are violet coloured and some of them are hyacinthine.”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "Ianthina and hyacinthina are plainly distinguished. Amethystina as the name of a coloured fabric, so far as I know, nowhere occurs in Greek literature.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Aquilas<<8<< again may be cited as testifying that <<i#ianthinos<< and <<i#hyacinthios<< were held distinct at least in Asiatic Greek usage about 100 C E. עורות תחשים (<<i#orot-tehashim<<) which is rendered in the LXX by D. <<i#iakinthina<< is translated by Aquilas D. ianthina. The reason for this departure from the old version is quite unknown but it shows clearly that there was a difference between ianthinos and iakintos.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The colour of the ianthina is sometimes described as black which indicates a deep dark hue; it is also sometimes likened to that of the sea.<<9<< Now as the colour of the hyacinth fabric (<<i#Tekhelet<<) is, as will be seen later, similarly described on the one hand as black and on the other as resembling the colour of the sea, it would appear that the resemblance was greater than the difference between the two varieties of purple. Hieronymus in fact states that both ianthina and hyacinthus resembled the dark blue of the sky.",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“Calceavi te hyacintho vel ut alii janthina… quod utrumque aerii et κυανέου coloris est.”",
+                        "txtOrg": "“<<i#Calceavite hyacintho<< vel ut alii janthina … quod utrumque aerii et kuxneon coloris est, etc…“<<10<<",
+                        "txtTrans": "“I provided you shoes of hyacinth, or of janthine, as others call it… for it is both of bluish and dark blue color.”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "The difference must have consisted, I should think, in the greater blueness of the hyacinth variety, or what amounts to the same, in its being closer than the ianthina purple to the deep dark blue of the serene Asiatic sky or of the Mediterranean along the Syrian and Palestinian coasts.<<11<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It would appear that, while in the preparation of ianthina the black purple-pigment was mixed in a certain proportion with the red dye of the buccinum, in the manufacture of hyacinthus black dye alone (from the <<i#Purpura<< or pelagia) was employed. It is to this that the difference may have been due. This is sustained by the Talmudic tradition which knows only of one species of mollusc as used in the dyeing of <<i#Tekhelet<<.",
+                        "type": "regular"
+                    }
+                    
+                ],
+                "footNotes": [
+                    "Pliny, <<i#ibid<<.. Bk. XXI, ch. 8.",
+                    "Idem, ch. 6.",
+                    "Schmidt, ibid., p. 28.",
+                    "Lex Valentina, c. 3, 4. 40: “Quae tes venite.”",
+                    "Pliny, ibid.. Bk. XXXVII, ch. 9.",
+                    "Democritus Ephesius is the author of a book on the temple of Diana. All that is known of him is that he lived before Diogenes Laertus by whom he is cited.",
+                    "Athenaeus, Dipnosophistarum, Bk. XII, ch. 29.",
+                    "Aquilas, Exodus, ch. 25, v.6.: .ד יהודה אומר: ״עורות תחשים טיינון לשם צובעו נקרא״ ירושלמי, שבת טיינון) probably corrupt for ינטינון).",
+                    "Winckelmann, Johann Joachim, Geschichte der Kunst des Alterthums, Wien ( 1776). p. 394.1 state this upon the authority of the well-known classical archaeologist Winckelmann, who gives the following references, which I have not verified: “Excerpt Polyle L. 31, p. 177, 15-; Conf. Hadr. ium Animadv. L.2.e.2.; Bochart, Hieros, T.I, p. 730.”",
+                    "Winckelmann, Johann Joachim, Geschichte der Kunst des Alterthums, Wien ( 1776). p. 394.1 state this upon the authority of the well-known classical archaeologist Winckelmann, who gives the following references, which I have not verified: “Excerpt Polyle L. 31, p. 177, 15-; Conf. Hadr. ium Animadv. L.2.e.2.; Bochart, Hieros, T.I, p. 730.”",
+                    "Theocritus, 10c. cit."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131448/HerzogDoctorate/0427100274_qgxa1m.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131382/HerzogDoctorate/0427100275_wwmxg3.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131268/HerzogDoctorate/0427100276_s7q5ld.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131394/HerzogDoctorate/0427100277_ketb6n.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131391/HerzogDoctorate/0427100278_jnamen.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131550/HerzogDoctorate/0427100279_nb2wyr.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131304/HerzogDoctorate/0427100280_myoego.jpg"
+                ]
             },
             {
                 "num": "6E",
