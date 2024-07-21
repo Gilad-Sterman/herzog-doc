@@ -3256,7 +3256,6 @@
                         "txt": "It would appear that, while in the preparation of ianthina the black purple-pigment was mixed in a certain proportion with the red dye of the buccinum, in the manufacture of hyacinthus black dye alone (from the <<i#Purpura<< or pelagia) was employed. It is to this that the difference may have been due. This is sustained by the Talmudic tradition which knows only of one species of mollusc as used in the dyeing of <<i#Tekhelet<<.",
                         "type": "regular"
                     }
-                    
                 ],
                 "footNotes": [
                     "Pliny, <<i#ibid<<.. Bk. XXI, ch. 8.",
@@ -3284,66 +3283,1085 @@
             {
                 "num": "6E",
                 "title": "Allusions in Philo and Josephus to the Colour of Tekhelet",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "I do not think it is possible to go much further than this in the direction of the determination of the <<i#Tekhelet-nuance<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Bähr ventures I think too far when upon the basis of certain indications found in Philo, in Josephus, in the Church fathers and in the Talmud he concludes that <<i#Tekhelet<< was an absolutely pure blue. Certain grades of violet are only with very great difficulty distinguishable from blue. That the colour of <<i#Tekhelet<< or hyacinth is likened to that of the sea or of the sky only proves that <<i#Tekhelet<< was not easily distinguishable from deep blue: a deep dark violet-blue would be classed by the ancients, as indeed by most people to-day, as a deep-blue. We have seen that the sea is sometimes described as resembling the colour of the ianthina ( Viola odorata L.), and that Hieronymus likens the ianthina-colour to that of the sky.<<1<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "If, as seems almost certain, <<i#Tekhelet<< is not comprised in the <<i#Purpura<< amethystina to which Pliny refers, it is to be sought among the genus of purple-fabric termed by the Roman naturalist vestes conchyliatae, conchylium? It is worth while remarking that it ought not to be supposed for a moment that the data furnished byPliny with reference to purple have universal application embracing all localities and all ages. Pliny in all probability drew his information on the subject from Italian sources. His statements therefore refer in the first place to purple as manufactured in the Italian dye-houses at, or about, his time. In Phoenicia and in Palestine, things may have been somewhat different. Italian taste and fashion may have held in small favour the hyacinth purple properly so called, preferring the violet shades to those inclining more to blue. The <<i#Purpura<< conchyliata on the other hand, though less expensive than the <<i#Purpura<< Tyria and the amethystina, had a charm of its own. Pliny admires the delicacy of shade of the vestes conchyliatae. It is quite possible that <<i#Tekhelet<< is not comprised even in the <<i#Purpura<< conchyliata. Schmidt, as already has been said, identifies the later <<i#Tekhelet<<, that of which Maimonides speaks, with the heliotrope variety of Pliny’s Purpura conchyliata. The identification is really due to Bochart though the latter makes no distinction between earlier and later <<i#Tekhelet<<. I do not think the theory has a great measure of probability. The characteristic mark of the vestes conchyliatae was their lightness or paleness of shade in contradistinction to the dark or deep tones of the <<i#Purpura<< blatta. But the <<i#Tekhelet<< is called black by Philo, and Schmidt’s distinction between earlier and later <<i#Tekhelet<< not seeming to me probable, I do not feel at all inclined to accept the identification of <<i#Tekhelet<< with Pliny’s heliotrope conchyliata purple.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Schmidt’s argument from the Lex Valentina is indeed not to be easily disposed of. It shows clearly that in the course of the centuries separating that Lex from Aquilas’ translation, a change had supervened; hyacinthina replacing amethystina as the generic name for all Purpura blatta not falling under the appellation of <<i#Purpura<< Tyria or dibapha.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "With the investigation of the causes responsible for that change we need not occupy ourselves here. Suffice it to remark that the terminology of the Lex Valentina need not necessarily be the same as that of the Septuagint.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Philo in his homiletic explanation of the construction of the Tabernacle says that <<i#Tekhelet<< was meant to symbolise air for “by nature the air is black.”<<2<<,",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Josephus copies Philo making however an important addition…",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“τὸν δὲ ἀέρα βούλεται δηλοῦν ὁ ὑάκινθος. (…) ἀποσημαίνει δὲ καὶ ὁ τοῦ ἀρχιερέως χιτὼν τὴν γῆν (…) ὁ δὲ ὑάκινθος τὸν πόλον, ἀστραπαῖς etc.”",
+                        "txtOrg": "“ton de aera bouletai deloun o’ Iakinthos… aposimainei de kai o ton archiereos chiton ten gen … ό de Iakinthos ton polon astrapais mén … kai o pilos de mo dokei ton ouranon tekmerioun iakinthinos pepoiemenos ou gar an alios uperanetitheto auto to onoma ton theon te.”<<3<<",
+                        "txtTrans": "“For the hyacinth is proper to signify the air. (…) Now the vestment of the high priest (being made of linen), signified the earth. The hyacinth denoted the sky, being like lightings…”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "The comparison of the hyacinth with the sky-colour is not borrowed from Philo but it is certainly not original with Josephus.<<4<< As he adds nothing in explanation of his statement that the hyacinth symbolises the sky, he must have been sure that his readers would readily grasp the point: the resemblance of the hyacinth fabric to the sky-colour must have been self-evident.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In another passage Josephus speaking of the hyacinth coverings of the Tabernacle says:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrgLang": "“πολλή δ’ έκπληξίς ελάμβανε τους πόρρωθεν θεωμένους. Την γαρ χρώαν τους κατά τον ουρανών συμβαίνουσιν ουδέν εδωκούν διαφέρειν.”",
+                        "txtOrg": "“polle d’ ekpleksis elambane tous porrothen theomenous. Ten gar chroan tois kata ton ouranon sumbainousin ouden edokoun diapherein.”<<5<<",
+                        "txtTrans": "“Great amazement would seize those who viewed these (veils) from afar, for they seemed to differ in nothing from the colour of the sky.”",
+                        "type": "tripleTranslation"
+                    },
+                    {
+                        "txt": "It is scarcely possible to trace the source whence Josephus drew this statement. Was it oral Midrash? In all probability Josephus reflects his personal experience of the illusion created by the sight of <<i#Tekhelet<< from a distance.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Close resemblance to sky-colour is a necessary inference from this assertion of Josephus’ but it hardly warrants absolute identity of colour, or in other words, we cannot be sure that if <<i#Tekhelet<< were closely examined by a specialist in colour discrimination it would be declared by him to have absolutely the same nuance as the cloudless Asiatic sky in bright sunshine.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "“Calceani te hyacintho, vel ut alii janthino: cum loti fuerint pedes et omni sordi purgati, celceantur hyacinthinis vel ut alii ianthinio, quod utrumque aerii et kuxneon coloris est.”",
+                    "Philo, De Congressu.",
+                    "Josephus, ibid., book III, chs. 6-7.",
+                    "Cf. Philo (De Vita Mosi) on the High Priest’s tunic; ילקוט שמעוני פקודי רמז ת״ט",
+                    "Josephus, ibid., book III, ch. 4."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131282/HerzogDoctorate/0427100281_jtuanc.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131226/HerzogDoctorate/0427100282_m4qsr6.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131223/HerzogDoctorate/0427100283_w48iat.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131221/HerzogDoctorate/0427100284_emedsb.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131249/HerzogDoctorate/0427100285_hsvvoq.jpg"
+                ]
             },
             {
                 "num": "6F",
                 "title": "Textual and Critical Study of R. Meir’s Homily on the Tekhelet Colour",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Next after Philo and Josephus comes the oft-quoted saying of R. Meir (floruit 125).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Rabbi Meir says: “Why has <<i#Tekhelet<< been singled out from all other colours? Because <<i#Tekhelet<< is like unto the sea and the sea is like unto the sky and the sky is like unto the sapphire and the sapphire is like unto the Throne of Glory, for it is written: ‘And they saw the God of Israel; and the place under his feet was like a paved work of brilliant sapphire, and like the colour of heaven in clearness,’<<1<<​ and it is written ‘…like the appearance of a sapphire-stone, the likeness of a throne.'”<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "This famous homily has come down in 8 recensions: the one just quoted which I shall designate by (a) and the following",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(b) תניא היה רבי מאיר אומר מה נשתנה תכלת מכל מיני צבעונין מפני שהתכלת דומה לים וים דומה לרקיע ורקיע דומה לכסא הכבוד שנאמר ותחת רגליו כמעשה לבנת הספיר וכעצם השמים לטהר וכתיב כמראה אבן ספיר דמות כסא (Menahot 43B)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "(c) ר׳ מאיר אומר וראיתם אותם לא נאמר אלא וראיתם אותו מגיד הכתוב שכל המקיים מצות ציצית כאלו הקביל פני השכינה שהתכלת דומה לים וים דומה לרקיע ורקיע דומה לכסא הכבוד שנאמר וממעל לרקיע אשר על ראשם (שלח Sifri)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "(d) תני בשם ר׳ מאיר וראיתם אותה אין כתיב כאן אלא וראיתם אותו מגיד הכתוב שכל המקיים מצות ציצית כאלו מקבל פני שכינה מגיד שהתכלת דומה לים והים דומה לעשבים עשבים דומין לרקיע ורקיע דומה לכסא הכבוד והכסא דומה לספיר דכתיב ואראה והנה על הרקיע אשר על ראש הכרוב כאבן ספיר כמראה כסא  (Yerushalmi Berakhot 7b I, 2)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "(e) ד״א מלך הכבוד אמר חזקיה מה נשתנה תכלת משאר מיני צבעונין שצוה האלהים להיות בציצית מפני שהתכלת דומה לעשבים והעשבים דומים לים והים דומה לרקיע והרקיע דומה לקשת והקשת דומה לענן והענן דומה לכסא והכסא דומה לכבוד שנאמר ונתנו על ציצית הכנף פתיל תכלת הוי ויבא מלך הכבוד (Midrash Rabbah)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "(f) אמר ר׳ מאיר מה נשתנה תכלת מכל מיני צבעונין שהתכלת דומה לרקיע ורקיע דומה לכסא הכבוד שנא׳ ויראו את אלהי ישראל וגו׳ (פ׳ שלח Midrash Rabbah)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "(g) חזקיה אמר ואית דאמרי לה בשם ר׳ מאיר תכלת דומה לעשבים עשבים דומים לאילנות אילנות לרקיע רקיע לנוגה נוגה לקשת וקשת לדמות שנאמר כמראה הקשת אמר חזקיה אם לובשין ציצית לא יהיו סבורין שמא תכלת הם לובשין אלא שיהיו מסתכלין באותה ציצית כאלו שכינה שרויה עליהם וראיתם אתו וזכרתם (Yalkut Shimoni Ps. 4 ch. 12)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "(h) ר׳ נתן אומר חביב מעשה הארון כנגד כסא הכבוד של מעלה… ואף בשעה שהיו נוסעין לא היו פורסים עליו לא בגד ארגמן ולא תולעת שני אלא בגד כליל תכלת ללמדך שהארון היה דומה לו לכך היה הבגד תכלת מלמעלה פניו כנגד הרקיע הדומה לו וכו׳ (במדבר״ר Midrash Rabbah)",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "דתניא ר׳ מאיר מה נשתנה תכלת מכל הצבעונין מפני שהתכלת דומה לים וים דומה לרקיע ורקיע דומה לאבן ספיר ואבן ספיר דומה לכסא הכבוד דכתיב ויראו את אלקי ישראל ותחת רגליו וגו׳ וכתיב כמראה אבן ספיר דמות כסא (חולין פ״ט).",
+                        "type": "hebrew"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720527459/HerzogDoctorate/text1_e6cv2p.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720527461/HerzogDoctorate/text2_ozesbd.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "(a) and (b) are practically the same.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(c) offers an interesting variation inasmuch as it provides a Pentateuchal setting for the homily; it is also remarkable by the omission of the interrogation מה נשתנה. Compare (d). In the Talmud (Men. 43a) the דרש upon אותו is attributed, though in a different form, to R. Simon ben Johai, a contemporary of R. Meir.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(d) agrees closely with (c) but there is an important difference — the introduction of עשבים (asabim): “<<i#Tekhelet<< is like unto the sea and the sea is like unto <<i#asabim<< (plants or grass) and <<i#asabim<< are like unto the sky and the sky is like unto the Throne of Glory,” etc.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(e) strikes by its plethorousness; it is also noteworthy on account of the ascription which attributes the homily to Hezekiya instead of to R. Meir.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(f) is distinguished by its conciseness.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(g) is preceded by the statement that some attribute the saying to R. Meir. It would appear that the homily in the form which it has in (e) represents an application made by Hezekiya of R. Meir’s saying to the Aggadic interpretation of Psalms (90, 17).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(h) substantially agrees with (a), (b), and (c); R. Meir’s saying here serves as a basis for an homily by R. Nathan, an associate of R. Meir, on the significance of the Holy Ark as a representation of the Throne of Glory.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "On comparing (g) with (e) we note the replacing of ים (sea) in (g) by אילנות (trees); ים (sea), it will have been observed, occurs in all the other recensions.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(d), (e), and (g) agree as against (a), (b), (c), (f), and (h) in introducing <<i#asabim<< in the chain of similitudes; but while in (d) <<i#asabim<< appears second, in (e) and (g) it stands first, next to <<i#Tekhelet<<.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Exodus, Ch. XXIV, v.10.—— Ezekiel 1, 26.",
+                    "Hullin 89a; Compare; Menahot 43b; Tosaphot, Sotah 17a."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131249/HerzogDoctorate/0427100285_hsvvoq.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131601/HerzogDoctorate/0427100286_jhhl5q.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131254/HerzogDoctorate/0427100291_nhi60v.jpg"
+                ]
             },
             {
                 "num": "6G",
                 "title": "Tekhelet and the Colour of the Sky",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "The point of R. Meir’s homily on Tekhelet is clearly the similarity of the colour to that of the Throne of Glory as seen in prophetic vision. The resemblance of Tekhelet to sky-colour was not first pointed out by R. Meir; it must have been clear to everybody. Josephus, as already has been remarked, assumes his readers to be fully cognisant of the fact. Josephus, we have seen, makes two assertions about the hyacinth (<<i#Tekhelet<<) colour (a) that it is black (dark) of hilo and (b) that it reproduces the colour of the sky. To the reader unacquainted with the subtropical sky this might appear somewhat difficult: the colour of our sky even in the finest weather is rather bright than black-blue. Braun hits the right point when he warns the reader against identifying the <<i#Tekhelet<<-hue with that of the sky of our temperate climates. (<<i#De Vesti Sacerdotum, Hebr<<. Cap. XII, “thecheleth.”)",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Compare Rosenmüller:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Mit dem Aether oder dem unumbewolkten Himmel … der in den heissen Gegenden Asiens und Africas als eine gesätigte Schwarze ins Bläuliche spielende Farbe erscheint”<<1<<",
+                        "txtTrans": "“With the ether or the cloudless sky … which appears in the hot regions of Asia and Africa as a saturated black playing a bluish color”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "The Sumerian ideogram <<i#sagin-gig<<, i.e., wool, sky-blue dark is as Professor Langdon of Oxford has informed me, very probably the equivalent of the Semitic <<i#takiltu<< (<<i#Tekhelet<<). Thus for the Sumerians, as for Josephus, <<i#Tekhelet<< had the appearance of the dark blue of the serene Asiatic sky in bright sunshine. The light blue of the sky in somewhat dull weather was not regarded as the real colour of the sky. This illustrates the indication “and like the colour of the heaven in clearness.”<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The dark blue fringes adorning the corners of the garments of Asiatic captives depicted on a monument discovered in the tomb of Rekhma Ra at Thebes were probably meant to remind the wearer of the clear skies of the Deity.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "That the relation subsisting between <<i#Tekhelet<< and the colour of the sky was not first discovered by R. Meir nor even by Josephus needs of course no proof but it may not be out of place to draw attention in this connection to the following baraitha: “the minimum number of links is seven in correspondence to the seven Heavens and the six spaces (or horizons) intervening between them.”<<3<< The reference is to the series of “windings” (חוליות של כריכות) made with the <<i#Tekhelet<<-thread around the white threads of the <<i#tzitzit<<. As this baraitha is not gainsaid by any authority it doubtless records a long established practice most probably anterior to R. Meir. R. Meir’s homily being mere Aggadah would scarcely have given rise to so universal a practice; the baraitha doubtless reflects an idea generally current.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Rosenmüller, Ernst Friedrich Karl, Scholia in Vetus Testamentum, Leipzig (1788-1835). Commentary on Exodus, ch. XXV. Compare also; Maimonides, Hilkhot tzitzit, II, 2 and Hilkhot Klei Hamikdash, VIII.",
+                    "Exodus, Ch. XXIV, v.10.",
+                    "Menahot 39a."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131255/HerzogDoctorate/0427100292_odo5tj.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131252/HerzogDoctorate/0427100287_nrxwub.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131253/HerzogDoctorate/0427100293_npetwv.jpg"
+                ]
             },
             {
                 "num": "6H",
                 "title": "Tekhelet and the Colour of the Sea",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "The different recensions of R. Meir’s saying call for careful study. We shall start first with (a) and (b). It is remarkable that in these as indeed in all the other recensions excepting (f) the comparison is instituted, contrary to expectation, not directly with the sky but first with the sea (<<i#yam<<) and through it with the sky. Before attempting to account for this phenomenon we should try to gain a clear conception of the significance of <<i#yam<< in this connection.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The colour of the sea is not the same all over. Here, however, the reference is undoubtedly to the Mediterranean, or rather to the Mediterranean off the Syrian and Palestinian coasts. The study of the colours of the various seas is but of recent growth. The matter is adequately treated by O. Krümmel in his textbook of Oceanography. In the latest edition of the British Encyclopaedia there is a very good article on the subject: “The colour of ocean water far from land is an almost pure blue, and all the variations of tint towards green are the result of local disturbances:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“The usual cause is turbidity of some kind and this in high seas is almost always due to swarms of plankton. The colour of sea water as it is seen on board ship is most readily determined by comparison with the tints of Forel’s Xanthometer or colour scale which consists of a series of glass tubes fixed like the rings of a ladder in a frame and filled with a mixture of blue and yellow liquids in varying proportions.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“For this purpose the zero, or pure, blue is represented by a solution of one part of copper sulphate and 9 parts of ammoniac in 190 parts of water. Observations with the Xanthometer have hitherto not been numerous, but it appears that the purest blue (0-1 on Forel’s scale) is found in the Saragasso sea, in the North Atlantic and in similarly situated tropical or sub-tropical regions, in the India and Pacific Oceans. The Northern seas have an increasing tendency towards green, the Trimingen sea showing 5-9 Forel, while in the North sea the water is usually a pure green.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“The blue of the sea water as observed by the Forel scale has, of course, nothing to do with the blue appearance of any distant surface due to the reflection of a cloudless sky.<<1<<​ Over shallows even the water of the tropical oceans is always green. There is a distinct relationship between colour and transparency in the ocean; the most transparent water which is the most free from plankton is always the purest blue while an increasing turbidity is usually associated with an increasing tint of green. The natural colour of pure sea water is blue and this is emphasized in deep and very clear water which appears almost black to the eye… The greatest transparency hitherto reported is in the eastern basin of the Mediterranean where J. Huksch found the disk visible as a rule from 2 to 7 fathoms, and off the Syrian coast even to 33 fathoms.”<<2<< Combining now the two statements: (1) that the greater the transparency the deeper is the blue, and that (2) off the Syrian coast the greatest transparency has been reported; we at once obtain the result that <<i#Tekhelet<< was very much like the deep blue of the Mediterranean along the Palestinian coast. The assertion תכלת דומה לים (<<i#Tekhelet<< is like the sea) scarcely however warrants <<i#absolute<< identity of colour. The verb <<i#damah<< דמה “to be like” is elastic enough, although by no means excluding absolute <<i#likeness<<. Where absolute identity of colour is insisted upon, the Mishnah employs the <<i#Kaph<<-comparationis.<<3<< That such is not the case here is, however, on the other hand, no indication as to the contrary. R. Meir’s object in this instance, be it duly emphasized, is not to give a definition of <<i#Tekhelet<< but merely to explain its symbolic significance.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Contrast this with Lewysohn, ibid., Par. 366, p. 282.",
+                    "British Encyclopedia, 11th ed., “Oceanography.”",
+                    "Cf.; נגעים פ״א, ז״א ; נרה ב״ה״ וכד: חולין, מ״ג; ירושלמי, סוכה, פרק ג׳ ;״הירוק ככרתי הדג … אונה כרתיני״ וכר"
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131253/HerzogDoctorate/0427100293_npetwv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131459/HerzogDoctorate/0427100288_hycjwy.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131497/HerzogDoctorate/0427100294_jwncdk.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131250/HerzogDoctorate/0427100295_ogiy9v.jpg"
+                ]
             },
             {
                 "num": "6I",
                 "title": "Further Study of R. Meir’s Homily in its Various Recensions; Maimonides’ Definition of Tekhelet",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Seeing that what R. Meir’s saying really aims at is the establishing of a similarity between the <<i#Tekhelet<<-colour and that of the Throne of Glory which is “like the sapphire stone” what need was there, we may well inquire, for bringing in the “sky” (רקיע) and the sea (ים)? Why not say directly <<i#Tekhelet<< is like unto the sapphire stone and the sapphire stone is like unto the Throne of Glory”? Was not the resemblance between <<i#Tekhelet<< and the sapphire close enough? Emphanius states: “The sapphire presents the appearance of the blackish blatta purple.” Porphyras tes melaines to eidos. Is the <<i#porphyra melaine<< not to be identified with <<i#Tekhelet<< or <<i#Iakinthos<<?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Perhaps the introduction of intermediary links is due to the consideration that owing to the comparative rarity of the sapphire, the explanation if based on the similarity of that gem alone might fail to carry conviction into the minds of many. But this hardly accounts for the presence of both (the sky) and (the sea). Why did not R. Meir simply say “<<i#Tekhelet<< is like the sky and the sky is like the sapphire and the sapphire is like the Throne of Glory?” Because the sky-colour is not always deep blue?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(f) actually omits “the sea” but in view of the fact that it appears in a very late collection (c. middle of the 8th century) it may be doubted whether that recension is to be preferred to those recorded in the Talmud and in the Sifre. Was the <<i#Tekhelet<< colour really more like the colour of the sea than that of the serene Palestinian sky? Rashi (Sotah 17a) appears to have thought so:<<1<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "איצטריכו כל הני משום דתכלת לא דמי לרקיע כל כך אלא דומה לדומה",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "On Menahot 43b. he is apparently less critical, introducing an homiletic element into his interpretation.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "דומה לים שנעשו בו נסים לישראל … וכתיב ספיר. ובכסא הכבוד",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "כתיב ספיר אלמא רקיע כבמחזה כסא ותכלת לים וים לרקיע",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "In explaining, however, the reference to “the sea” as intended to be reminiscent of the miracles God wrought for Israel on the Red sea, Rashi hints at the same time that <<i#Tekhelet<< was more like the sea than the sky.<<2<< On penetrating his meaning this is seen not to be doubleness of motive: the explanation of the presence of yam (the sea) as due to the scientific exactness on the part of the author (R. Meir), really impairs the force of the theory; for if the resemblance of Tekhelet to the sky = colour of the Throne of Glory is the reason of its having been chosen for the <<i#tzitzit<<, then since <<i#Tekhelet<< is rather more like the sea, another colour, one more nearly reproducing the sky colour should have been prescribed by the Torah for that purpose. It is this objection which Rashi very probably wishes to anticipate by the hint that <<i#Tekhelet<< has the additional recommendation of being reminiscent of the miracles performed on the sea.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Whether this is what R. Meir actually meant is at least dubious. R. Meir’s associates would often acknowledge their inability to penetrate the depth of his mind.<<3<< We should not be more ambitious than they. Rashi’s explanation of ים as reminiscent of קריעת ים סוף is derived from an anonymous homily in the Sifre.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“Why is it called <<i#Tekhelet<<? … Aliter: because the Egyptians were annihilated in the sea.”<<4<< This presupposes the likeness of <<i#Tekhelet<< to the colour of the sea. It is not impossible that originally there existed two distinct sayings of Rabbi Meir:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(a) תכלה דומה לים  “<<i#Tekhelet<< is like unto the sea,” as in the Sifre",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(b) תכלת דומה לרקיע ורקיע דומה וכו׳ “<<i#Tekhelet<< is like unto the sky and the sky is like unto, etc.” Afterwards the two sayings may have melted into one producing “<<i#Tekhelet<< is like unto the sea, etc.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(f) however, in view of its late setting, can hardly be adduced in support of this hypothesis: the omission of <<i#yam<< in that recension may be due to a desire for conciseness on the part of the compiler.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Again, it is possible that R. Meir who was great both as a popular preacher and as an academic teacher would in his popular discourses explain <<i#Tekhelet<< as reminiscent of the miracles of the sea reserving the exposition of his theory connecting <<i#Tekhelet<< with the Throne of Glory for his esoteric lectures to the few elect. Posterity may have combined the two into one.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Maimonides omits <<i#yam<< in his definition of <<i#Tekhelet<<:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "והתכלת האמורה בתורה בכל מקום היא הצמר הצבוע כפתוך שבכחול",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "וזוהי דמות הרקיע הנראית לעין השמש בטהרו של רקיע",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "It is noteworthy that in his definition of <<i#Tekhelet<< as the deep blue of the clear sky in bright sunshine, Maimonides takes care to avoid the use of the vague verb <<i#damah<< (דמה) “to be like.” Cf…. כפתוך שבכחול וזו היא דמות וכו׳ (Cf. Arabic (الكحلة, الكدل (אלכחל “כוחל)",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "On the other hand, in describing the <<i#hillazon<< he says of its colour שדומה עינו לעין תכלת “it resembles that of <<i#Tekhelet<<.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Is Maimonides’ definition derived from some old traditional sources such as for instance the now lost ירושלמי קדשים? Had it been based upon R. Meir’s homily alone, one may argue, it would have been less direct and precise. Maimonides’ definition perhaps excludes all but <<i#pure<< (deep) blue. It is however possible that Maimonides was simply guided by the current traditional rendering of <<i#Tekhelet<<  by اسمانجون אסמאנגון  sky-colour לונאסמא. <<5<<",
+                        "type": "regular"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720618319/HerzogDoctorate/lunasama_fsacvm.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720618320/HerzogDoctorate/text3_y3qj0t.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "The presence of asabim עשבים in (d) and (e)<<6<< calls for explanation. If we take <<i#asabim<< in the ordinary sense of common grass it forms a serious difficulty. Rashi’s explanation of yam is inapplicable here; for it would follow according to (d) that the colour of <<i#asabim<< is more like that of the sky than is the colour of the sea, and according to (e) that <<i#Tekhelet<< is more like the colour of <<i#asabim<< than of <<#yam<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Now even assuming that blue and green are here incorrectly classed as variations of one colour we cannot admit that the deep blue of the Mediterranean was regarded as less similar to sky-colour than the colour of common grass, or which amounts to the same that the colour of the Mediterranean was looked upon as having greater resemblance to common grass than to the sky. That <<i#Tekhelet<< was grass-green, which would result from (e) is just as, if not more, inadmissible.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Frantz Delitzsch<<7<< sets down the mention of <<i#asabim<< simply to a confusion of blue with green. This however does not explain the purpose served by the introduction of <<i#asabim<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is in fact somewhat unjust to load R. Meir and his fellow Tanaites with colour blindness. The decision of certain ritualistic questions required a particularly fine colour sense. It is true that ירוק (<<i#yarok<<)<<8<< covers both green and blue, but this is rather a case of classification than of confusion. For practical purposes the Talmudists divided colour into four classes:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": [
+                            "– <<i#shahor<<, black, שחור",
+                            "– <<i#adom<<, red, אדום",
+                            "– <<i#yarok<<, green, yellow and blue, ירוק",
+                            "– <<i#lavan<<, white לבן"
+                        ],
+                        "type": "list"
+                    },
+                    {
+                        "txt": "Very deep blue shades would in strict <<i#halakhah<< be referred rather to black.<<9<< Paler or brighter blue shades would be classed under yarok.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is not impossible that the chain of similitudes leading to the comparison of <<i#Tekhelet<< with the Throne of Glory is not meant as a colour scale at all: the purport may be to trace the similitude of the Throne of Glory throughout the universe. <<i#Tekhelet<< is like the sea and the sea is like grass (<<i#yarok<<) which may be regarded as constituting the coloration of the earth; the earth and the sea therefore present colours congeneric with <<i#Tekhelet<<; similarly the sky which resembles the Throne of Glory is congeneric in colour with the sea and the earth: hence the whole of nature reminds man of the divine presence. The same explanation holds for (e) only that there the earth begins the series.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Lastly it is, I think, not improbable that we really have here a series of colour gradations, but that <<i#asabim<< is used in a limited sense, standing for blue plants or flowers, the species being too well known to need particularisation. The reference may be to the hyacinth or to some other deep blue plant.<<10<< On this hypothesis (e) would have a greater claim to correctness than (d). Though <<i#asabim<< generally denotes common grass, it is also used for flowers of various colours. In reality it covers all plants not fit for human consumption. <<11<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Very often <<i#asabim<< occurs in association with the weeding of grain.<<12<< Now we know that blue flowers such as the blue-bottle for instance are largely represented among grain weeds. It is possible that in Palestine this was the case to a very great extent. The omission of <<i#asabim<< in (a) (b) and (c) might be due to a desire to obviate misconception. Similarly the position of <<i#asabim<< in (d) may have been occasioned by a desire to avoid being misunderstood as defining <<i#Tekhelet<< as green “the sea is like <<i#asabim<<” would not be so easily misinterpreted.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Neither Bochart nor Braun make mention of the occurrence of <<i#asabim<< in variant recensions of R. Meir’s saying. Both authors, however, refer to Aben Ezra’s assertion on the authority of the Talmudic sages (Rashi 25:4) that <<i#Tekhelet<< is <<i#yarok<<. ואנו נסמוך על רז”ל שהוא ירוק",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is, however, doubtful whether Aben Ezra means green or blue. If the former, his authorities must have been the recensions (e) and (g) “<<i#Tekhelet<< is like <<i#asabim<<.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Dr. Dedekind is of the opinion that Aben Ezra and his authorities in describing <<i#Tekhelet<< as <<i#yarok<< (green according to Bochart and Braun) must have had in mind the green stage in the development of the purpurigenic matter.<<13<< Dr. Dedekind<<14<< refers to a specimen of green purple presented to him by the late Lacaze-Duthiers which owes its tint to the arresting of the photographic development at the green stage. Aben Ezra, Dr. Dedekind thinks, may have come across green purple. I very much doubt the correctness of this view. Aben Ezra was well informed; he must have known that <<i#Tekhelet<< was not the only variety of purple.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "If he happened to see purple of a green tint would he on that account jump to the conclusion that <<i#Tekhelet<< must have been green? It might, however, be rejoined that Aben Ezra knowing that <<i#Argaman<< was red<<15<< and holding that there were only two varieties of purple, <<i#Tekhelet<< and <<i#Argaman<<, would have no choice but to identify <<i#Tekhelet<< with green and purple, if the latter variety was pointed out to him as genuine purple. But Aben Ezra really refers to Talmudic or Midrashic authority and not to his personal experience. Dr. Dedekind in a private communication to me with reference to my treatment of asabim draws attention to his explanation of Aben Ezra’s <<i#yarok<<. <<i#Tekhelet domeh l’asabim<< “”<<i#Tekhelet<< is like grass” can, however, hardly be so interpreted: the green stage of development is as much a characteristic of <<i#Argaman<< as of <<i#Tekhelet<<. Again it was certainly to the final tone not to any of the transitory stages that the name <<i#Tekhelet<< was given. A theory devised for explaining the significance of <<i#Tekhelet<< would have had little meaning if it were only applicable to a passing stage of the dyeing and one, moreover, which is common to all purple varieties. How would Dr. Dedekind explain <<i#asabim domim l’yam<<, etc. ועשבים דומים לים “and grass is like the sea.”?",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Sotah 17a; Cf. Hullin 47b.",
+                    "״ותכלת לים וים לרקיע״",
+                    "עירובין י״ג, ע״ב",
+                    "te-kelet from Kalah: to become annihilated, extinct, etc.; See Hagigah, 13899 אין דורשין במעשי המרכבה and, cf. Megillah 25a; אין מפסירין במרכבה ד יהודה מתיר חנא קמא ד״ ד יהודה ד מאיר",
+                    "See;אסמאנגון; Cf. Arabic; אלכחל ,אלכחלה.",
+                    "(g) may be left out.",
+                    "Delitsch, Frantz, Iris, Farbenstudien und Blumenstücke, Leizpig ( 1888), p. 15.",
+                    "See: שער אפרים.ז0 ;יורה דעה, ס׳ ל״ח ib.",
+                    "See:ככק ולא וכר, חולין מ״ג",
+                    "Cf. Sifri:עשבים … ירוקים … שחורים … אדומים וכר; כ׳ האזינו",
+                    "See: ירושלמי, שביעית Pietrekon ed., p. 18b.",
+                    "זרעים Passim.",
+                    "See Aben Ezra, ch. I, passim & commentary on the Pentateuch.",
+                    "See: Dedekind, Beitrag, v.IV, p. 363, etc.; also: Archives de Zoologie, exp. et gen., Paris",
+                    "Aben Ezra; Commentary on Exodus Ch. 25."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131256/HerzogDoctorate/0427100296_vho8pt.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131293/HerzogDoctorate/0427100289_mhnjgt.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131401/HerzogDoctorate/0427100290_navwcz.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131452/HerzogDoctorate/0427100297_b44kwy.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131322/HerzogDoctorate/0427100298_n4io2y.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131323/HerzogDoctorate/0427100299_isosbp.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131323/HerzogDoctorate/0427100300_noxhen.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131293/HerzogDoctorate/0427100301_mfdrhg.jpg"
+                ]
             },
             {
                 "num": "6J",
                 "title": "Kala-ilan (indigo) as Imitation of Tekhelet–A Clue to the Determination of the Colour of Tekhelet",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "It is somewhat strange that none of the authors who, so far as I know, treat seriously of the determination of the <<i#Tekhelet<< colour<<1<< has taken advantage of the fact recorded in the Talmud that <<i#Tekhelet<< was visually indistinguishable from <<i#kala-ilan<< which is indigo<<2<< according to the Aruch, the authoritative lexicon of the <<i#Talmudim<< and <<i#Midrashim<<.<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Aruch also renders אסטיס (<<i#Isatis tinctoria<< wood) by indigo. “Isatis is indigo Arabic <<i#Nil<<.”<<4<< The Arabic authors designate both indigo (<<i#Indigofera tinctoria<< and <<i#argentea<<) and <<i#Isatis tinctoria<< by the same word <<i#nil<< (or nileh).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "As <<i#isatis<< is designated by its Greek or Latin name, <<i#Kala-ilan<< doubtless denotes the genuine indigo.<<5<< It would be of some interest to trace the derivation of this composite expression.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Talmudic name for indigo is in all probability a loanword from India. The Indian names for indigo are <<i#nilini, nilam, nili<<. The Sanscrit <<i#kala<< properly means black but the deep indigo blue is also called by that name.<<6<< May not קלא אילן <<i#kala-ilan<< mean <<i#kala<< derived from trees (<<i#ilan<< – tree) in contradistinction to the deep blue of mineral origin (the “ancient blue,” “Egyptian,” or “Alexandrian blue”).<<7<< In view of the fact that the indigofera plant often attains the height of 5 feet it might well be popularly called <<i#ilan<< (tree).<<8<< Or may perhaps <<i#kala-ilan<< be a corruption of <<i#kala-nilan<<, the black or dark <<i#nilan<< (indigo) or of <<i#kala-lan<< (<<i#lan<< = indigo in Chinese)?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Deep indigo blue may thus be taken as reproducing the colour of <<i#Tekhelet<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In deep shades as Professor Green of Leeds has informed me indigo is <<i#not<< a <<i#pure<< blue.<<9<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Most people would indeed be unable to distinguish deep indigo, from deep <<i#pure<< blue, but to the experienced eye a slight reflex of violet is visible. Compare Pliny",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Ab hoc maxime auctoritas indico Ex India venit … cum teritur nigrum at in deluendo mixturam <<i#Purpurae<< caeruleique mirabilem reddit.“<<10<<",
+                        "txtTrans": "From this the most indigo influence comes from India … when it is rubbed black but in washing it makes a wonderful mixture of purple and blue.",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Maimonides remarkably enough makes no mention of <<i#kala-ilan<< in connection with <<i#Tekhelet<< imitations. He names two such colours <<i#isatis<< and שחור (<<i#shahor<<), black. The latter word has been misunderstood: <<i#shahor<< here is not used in the ordinary sense of black but is the Hebrew rendering of the Sanscrit <<i#nil<< by which the Arabs in Maimonides’ times as at the present day designated indigo.<<11<< <<i#Shahor<< in Maimonides is thus the equivalent of <<i#kala-ilan<< (indigo) in the Talmud.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Sachs identified <<i#kala-ilan<< as an adaptation from <<i#kallainon-callainum<<. In connection with his suggestion that גלקטיגון the rendering of the Yerushalmi for תחש is a corruption of <<i#galairon kallainon<<, that author observes:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Jedenfalls ist durch diese Glosse das von Musaffia bereits erkannte, aber von seinen Nachfolgern unverstandene קלא אילן (<<i#kala-ilan<<) erklärt (Nedar.<<12<< 41 u. sonst) das werder einen Stoff noch eine Pflanze bezeichnet, sondern die blaue Farlu, vom Aruch als Indigohlan bestimmt. <<n<< Für “kelailon” sprach man such “kelainon” und durch die zufällige Trennung des Wortes in zwei dachte man, durch (<<i#ilan<<) אילן verlastet, an einen Baum, oder eine Staude. Bertrug, der mit dem (<<i#Tekhelet<<) תכלת dem verschriftsmässig gebotenen getrieben wurde, veranlasste, diese indigoblau gefärbte welle für jenes zu verkaufen.”<<13<<",
+                        "txtTrans": "“At any rate, this gloss is already recognized by Musaffia, but is misunderstood by his successors; designated as Indigohlan. <<n<< For” kelailon “one spoke search” kelainon “and through the accidental separation of the word into two one thought, overlaid by (ilan) Ilan of a tree or a bush was driven, caused this indigo-colored wave to be sold for that. “",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Jastrow (Dictionary of the Talmudim, etc. s.v. קלא אילן) adopting the derivation proposed by Sachs, states plainly that <<i#kala-ilan<< is an adaptation from the Latin callainum.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The determination of the etymology and precise meaning of <<i#kallainon<< presents serious difficulties.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Pliny mentions a certain gem under the name of callais or callaina. In one place Pliny says that the callais resembles the sapphire but is of a paler nuance “callais sapphirum imitatur, candidior et littoroso mari similior.” In another the Roman naturalist describes its colour as “e viride pallens,” pale green. It would appear that callais and callaina are to be distinguished.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The kalais has been identified with the turquoise. The turquoise, however, is generally blue, though certain varieties present a green playing into bluish. The standard <<i#thesauri<< asserts on the authority of an anonymous writer that the Greek <<i#kallainon chroma<< answers to the Latin <<i#color venetus<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Salmasius<<14<< tries to show that the gem derived its name from the colour, not vice versà.",
+                        "type": "regular"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720785658/HerzogDoctorate/text4_vkgq4w.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "“To kallainon chroma” (“τὸ καλλάϊνον χρῶμα”) (“the beautiful color [the color that shifts between green and blue]”) would seem to be a greenish blue colour.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Several references to <<i#vestes callaina<< “kallaina imatia” (“καλλάϊνα ἱμάτια”) (“beautiful garments [garments whose color shifts between green and blue]”) occur in classical literature and also in certain inscriptions.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "If as Sachs holds <<i#kala-ilan<< is identical with “kallainon” (callainum) it would follow that <<i#Tekhelet<< was a greenish blue. This is, however, not very probable. All the evidence at our disposal points to the identification of <<i#kala-ilan<< with indigo which is not a <<i#greenish<< blue.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“Kalainos” (callainus-a-um) occurs only as a colour designation, never as the name of a dyestuff: <<i#kala-ilan<< in the Talmud denotes the colour and the dyestuff producing it. “Kallainon” nowhere expressly appears as synonymous with indigo (indikos, indicum).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "On the other hand, indigo (הינדיקון) never occurs in the Talmudim and the Midrashim. Should “<<i#kallainon<<” be identical with “<<i#indikos<<” (indigo) we should have to account for the phenomenon that while the Greeks and the Romans termed indigo variously by “<<i#kallainos<<” and “<<i#indikos<<,” the Jews exclusively adhered to the former appellation. Though, from the fact that only the latter has survived in the European languages, it would appear that the former if used for describing indigo must have been at all events the less common one.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Bochard, though he makes no mention of <<i#kala-ilan<<, refers to “<<i#kallainon<<” asserting that “<<i#kallainos<<” and “<<i#iakinthos<<” denote one and the same colour, his authority being Epiphanius:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "“Ia de purina, ina eite kokkera endulata kai jakinthina ina deikse ten kallainen erean.“<<15<<",
+                        "txtTrans": "“From purple, indeed, and from deep red and hyacinth, to show the beauty of the wool.”",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "Bochart makes no attempt to define the colour designated by “<<i#kallainos<<.” It is, I think, within the realm of probability that “<<i#kallainen<<” here is a textual corruption of “<<i#kalanilen<<” or “<<i#kalailan<<” <<i#kala-ilan<< (קלא אילן) = indigo.<<16<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The sense of the passage in question does not, however, require identity of colour with “<<i#iakinthos<<” but only a certain degree of similarity. Epiphanius writes here in an homiletic vein, his object being to interpret the symbolic signification of the coloured fillets adorning the angels depicted in the Apocalypse of John. These, as he explains, are emblematic of the national colours of the Assyrians, Babylonians, Medes and Persians respectively. It may be that the favourite colour of the national dress of the Persians in Epiphanius’ time was a greenish blue such as was described by the term “<<i#kallainos<<.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is perhaps the “<<i#chroma kallainon<<” which is meant in the Mishnah Berakhot 1a where the time for the reading of Shema in the early dawn is said to begin according to R. Eliezer משיכיר בין תכלת לכרתי from the moment when כרתי becomes distinguishable from <<i#Tekhelet<<. <<i#Karti<< is used in the Talmud for designating leek and a certain colour variety. As a colour designation the word does not necessarily mean leek-green exactly reproducing the pale green of the leek-plant. It is rather a generic name for green. Similarly “<<i#prasinos<<” in Greek from “<<i#prason<<” (leek) denotes green.<<17<< As the name of a coloured fabric<<18<< כרתי may mean a greenish blue.<<19<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "As the fabric appears to have been highly expensive it should perhaps be identified with that variety of purple, the colour of which Pliny describes as “austerus in glauco et irascenti similis man.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Dr. Dedekind is in possession of a specimen of greenish blue purple dyed by Lacaze-Duthiers.<<20<<",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Bochart, Braun, Adolf Schmidt, G.E. Leiner, Israel Lifschutz (Cf. Excursus to Ch. VII), and Dr. Dedekind.",
+                    "Or, indicum. On Isatis tinctona, as a substitute for indigo, see: <<i#Jaubert, La garance et l’indigo<<. Paris (1900), p. 63, with special reference to England in the 16th cent.",
+                    "That the Tekhelet colour was regarded by the Tanaites as well as by Philo and Josephus as akin to black is evident from Sifre Num. <<n<< ד אלעזר ב״ר שמעון אומר למה נקרא שמה תכלת על שם שנתכלו המצרים בבכורות שאמר ויהי בחצי הלילה וה״ הכה כל בכור <<N<<וגר <<n<< Cf. Rashi ib. ע״ש שיכול בכורות ומכתם היתה בלילה וכר",
+                    "Aruch, S.v.",
+                    "See: Tosephta,״בור קלא אילן שרשם בעצי אשירה״ עבודה זרה, פרק ג׳ Read:שרשו, and compare: I. Depievre’s account of the manufacture of indigo: “On fait tomber les feuilles dans de très grandes cuves en maçonnerie dîtes trempoires. On voit dans de l’une de ces batteries un paniken ou contre-maître à turban rouge et huit coolies ou ouvriers qui battent l’infusion avec des batons pendant environ deux heures, etc.” Depievre, Traité de la teinture, v.III. Paris ( 1893), “Indigo.” The indication about the fastness of Kata Ilan also supports the identification with indigo. See: Depievre, ib.",
+                    "Alkali is the name of a certain Indian sect whose members dress, as a matter of religion, in no other colour but dark blue. See: British Encyclopedia, 11th ed., “India.”",
+                    "See: Fremy, Encyclopédie Chimique. Paris, 188.",
+                    "See: ירושלמי כמא׳ פרק ה׳ הלכה ל׳. סוכה ל״ה; ע״א רשי׳ ר״ה חייבין בערלה, v.10, p. 95.",
+                    "Editor’s note: Rabbi Herzog has attached a sample of colour on p. 204 of the original work, which appears as a gray spot only in our copy. The same page contains the following text beneath the sample: “Sample of deep indigo. Kindly supplied to me by Monsieur Vallette, Chimiste en-Chef at the Fabrique des Gobelins, 42 Avenue des Gobelins, Paris. M. Vallette’s reply with reference to the scientific definition of the nuance of the sample: <<n<< ‘Ministère de l’Instruction Publique et des Beaux Arts, manufacture nationale des Gobelins. Paris, le 26 Mar. 1914. <<n<< Cher Monsieur, Excuser moi si j’ai tant tardé à vous envoyer l’echautillon d’indigo… D’après la classification des couleurs de Chevreul, l’indigo est d’une coleur bleu-violet. Veuillet … Ch. Vallette.'” <<n<< ——————– <<n<< <<n<< ‘Ministry of Public Instruction and Fine Arts, National Manufacture of Tapestries. Paris, 26 Mar. 1914 <<n<< Dear Sir, Excuse me if I were so late sending you the indigo … From the Chevreul color classification, the indigo is a blue-violet color. Veuillet … Ch. Vallette.‘”",
+                    "Pliny, Hist. Nat., book 35, para. 27.",
+                    "<<i#Nil<< in Hindustani denotes black as well as dark blue. “The origin of the Greek and Roman name, Nilus is quite unknown” (Encycl. Brit. 11th ed., s.v. “Nile”). Perhaps it is connected with the Indian nil, black, dark, the dark, or black river. Cf. I Chr. ch. 13, v.15: His, ch. 13, v.3. Cf. Arabic: Nil-Misr. the Nile of Misr (Egypt).",
+                    "Mistake for Menahot 41. Sachs has misunderstood Musaphia. The latter’s note א״ב ב״י בלשון יוני מין צבע דומה לתכלת refers to the Aruch’s statement פירוט אינדיקן, not to קלא אילן. See: Aruch, s.v. קלא אילן",
+                    "Sachs, <<i#ibid<<., v.I, p. 132. All this is bad philology. Kelainos (Greek for dark amber perhaps connected with the Indian “kala”) has really nothing to do with “kallainon.” I have not found “kelailon” in any of the thesauri I have consulted.",
+                    "Saumaise, Claude de, <<i#Caji Julii Solini Polyhistoria<<, Trajecti ad Rhenum (1689), p. 167.",
+                    "Epiphanius, Alogie, ed. by Higby, sect. 34, haeres, p. 954.",
+                    "Epiphanius being a native of Palestine would designate indigo by the name current in that country. Epiphanius, it may be mentioned, is also said to have been of Jewish extraction.",
+                    "Deep as well as pale shades.",
+                    "כרתי also occurs as the name of a certain gem. See Targum 1,6 כרתינון aand LXX “prasinon” for שחם. Perhaps כרתי as a gem “kalais.”",
+                    "See:גיסין ל״א ע״ב גוהרקא דד בא ופרוס עליה סרב לא דברתי Cf.רבנו יונה אלפסי ברכות פ״א משנה ב׳ where the Aruch is wrongly quoted as saying:״כרתי הוא צבע הינדרי״ש״. The writer’s mistake was occasioned by a false construct of: “תוספות חוליו מ״ק ע״ב ד״ה “ירוק כרתי ib., in the Vilna ed. of the Talmud. Cf. also: <<n<< פרשה מקוהלת ברכות פרק ס׳”תכלת היא צבע ירוק רומא קצת לכרישיך",
+                    "Dedekind, “<<i#La Pourpre verte<<,” Archives de Zoologie, exp. et gen. (1898)."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131402/HerzogDoctorate/0427100302_kkn15i.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131254/HerzogDoctorate/0427100303_vpdw9w.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131253/HerzogDoctorate/0427100304_kn5rsx.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131403/HerzogDoctorate/0427100305_fqld84.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131464/HerzogDoctorate/0427100306_r0emo3.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131292/HerzogDoctorate/0427100307_fx4jku.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131361/HerzogDoctorate/0427100308_villaw.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131454/HerzogDoctorate/0427100309_k6n2e5.jpg"
+                ]
             },
             {
                 "num": "6K",
                 "title": "Tekhelet Colour Interpretations",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "<<i#The Gaonic Tradition; Karaitic Interpretation<<.",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "The earliest extant rendering of <<i#Tekhelet<< by an Arabic word is that occurring in a responsum of R. Nahshon Gaon “Rabbi Meir (said) “<<i#Tekhelet<< like the sea and the sea is like the sky and the sky is like the Throne of Glory’: its Arabic name למאסמא <<1<< <<2<<“. This doubtless embodies the oral tradition of the Academies. R. Saadya Gaon renders <<i#Tekhelet<< by “<<i#al samanjun<< (اسمنجون)” <<3<<. The Karaites, the bitter antagonists of the Talmud and the Geonim, here follow the traditional rendering.<<4<<",
+                        "type": "regular"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720787021/HerzogDoctorate/text5_vq28qx.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720787021/HerzogDoctorate/text6-sky-color_dblbie.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720787022/HerzogDoctorate/text7_apr4on.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "<<i#The Samaritan Tradition<<.",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "Among the Samaritans <<i#Tekhelet<< would seem to have been extinct for centuries. They have lost all particular knowledge of the matter but have nevertheless preserved the tradition of the colour.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It would appear that on the extinction of <<i#Tekhelet<< the Samaritan authorities interpreting the significance of the rite as symbolic of the thread of <<i#Tekhelet<< on which was suspended the High Priest’s breast plate devised to replace the <<i#Tekhelet<< in such a way as to retain the symbolism.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "I corresponded on the subject with the present High Priest of the Samaritans Jacob ben Aharon of Nablus (Shekhem), Palestine.<<5<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The precise nature of the substitute for <<i#Tekhelet<< is not quite clear to me from the High Priest’s reply.",
+                        "type": "regular"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720787022/HerzogDoctorate/text8_i0hmvt.png",
+                        "type": "img"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720787024/HerzogDoctorate/text9-807x1024_kzo2ch.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "In compliance with my wish to have some important extracts with reference to <<i#Tekhelet<< from the Samaritan authoritative commentaries on the Pentateuch, the High Priest forwarded me a copy of two such passages from אב חסדה הצורי (Abu Al-Hasan of Tyre אבו אל-חסן הצורי ) and אב סכוה סעד הדנפי respectively. In the extract from אב חסדה <<i#Tekhelet<< is defined as … צבע (אלאזרק) הפתוח אסמג׳ון הוא מראה השמים. In their explanations of the significance of <<i#tzitzit<< and <<i#Tekhelet<< these commentators practically reproduce the Jewish Aggadah and Rashi.",
+                        "type": "regular"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1720787024/HerzogDoctorate/text10-753x1024_xn6mey.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "<<The Tekhelet-colour According to Rashi<<.",
+                        "type": "title"
+                    },
+                    {
+                        "txt": "Reference has already been made to Aben Ezra’s definition of <<i#Tekhelet<< as yarok. Rashi the great Franco-Jewish exegete likewise interprets the word as .צבע ירוק<<6<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Does Rashi understand by yarok, green or blue? From his comment תכלת ירוק הוא וקרוב לצבע כרתי שקורץ פור״ש<<7<<, and his comment<<8<< on כל מיני צבעונין יפין לחלום חוץ מן תכלת ירוק הוא ומי שפניו ירוקים חולה הוא it appears that he conceived the <<i#Tekhelet<< colour as green playing into bluish. The translation current in the Jewish schools which at least in an instance like this undoubtedly is derived from good old tradition knows only of one rendering of <<i#Tekhelet<<, viz., blue. There can be no doubt that this was also the usual rendering in Rashi’s days. The school translation was not exactly based upon R. Meir’s saying but went back to oral tradition dating from the time the Jews first settled in Germany, France, etc. Rashi’s view of <<i#Tekhelet<< shows that he preferred consulting written sources, to relying upon oral tradition. According to him, as already explained, the position of Yam (sea) in R. Meir’s famous homily indicates that the nearest likeness of the <<i#Tekhelet<< colour is presented by the sea. Rashi would therefore turn to the sea for an illustration of what <<i#Tekhelet<< must have looked like.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "He would seem to have derived his idea of the sea colour from the British Channel or from the North Sea which as we know are of a green tint here and there playing into bluish. Hence, so at least it seems to me, he came to regard Tekhelet as essentially a green colour playing into blue.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Rashi is not however consistent throughout. In his commentary<<9<< reproducing a saying found in the Sifre, Rashi states that <<i#Tekhelet<< resembled the dark sky at dusk (sombre blue): “דומה לרקיע המשחיר לעת ערב.”",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "2a לונמסמא See Ch. V, p. 156, note ib.",
+                    "(i.e., sky colour) (لون السماء <<i#lawn alsama’ee<< https://translate.google.com/?sl=en&tl=ar&text=sky%20color&op=translate)",
+                    "colour of the sky (https://translate.google.com/?sl=ar&tl=en&text=%D8%A7%D8%B3%D9%85%D9%86%D8%AC%D9%88%D9%86&op=translate)",
+                    "See Jephath the Karaite’s commentary on the Pentateuch, section שלח Cf. above, n. 310; and Elijah ben Aharon the Karaite: “ציצית גן עדן”",
+                    "<<n<<בשם ה׳י<<n<<￫ ￫ שלום<<n<<תכלת.<<n<<אנחנו נעשה ציציות מן שנים עשר מין ממיני שנים עשר האבנים אשר על חשן האפוד מתרככת על פתיל תכלת:<<n<<וגלל עשותה מספר שנים ושלשה ציצה.<<n<<אבותינו עשו תכלת היה בימיהם משי כמו השמים והוו יעשו פתיל ממנו ואנחנו נעשה הנמצא ביומינו ככה <<i#יכלתן<<— ביום החמישי בשבוע י״ד לחדש הרביעי והוא תמוז שנת נ״ב וה״ק וג׳ אלף למושב ישראל לארץ כנען:<<n<<יעקב בן אהרן<<n<<הכהן הגדול לעדת השמרן בשכם<<n<<היום יום ב׳ בשבוע כ״ב לחדש אב והוא החמישי שנת נ״ב וה״ק וג׳ אלף לישראל.<<n<<… תשובה על השאלות שאלתה אתם:<<n<<א) צבע התכלת האמת <<i#אקרן<< כמו צבע השמים: לא מדם (החלזון,) ולא מעורנו(?): רק נעשה אתו מן שנים עשר מראה:<<n<<ב) התכלת אין דומה <<i#אקרו<< ולא אנחנו נעשה כה:<<n<<ג) התכלת מצבוע שנים עשר מראה<<n<<ד) התכלת עתקנו מאבותינו עשותה כאשר דברתי לך מלמעלה רק מעתקים אן אבותינו הראשונים עשו אתה מראהו כמראה השמים<<n<<ה) פתיל התכלת הוא אינו מצמר· ולא מפשתים· רק שש משזר (<<i#חריר<<)<<n<<בלשון ערבי —<<n<<יעקב בן אהרן הכהן בשכם",
+                    "Cf. Pentateuch Commentary Exod. 25.",
+                    "Ib. ברכות, ט ע״ב.",
+                    "Ib. ברכות נ״ז, ע״ב.",
+                    "Num. Ch. XV, v.37."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131497/HerzogDoctorate/0427100310_rcrssm.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131539/HerzogDoctorate/0427100311_rk9mkx.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131501/HerzogDoctorate/0427100312_y0kg8g.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131294/HerzogDoctorate/0427100313_clzkpu.jpg"
+                ]
             }
         ]
     },
     {
         "num": "7",
         "title": "THE PROCESS OF DYEING",
-        "subChapters": []
+        "subChapters": [],
+        "text": [
+            {
+                "txt": "<<i#A. Fibres Eligible for Ritual Tekhelet<<.",
+                "type": "title"
+            },
+            {
+                "txt": "No other material but wool was admissible for <<i#Tekhelet<<, whether <<i#Tekhelet shel mikdash<< (sacerdotal and cultural) or <<i#Tekhelet shel tzitzit<< (see Excursus). תכלת עמרא הוא declares the Talmud: “<<1<<​ <<i#Tekhelet<< is woollen.” The same applies to <<i#Argaman<< and tola’at shani (scarlet) as far as these stuffs were employed in the Sanctuary.",
+                "type": "regular"
+            },
+            {
+                "txt": "In Greek and Latin authors, Porphyra, <<i#Purpura<< and their derivatives stand for woollen or silken stuff dyed with purple pigment. Silk purple was probably not unknown in Phoenicia and Palestine, but its use in the temple was excluded by tradition. There can be but little doubt that purple dyeing in its early stages was confined to wool. Silk purple being a later extension of the industry naturally failed to gain admission into the Sanctuary, or the ritual (<<i#tzitzit<<).",
+                "type": "regular"
+            },
+            {
+                "txt": "Luther’s rendering of <<i#Tekhelet<< by “Gelbe Seide” is doubly wrong.",
+                "type": "regular"
+            },
+            {
+                "txt": "It would be interesting to trace the source of Luther’s error. He may have been misled by Aben Ezra on Esther 1,6. Aben Ezra, however, never meant his remark והיא משי to be universally applicable.<<2<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Abrabanel’s argument, needless to say, is devoid of the slightest force. As minister of the finances to Ferdinand, Abrabanel would often see purple. It would seem that the purple fabrics used at the Spanish court consisted exclusively of silk. It was probably that circumstance which caused Abrabanel to write on the Torah in this instance like a chancellor of the Exchequer.",
+                "type": "regular"
+            },
+            {
+                "txt": "One wonders how Abrabanel could so completely lose sight of several sugyot in the Talmud<<3<< and of the Mishnah.<<4<<",
+                "type": "regular"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1721562308/HerzogDoctorate/text11_zrjchu.png",
+                "type": "img"
+            },
+            {
+                "txt": "<<i#The Stage at Which the Dyeing Took Place.<<.",
+                "type": "title"
+            },
+            {
+                "txtOrg": "“Die antiken purpurnen Wollstoffe waren nicht im Garne oder gar im Gewebe, sondern roh gefärbt worden. Erst aus der Färberei ging die Purpurwolle in die Spinnerei über und von dort in die Weberei.”<<5<<",
+                "txtTrans": "“The ancient purple wool fabrics had not been dyed in yarns or even in fabric, but raw. It was only from the dyeing factory that the purple wool passed into the spinning mill and from there into the weaving mill.",
+                "type": "translation"
+            },
+            {
+                "txt": "<<i#Tekhelet<< seems to have formed no exception to the rule. The Mishnah<<6<< in enumerating the thirty-nine principal labours which are forbidden on Sabbath takes as an illustration of some of these the processes connected with the making of woollen cloth: in the series which begins with the shearing of the wool, dyeing precedes spinning and weaving. The order in this, as well as in the other series is, as the Gemara states, in strict accordance with fact. I should add that the series are based upon the operations carried out in connection with the construction of the Tabernacle and have therefore in view the manufacture of <<i#Tekhelet<<, etc…",
+                "type": "regular"
+            },
+            {
+                "txt": "Moed Katan 19a speaks of the spinning of ”<<i#Tekhelet<< for <<i#tzitzit<<“:",
+                "type": "regular"
+            },
+            {
+                "txt": "וטווה על יריבו תכלת לציציתו בין במדן בין בפלך.",
+                "type": "hebrew"
+            },
+            {
+                "txt": "Though <<i#Tekhelet<< sometimes stands in the Talmud for <<i#tzitzit<< as a whole, yet the exprèssion “<<i#Tekhelet<< for <<i#tzitzit<<” hardly leaves a doubt that <<i#Tekhelet<< in the strict sense is meant here. Eruvin 96b points in the same direction.",
+                "type": "regular"
+            },
+            {
+                "txt": "Nowhere, however, is there an express statement declaring the order to be an essential requirement, though indeed Pentateuchal authority might be adduced as pointing in that direction.",
+                "type": "regular"
+            },
+            {
+                "txt": "“And every man, with whom was found <<i#Tekhelet<< and <<i#Argaman<<, … brought there.”<<7<< “And all the women that were wise hearted spun with their hands, and they brought that which they had spun of the <<i#Tekhelet<<, and of the <<i#Argaman<<, etc.. .”<<8<< V.23 speaks of dyed raw wool, while v.25 refers to the spinning of the coloured materials.",
+                "type": "regular"
+            },
+            {
+                "txt": "From Josephus we further learn that the wool for the use of the Tabernacle was in some cases dyed when still attached to the skin. But it is hard to discover what authority he may have had for the additional information he thus incidentally affords us.<<9<<",
+                "type": "regular"
+            },
+            {
+                "txt": "A passage in the Midrash Tanhuma might be mistaken as affording evidence of the prevalence of a practice in certain Palestinian purple factories of having the wool dyed before its being shorn off the skin, but the text is palpably corrupt and on being duly corrected the passage indicates nothing of the kind.<<10<<",
+                "type": "regular"
+            },
+            {
+                "txt": "<<i#Process of Dyeing as Recorded in the Talmud.<<.",
+                "type": "title"
+            },
+            {
+                "txt": "A recipe in the proper sense for the dyeing of <<i#Tekhelet<< is not to be found anywhere, at least so far as I am aware of. The account given by R. Samuel b. Judah leaves very much to be desired. “Abayi said to R. Samuel b. Judah, ‘That <<i#Tekhelet<< how do ye dye it?’ He said to him. ‘We take (lit. bring) <<i#hillazon<< blood and drugs (sammanin) put them into a kettle, boil the mixture, and then take out something of the liquid in an egg-shell, and test the sample with a bit of (soft) wool.<<11<< We throw away that egg-shell and burn the trial sample of wool.'” The following inferences are to be drawn from this account:",
+                "type": "regular"
+            },
+            {
+                "txt": "Wool dyed as a trial sample is unfit (i.e., for ritual <<i#Tekhelet<<): 2) <<i#Tekhelet<< must be dyed “<<i#lishmah<<” (for its own sake); the testing of the dye renders it unfit (i.e., for ritual Tekhelet, etc.. .).<<12<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Are we to infer from the conciseness of R. Samuel’s answer that Abayi had only asked for information in so far as concerning the halakhic aspect of the dyeing process? No particulars are given about the “drugs” employed together with the blood derived from the <<i#hillazon<<. This is very unfortunate. Commentators differ. “It is very strange that extraneous matter should have been mixed with the <<i#Tekhelet<< dye, but perhaps it was the combination of the <<i#hillazon<< pigment with these drugs that constituted the <<i#Tekhelet<< dye.”<<13<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Rashi’s note is of extreme importance: “ve’sammanim. “It is the practice of dyers to imbue cloth with serif שרף which is called “beitze.” Rashi refers to the treatment of cloth with alum-mordant in order to fix the colour to the fibre. (German: ‘AlaunBeitze’). The commentator’s object is evidently to meet by anticipation the difficulty referred to in the Tosaphot. The sammanim, Rashi holds, are simply mordants and have nothing to do with the production of the colour. Maimonides, it would appear, is of the opinion that the drugs (sammanim) only served to cleanse the dye from impurities: “How is <<i#Tekhelet<< dyed? The wool is soaked in chalk and washed until it is clean, and then boiled with ‘ahala‘ and the like, as is the practice of dyers, in order to prepare the wool for absorbing the colour. The blood of the <<i#hillazon<< is then put into the vat (kettle) together with drugs such as kimonia (cimolia), as is usual in dyeing; the liquid having been raised to a boiling heat; the wool is immersed therein, remaining in that condition until it has the colour of the sky and this is the <<i#Tekhelet<< used for <<i#tzitzit<< (<<i#Tekhelet shel tzitzit<<).<<14<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Cimolia is a cleansing substance, reference to which occurs several times in Pliny.<<15<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Samuel b. Hofni leaves us somewhat in the dark as to his view on the question. “The information has come down to us that it (<<i#Tekhelet<<) was dyed with the blood of an aquine (marine) animal called <<i#hillazon<< mixed with another (substance).”<<16<<",
+                "type": "regular"
+            },
+            {
+                "txt": "This rather gives the impression that the sammanim formed an essential part of the dye, assisting in the production of the requisite colour.",
+                "type": "regular"
+            },
+            {
+                "txt": "Appearances, in the Talmud, I feel, point in the opposite direction. The absence of all specification of the sammanim in question, tends to indicate that the latter stuffs were not essential to the production of the colour. But if R. Samuel b. Judah, Abbayi’s informant, was under the impression that the latter was only interested in the halakhic aspect of the dyeing process; then R. Samuel’s silence on the nature and specification of the sammanim would not warrant the inference which seems to underlie Samuel ben Hofni’s statement. It is hard to arrive at a definite conclusion.",
+                "type": "regular"
+            }
+        ],
+        "footNotes": [
+            "Yevamot 4b.",
+            "Compare: Abrabanel’s commentary on Exodus 25. <<n<< ״עוד אמר תכלת וארגמן ותולעת שני. והרלב״ג כתב שהיה כל זה צמר במראות והצבעים ההם. ואין זה נכון כי הצמר קרא אותו הכתוב ע1ים אבל התכלת והארגמן ותולעת השני הם כולם משי וכו,.״",
+            "See Excursus to this chapter. A curious document ascribed to a Roman consul makes mention of “silk Tekhelet” worn by the Levites in the procession which took place annually seven days before the Day of Atonement.",
+            "Kil’aim ch. 9: See שבט יהודה by Judah ibn Virgo and סדר דורות Warsaw (1897), p. 167.",
+            "Schmidt, A., ibid., p. 153.",
+            "Cf. שבת, פרק כלל גדול, משנה ב׳.",
+            "Exodus ch. 35, v.23.",
+            "Idem, v.25.",
+            "It has no support in the Masoretic Text, nor is it sustained by the LXX.",
+            "ד הושעיא הגדול שונה אם רוב אנשי העיר מלאכתו דרך מותר לו לישא את כפיו כשם שיש בדרום עירות צבעות ארגמן ומבין ידיהם צבועות וכו׳ <<n<< Tanhuma section נשא Lublin (1896). Correct: ״,עירות צובעות ארגמן״ “towns engaging in the dyeing of Argaman.”",
+            "Cf. Pliny, IX, 38: “vellus elutriatum mergitus in experimentum et dones spin satis fiat uritem liquor.”",
+            "Menahot 42b.",
+            "Tosaphot, <<i#ib<<.",
+            "Maimonides, Hilkhot tzitzit, II, 2. With reference to this preparation of the wool alluded to by Maimonides. compare Pliny, (ib., 9, 3) “elutriatum velus, “and Plato (Critias, 11).",
+            "Pliny, ib., XX, 81, etc.",
+            "See my article in J.Q.R. July 1914."
+        ],
+        "orgPdfs": [
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131458/HerzogDoctorate/0427100314_uef0y5.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131252/HerzogDoctorate/0427100315_sbu81g.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131294/HerzogDoctorate/0427100316_ipmak8.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131602/HerzogDoctorate/0427100317_vnfzij.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131535/HerzogDoctorate/0427100318_a4cauh.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131499/HerzogDoctorate/0427100320_tjnz8a.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131529/HerzogDoctorate/0427100319_nw6zo5.jpg"
+        ]
     },
     {
         "num": "8",
         "title": "THE FASTNESS OF THE Tekhelet DYE",
-        "subChapters": []
+        "subChapters": [],
+        "text": [
+            {
+                "txt": "In older sources there is no explicit statement on the fastness of the <<i#Tekhelet<< dye. It is however implied in the prescriptions for the tests whereby indigo might be distinguished from <<i#Tekhelet<< that the latter dye was faster than indigo (<<i#kala-ilan<<) which as we know has the reputation of being very fast to light and to soap.<<1<< ”This applies to <<i#kala ilan<< which is not removable by means of soap.<<2<< Professor Rosenstiehl, professor of dyeing at the Conservatoire National des Arts et Métiers has, however, informed me that indigo, though fast to soap, is impaired by strong rubbing (frottage).<<3<< Does it follow that <<i#Tekhelet<< was not superior to indigo in that respect, for otherwise the somewhat elaborate tests might have been dispensed with? The inference would seem to have the support of no less an authority than R. Gershom ben Judah “The Light of the Exile (960-1028). “Rabbi Jehudah would hand it over to the washer, Reb. Hanina’s practice was to protect the <<i#tzitzit<< by a sort of wrapper in delivering the garment to the laundry. Rabina would insert the <<i#tzitzit<< in a kind of pocket specially designed for the purpose which he would sew up before handing over the garment to the washer.<<4<< R. Gershom in his commentary annotates as follows: “R. Jehudah would hand over the garment with <<i#Tekhelet<< to the washer asking him to take care that the colour of the <<i#Tekhelet<< does not get spoiled … he (sc. R. Hanina) would wrap the <<i#Tekhelet<< wound with other threads in order to protect its colour against deterioration, etc.<<5<< According, however, to Rashi’s interpretation there is no reference here to the effect of washing upon the <<i#Tekhelet<< colour.<<6<< The explanation of the passage given by the Gaon Rab Amram, an earlier author than R. Gershom, though not agreeing with that of Rashi, also involves no allusion to the impairability of <<i#Tekhelet<<:<<7<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Maimonides’ Code contains an important statement which is, however, too general to be of much avail in the present inquiry . . .”As for the <<i#Tekhelet<< prescribed for <<i#tzitzit<<, it’s dyeing must be of a certain kind which produces a colour abiding in its beauty and which does not become altered, etc.<<8<< This is somewhat vague, giving no indication of the extent of the durability and fastness of the <<i#Tekhelet<< dye, but it undoubtedly implies fastness to light.",
+                "type": "regular"
+            },
+            {
+                "txt": "The inalterability of the purple dye in general has already been discussed.",
+                "type": "regular"
+            },
+            {
+                "txt": "In the experiments made by William Cole with the dye of <<i#Purpura<< lapillus the first washing somewhat allayed the colour, though it afterwards continued insusceptible to alteration by washing. This fact, however, scarcely has any bearing upon the passage Menahot 41 b. as interpreted by R. Gershom. The language of the Talmudic statements cannot reasonably be made to apply only to the first washing.",
+                "type": "regular"
+            },
+            {
+                "txt": "Of far greater importance is the information supplied by Lacaze-Duthiers that the dye of Murex trunculus is not fast to washing (“ne resiste pas au lavage״). This fact must also be taken into consideration in connection with the study of the <<i#Tekhelet hillazon<<, or the <<i#Tekhelet<<-giving species of mollusc.",
+                "type": "regular"
+            }
+        ],
+        "footNotes": [
+            "״.צפון״ Compare: Baba Kama 93b.",
+            "This does not of course mean that <<i#Kala-ilan<< is not <<i#impaired<< by washing with soap.",
+            "My own experiments have so far not confirmed Professor Rosenstiehl’s assertion.",
+            "Menahot 41b.",
+            "R. Gershom’s commentary, ib.. in the Wilna ed. of the Talmud, 1884.",
+            "Rashi, <<i#ib<<.",
+            "R. Amram Gaon, <<i#Itiur tzitzit<<. 2.",
+            "Maimonides, <<i#Hilkhot tzitzit<<. I, 1."
+        ],
+        "orgPdfs": [
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131248/HerzogDoctorate/0427100321_yupo2s.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131528/HerzogDoctorate/0427100322_jnkmbo.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131606/HerzogDoctorate/0427100323_eppbxi.jpg"
+        ]
     },
     {
         "num": "9",
         "title": "TESTS FOR DETECTING FRAUDULENT IMITATIONS OF Tekhelet",
-        "subChapters": []
+        "subChapters": [],
+        "text": [
+            {
+                "txt": "<<i#Allusions and References to Imitation Purple in Homer, Pliny, and Vitruvius.<<",
+                "type": "title"
+            },
+            {
+                "txt": "Imitations of purple with vegetable dyestuff would seem to have been pretty common already in Homeric times, if the expression “<<i#aliporphyra<<” <<1<< has been rightly explained as signifying marine in contradistinction to vegetable or imitation purple. Personally I am not quite sure about this. Ctesias speaks of the imitation of purple in India by the means of a dye obtained from certain native plants in terms which give the impression that in his time the vegetable purple (<<i#Porphyra sotane<<)<<2<< was still very rare among the Greeks. Not only in Homeric times but even centuries after, the term “<<i#porphyra<<” used without any qualifying epithet stood for nothing but marine conchylian purple. The LXX in rendering <<i#Argaman<<, which as we know uses marine purple, never employs any other expression than “<<i#porphyra<<.” Aquilas especially would have indicated somehow the marine character of <<i#Argaman<< if ambiguity were possible.",
+                "type": "regular"
+            },
+            {
+                "txt": "The coining however of a special word <<i#aliporphyra<< for distinguishing marine from botanic purple would presuppose a high degree of possibility of confusion on the point in very early times.",
+                "type": "regular"
+            },
+            {
+                "txt": "Are we to suppose that “<<i#porphyra<<” originally designated a vegetable or botanic dye being either the names of the plant producing it or owing its appellation to some other reason; that the marine purple was named “<<i#porphyra<<” on account of its resemblance in colour to the latter; and lastly that in Homeric times the marine purple had not yet completely superseded its vegetable predecessor, so that it was necessary to distinguish the former through characterising it as sea purple “<<i#aliporphyra<<”?",
+                "type": "regular"
+            },
+            {
+                "txt": "What occasion is there, besides, in those particular passages for emphasizing the marine origin of the “<<i#porphyra<<” referred to?",
+                "type": "regular"
+            },
+            {
+                "txt": "May not “<<i#aliporphyra<<” rather mean sea-like purple, resembling the colour of the Mediterranean sea, dark sapphire blue, <<i#Tekhelet<<, as distinct from the brighter or reddish purple, <<i#Argaman<<?",
+                "type": "regular"
+            },
+            {
+                "txt": "But whether Homer alludes to “<<i#sotane porphyra<<” or not, Pliny and Vitruvius speak plainly of purple imitations with vegetable dye.<<3<<",
+                "type": "regular"
+            },
+            {
+                "txt": "I cannot recall any references to tests in Greek and Latin authors. In the majority of cases, probably, the test would consist in subjecting the fabric to a thorough washing and rubbing with soap and scalding water.",
+                "type": "regular"
+            },
+            {
+                "txt": "<<i#Tests for Tekhelet in the Talmud.<<",
+                "type": "title"
+            },
+            {
+                "txt": "For <<i#Tekhelet<< the Talmud records two testing processes: one due to R. Isaac b. R. Jehuda,(Menahot 43.) the other to R. Avira in whose name it was reported by R. Ada.<<4<< In the first case (I) a sample of the wool in question was allowed to soak overnight in a mixture of alumine, fenugrec juice and urine forty days old<<5<< (or according to a variant reading urine of a forty days old child). If the colour remained unimpaired the <<i#Tekhelet<< was proved genuine. The other test (II) consisted in putting some of the wool into an over fermented dough made of barley flour, and baking the dough. If after the baking operation was over, the sample on being taken out showed a change for the better in the quality of the colour, the wool would be pronounced genuine <<i#Tekhelet<<, if for the worse, it would be rejected.<<6<<",
+                "type": "regular"
+            },
+            {
+                "txt": "The <<i#Tekhelet<< imitations were usually made with indigo which being fast to light and washing could not be easily detected as a fraud.",
+                "type": "regular"
+            },
+            {
+                "txt": "<<i#Chemical Aspects of the Tests.<<",
+                "type": "title"
+            },
+            {
+                "txt": "In test (I) we miss an indication of the proportions in which the several constituents are to be mixed. What is the value of these tests from the chemical point of view? Professor A.C. Green, professor of dyeing and tinctorial chemistry at the University of Leeds, informs me in his reply<<7<< to this and other questions:",
+                "type": "regular"
+            },
+            {
+                "txt": "1) — It would seem clear from the quotations given that the tests prescribed have the object of ascertaining whether the dye is easily ‘reduced’ (hydrogenated). Indigo is more readily hydrogenated and removed from the fibre in the form of its leuco compound than is the brominated indigo (of which the purple probably chiefly consists). In both cases the action doubtless depends on the evolution of hydrogen by the fermenting organic matter.",
+                "type": "regular"
+            },
+            {
+                "txt": "2) — It seems likely that the <<i#Tekhelet<< was faster than indigo.",
+                "type": "regular"
+            },
+            {
+                "txt": "3) — Indigo like all ‘vat’ dyes is very fast to soap. In pale and medium shades it is not very fast to light, in which respect it is surpassed by the brominated indigos.",
+                "type": "regular"
+            },
+            {
+                "txt": "4) — Brominated indigos are all brighter in shade than indigo itself.",
+                "type": "regular"
+            },
+            {
+                "txt": "5) — All ‘vat’ dyes are fixed on the fibre by oxidation. In the bath the dye is not present as such but as a soluble leuco or hydro compound. If the oxidation on the fibre is not complete the dye will be easily removed by washing.”",
+                "type": "regular"
+            },
+            {
+                "txt": "<<i#Origin of the Tests.<<",
+                "type": "title"
+            },
+            {
+                "txt": "We are told absolutely nothing about the authorship of these tests whether they were invented by the Amorains whose names they bear or whether they really dated from earlier times.",
+                "type": "regular"
+            },
+            {
+                "txt": "The Tosephta Menahot<<8<< which contains the important halakhah declaring all non <<i#hillazon Tekhelet<< unfit, mentions nothing about the existence of a criterion for distinguishing false from true <<i#Tekhelet<<, nor is there any allusion to a test of this nature in the Baraita <<i#d’tzitzit<<.",
+                "type": "regular"
+            },
+            {
+                "txt": "On the other hand the Baraitha <<i#d’tzitzit<< states that <<i#Tekhelet<< picked up at random, though elaborated in the form of <<i#tzitzit<<, is ritually unfit because <<i#Tekhelet<< for <<i#tzitzit<< must be obtained from a dealer of recognised competence and reliability:",
+                "type": "regular"
+            },
+            {
+                "txt": "המוצא תכלת אעפ״י שהיא שזורה פסולה שאין לוקחין תכלת אלא מן המומחה.",
+                "type": "hebrew"
+            },
+            {
+                "txt": "Partially disagreeing with this an halakhah states in the Talmud<<9<< that if the <<i#Tekhelet<< in the above case is in the form of threads, thus indicating its destination for <<i#tzitzit<<, it is fit.",
+                "type": "regular"
+            },
+            {
+                "txt": "In the Talmud the halakhah is cited in the name of the Amora R. Elazar, a description which would seem to indicate that it was not current as a Tanaitic baraitha. But R. Zera at any rate regarded it as Tanaitic for he said to his son Ahabah, “Go out and communicate to them the baraitha.”",
+                "type": "regular"
+            },
+            {
+                "txt": "א״ר אלעזר המוצא תכלת בשוק לשונות פסולין חוטין מופקין כשרה R. Zera’s version however shows a certain improvement. Raba, it is true, somewhat angrily exclaimed “Does the mere fact of its being communicated by Ahaba the son of R. Zera hang it round with jewels?” But the great Amora does not thereby convey a suspicion about its Tanaitic origin.",
+                "type": "regular"
+            },
+            {
+                "txt": "Neither, however, in the form in which it is quoted in the name of R. Elazar, nor in that expressed by R. Zera with a claim to Tanaitic origin, is there a statement giving the reason for the halakhah as is the case in the Baraitha <<i#d’tzitzit<<. שאין לוקחין וכו",
+                "type": "regular"
+            },
+            {
+                "txt": "From the Talmudic discussion it is clear that the ground is <<i#lishmah<< (לשמה) that it is the rejection in the one case is due to the apprehension that the <<i#Tekhelet<< might be <<i#shelo lishmah<< or not specially dyed and prepared for <<i#tzitzit<<; the acceptance in the other case is based on indications in the <<i#Tekhelet<< in question that it was specially worked for <<i#tzitzit<<.<<10<< But there is no allusion in the Sugya by Erubin 96 to the possibility of the <<i#Tekhelet<< being <<i#kala-ilan<< or imitation <<i#Tekhelet<<.",
+                "type": "regular"
+            },
+            {
+                "txt": "Does then the Baraitha imply that this must be ascertained by means of testing? It would then follow that a testing process for <<i#Tekhelet<< already existed in Tanaitic times. But the inference is at least dubious. The dictum of the Baraitha <<i#d’tzitzit<<, that <<i#Tekhelet<< must be obtained from a person of recognised trustworthiness and competence, also occurs in the Talmud Menahot 43. Does not this conflict with Erubin 96b? The Tosaphists indeed comment upon the difficulty. Their solution amounts to saying that just because of the law in rejection of <<i#Tekhelet<< obtained from a doubtful source, there is a strong presumption that <<i#Tekhelet<< bearing internal evidence of its having been prepared for <<i#tzitzit<< by its owner, emanates from a reliable source. This might do as far as concerns the Babylonian Talmud, but it fails to reconcile the Palestinian Baraitha <<i#d’tzitzit<< with the former. The latter is outspoken enough.",
+                "type": "regular"
+            },
+            {
+                "txt": "The Palestinian practice would seem to have been stricter in this respect than that obtaining in Babylonia.",
+                "type": "regular"
+            },
+            {
+                "txt": "<<i#The Character of the Tests Are They Obligatory, or Optional?<<",
+                "type": "title"
+            },
+            {
+                "txt": "We are now brought face to face with a difficult question: Were those tests obligatory? Had <<i#Tekhelet<< obtained from a trustworthy and competent source to be submitted to a test before being passed as Kosher (ritually fit)? A baraitha quoted in Menahot 43b states: “There exists no test for <<i#Tekhelet<<, it must not be obtained from any one but a person of acknowledged competence and reliability.”",
+                "type": "regular"
+            },
+            {
+                "txt": "תכלת אין לה כריקה אינה ניקחת אלא מן המומחה.",
+                "type": "hebrew"
+            },
+            {
+                "txt": "Prima facie this conflicts with R. Isaac b. Judah and R. Avira as reported by R. Ada who prescribe tests for <<i#Tekhelet<<. The Talmud notes the contradiction. A modern method of dealing with discordant tests would have steered clear of the difficulty by introducing the factors of time and evolution: In Tannaic times the tests of R. Isaac and R. Ada had not yet been discovered. This method, however, all too freely employed by modern criticism of the Bible, is but rarely resorted to in the Talmud. The Talmud reconciles the discrepancy by explaining the Baraitha as meaning that tests are useless because no test can ascertain whether the stuff is not trial-<<i#Tekhelet<<, or dyed as an essay to see whether the dye had already reached the desired degree of perfection: טעימה. In that case it would of course be unfit on the ground of shelo lishmah, that it is not expressly dyed for the ritual purpose. Tekhelet must therefore be obtained from an authoritative source. But if so, one might reasonably inquire, what is the good of the tests of R. Isaac and R. Ada? If the <<i#Tekhelet<< has been, as it indeed must be, procured from a proper authority who perforce must be believed with regard to <<i#lishmah<< he might as well be trusted right through? There is apparently no escape from the conclusion that the tests are by no means obligatory, their value being only of a negative nature. If applied, uncalled for of course, to <<i#Tekhelet<<, they have the effect of vitiating it, if the results tell against its genuineness.",
+                "type": "regular"
+            },
+            {
+                "txt": "That this is the opinion of the greatest codifier of the Talmud is, I think, as clear as daylight. “<<i#Tekhelet<<, may not be obtained except from a <<i#mumheh<< (reliable authoritative person), it being feared lest it was dyed <<i#shelo lishmah<< (for other than the ritual purpose). Though obtained from a <<i#mumheh<<, if it is tested and found to be dyed with one of the other blackening dyes which are not durable then it is unfit, etc.”<<11<<",
+                "type": "regular"
+            },
+            {
+                "txt": "An earlier authority, however, Samuel b. Hofni (died 1034), gaon and chief of the Academy at Sora (Babylonia) seems to hold that the tests are meant to be obligatory. “On account of the great difficulties which the preparation of <<i#Tekhelet<< involves it must not be obtained except from a person of acknowledged honesty and truthfulness and even so it had to be tested to make sure that it was not dyed with a dye other than the one indicated (by the Law).”<<12<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Samuel b. Hofni would seem to have thought that the language of the Talmud implies the obligatory character of the tests. But how to escape from the difficulty discussed in the preceding paragraph? Singularly enough the German archaeologist W. Adolf Schmidt, who knew as much Talmud as Samuel b. Hofni knew German, here quite unconsciously to be sure comes to the rescue of the distinguished head of the greatest Judaeo-Babylonian Academy.",
+                "type": "regular"
+            },
+            {
+                "txt": "The Republic of Letters is no mere figment of the imagination!",
+                "type": "regular"
+            },
+            {
+                "txt": "Schmidt, on the ground of an allusion found in a certain papyrus, maintains that purple dyeing was not confined to the coastlands. If Schmidt is right then the inland dye-houses owing to the difficulty of preserving the molluscs in fit condition during the course of the transport would probably prefer to procure the dye already extracted. Care would of course be taken to protect the dye against the action of light on the way from the coast to the factory.",
+                "type": "regular"
+            },
+            {
+                "txt": "It might thus happen that a maker of <<i#Tekhelet<< having his establishment far removed from the coast and procuring his dye from an indifferent source would be under the necessity of testing <<i#Tekhelet<< in order to ascertain its genuineness. The bedikah (test) in that case would be obligatory for the <<i#mumheh<< himself.<<13<<",
+                "type": "regular"
+            },
+            {
+                "txt": "Dr. Dedekind, however, strongly dissents from Schmidt in this instance.<<14<<",
+                "type": "regular"
+            }
+        ],
+        "footNotes": [
+            "αλήπορφύρα = “crimson”",
+            "Cf. W. Adolf Schmidt op. cit., p. 100.",
+            "Pliny, 22, 33: 21, 26, 97; 9, 41, 64; 18, 31. Vitruvius 7, 13.",
+            "Menahot 43.",
+            "So Samuel b. Hofni.",
+            "Menahot 43b, 44a; Maimonides’ Code omits alumine in Test I, but the reading of our copies has the support of Samuel b. Hofni (d. 1034), Chief of the Academy at Sora.",
+            "His highly instructive letter is dated July 29th, 1913.",
+            "Menahot, ch. 8.",
+            "Erubin 96b.",
+            "Cf. Rashi, <<i#ib<<.",
+            "Maimonides, Hilkhot tzitzit, II 4-5, Cf. Keseph Mishnah, ad locum.",
+            "R. Samuel b. Hofni, <<i#Treatise on the tzitzit<<. unique Arabic Ms., Saint Petersburg Imperial Library, ed. R.I. Herzog, ch. 9.",
+            "An homily in the Sifre שלח calling down divine retribution upon hypocrites pretending to have <<i#Tekhelet<< in their <<i#tzitzit<< while in reality they have kala-ilan shows that this sort of religious as distinct from commercial fraud was widespread already in Tanaitic times. Cf. Chapter V, p. 125 Cf. 61 בבא מציעאb. Cf. also תוספתא בבא קמא and מכילא משפטים",
+            "Dedekind, Beitrag, i, pp. 179-186."
+        ],
+        "orgPdfs": [
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131605/HerzogDoctorate/0427100325_efadgb.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131536/HerzogDoctorate/0427100326_vm18gr.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131606/HerzogDoctorate/0427100327_fvcavr.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131629/HerzogDoctorate/0427100328_ulepzm.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131607/HerzogDoctorate/0427100329_psxiq7.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131628/HerzogDoctorate/0427100330_foxfa5.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131515/HerzogDoctorate/0427100331_bpnguy.jpg",
+            "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131602/HerzogDoctorate/0427100332_yfxrxs.jpg"
+        ]
     },
     {
         "num": "10",
         "title": "THE RITUAL USES OF Tekhelet",
-        "subChapters": []
+        "subChapters": [],
+        "text": [],
+        "footNotes": [],
+        "orgPdfs": []
     },
     {
         "num": "11",

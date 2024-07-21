@@ -43,7 +43,7 @@ app.use('/api/chapter', chapterRoutes)
 
 
 app.get('/**', (req, res) => {
-    console.log('hi');
+    // console.log('hi');
     res.sendFile(path.resolve('public/index.html'))
 })
 
