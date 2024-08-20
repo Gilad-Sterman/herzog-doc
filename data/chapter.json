@@ -4524,54 +4524,761 @@
             {
                 "num": "11A",
                 "title": "History of Tekhelet-dyeing in Israel; Centres of Production",
-                "txt": [],
-                "footNotes": [],
+                "txt": [
+                    {
+                        "txt": "The history of <<i#Tekhelet<<-dyeing in Israel is buried in obscurity. Tradition singles out the territory of Zebulun as the centre of purple production in Palestine. “Zebulun complained before the Holy One. Blessed be He, ‘O Lord of the Universe, unto my brothers Thou hast given fields and vineyards, but unto me Thou hast given mountains and hills; unto my brothers Thou has given lands but unto me Thou hast given seas and rivers.’ God answered him: ‘They will all stand in need of you because of the <<i#hillazon<<‘: for it is said “They will call the tribes unto the mountains.., for they will suck the abundance of the seas and the treasures hid in the sand.”<<1<< R. Joseph taught “<<i#Sephunei<< refers to the <<i#hillazon<<,”<<2<< etc.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "King David in specifying the various materials prepared by him for the future temple, makes no mention of <<i#Tekhelet<< or <<i#Argaman<<.<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "This circumstance tends to show that the production of purple was a home-industry in Davidic times, so that there was no need to store the article in providing for the requirements of the projected sanctuary. It is scarcely necessary to add that the inference has its roots solely in the authority of the Chronicler, the value of which is greatly deprecated by the critical schools of modern Bible exegesis. But even upon the critical view, it would, I think, not improbably follow that at least in the Chronicler’s age the manufacturing of <<i#Tekhelet<< and <<i#Argaman<< was practised on the Palestinian coasts.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The occurrence of <<i#Tekhelet<< and <<i#Argaman<< in the enumeration of the articles of value sent by Hezekijah to Senaherib is hardly relevant here.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "A baraitha reported by Rab Joseph<<4<< interprets part of Jeremiah<<5<<, as meaning that Nebuzradan left some of the poorest people of the land to engage in the fishing of the <<i#hillazon<< on the coast extending from the Ladder of Tyre to Haifa. This would point to that stretch of country as the home of Jewish purple manufacture.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "A baraitha<<6<< speaks of the Hittite city Luz as the centre of <<i#Tekhelet<< production <<i#par excellence<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "With reference to Judges<<7<< the baraitha states: “This is the same Luz where <<i#Tekhelet<< is (or was) dyed; it is the same Luz whose inhabitants Senaherib did not (or could not) deport; which Nebukadnesar did not (or could not) destroy; nor dare even the Angel of Death pass through it, but its old men and women when they have grown weary of life go out of the city walls and die, etc…” The context gives the impression that the very site of Luz was no longer known when that baraitha originated.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is interesting to compare the Aggadah asserting that the resurrection of the body will begin with the spinal bone “luz” as its starting point.<<8<< It is hard to determine the exact relation of the two Aggadoth.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Sanhedrin 12a also alludes to Luz as preeminent in <<i#Tekhelet<< manufacture. “A pair came from Reket, carrying in their hands things made at Luz – i.e., <<i#Tekhelet<<, etc…” This close association of Luz with <<i#Tekhelet<< does not seem to me explicable except on the supposition that there existed an old tradition connecting the discovery of <<i#Tekhelet<<-dyeing with a city, of the name of Luz. This may well have been a city in the vicinity of the Syrian coast, belonging to the great Hittite empire in Northern Syria. The allusion, however, in Sanhedrin 12a hardly proves that down to the date of that missive (c. second quarter of the 4th century C.E.) Luz retained its position as mistress of the art of <<i#Tekhelet<< dyeing. The baraitha (n. 378), just noted, indicates that already in the Tanaitic age Luz passed for a sort of terrestrial Paradise, a forbidden city to the Angel of Death.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "As purple dyeing was probably confined, at least in the main, to the coasts, it is very unlikely that Jerusalem ever harboured a dye-house of <<i#Tekhelet<< and <<i#Argaman<< of which the Temple made considerable use. The Tosephta<<9<< states that planting, ploughing and sowing were prohibited within the city area in Jerusalem. The reason as stated in Baba Kama 82b, was that the manuring of the ground, which these operations would necessitate, might be productive of a bad smell in the Holy City.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "That no provision was made against the establishment of purple dye-houses on a similar ground proves nothing, if purple dyeing was, as seems probable, mostly limited to coasts. This perhaps affords a point against Schmidt’s view that the production of purple was exercised to a considerable extent in inland localities far removed from the sea.<<10<< Against this however should be weighed the consideration that if the manufacturing of purple really produced a very offensive smell its establishment would not be permitted within a certain area from the boundaries of any Palestinian city, not only Jerusalem.<<11<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Geographia Graeca<<12<< names Sarepta Caesarea, Neapolis and Lydda as purple supplying cities, thus indicating that the industry covered an area comprising the coasts of Syro-Phoenicia, Galilee, Samaria and Judaea. Migdal Sabaja in the neighborhood of Lydda (Lud) would also seem to have contained an important purple market.<<13<<",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Deut. ch. 33, v.19.",
+                    "Megillah 6a. Compare: Sifre, Deut. ch. 33, v.29; and Targum Jonathan, ib. <<n<< ויאחרון חלזונים ויצבעון בים דמיה תכלת לחוטי גוליתיחון",
+                    "I Chron. ch. 29; cf. ib. II, ch. 2, vs.213-6-; chs. 3, v.l4. cf. also ib. I, ch. 29, v.26 with Exod. ch. 25, vs.3-4-7.",
+                    "26 שבתa.",
+                    "Jerem., ch. 52, v.16.",
+                    "Sotah 46b.",
+                    "Judges, bk. I, ch. 26.",
+                    "Cf. בראשית רבה; Cf. תוספות בבא קמא ט״ז ד״ה והוא",
+                    "Tosephta, Negaim, ch. VI.",
+                    "See: Dedekind, Beitrag I, pp. 179, 899.",
+                    "See: Baba Bathra, 25a.",
+                    "<<i#Geographia Graeca<<, Jerusalem, Fratres Minores (1897), v.II, pp. 5-13, 29.",
+                    "Cf. סינרי פלגס כמגדל צבעיא, ירושלמי, תענית <<n<< This possibly means dealers in purple; cf. pelagia."
+                ],
                 "orgPdfs": [
-                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131257/HerzogDoctorate/0427100342_o36gzc.jpg"
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131257/HerzogDoctorate/0427100342_o36gzc.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131520/HerzogDoctorate/0427100343_nznvid.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131535/HerzogDoctorate/0427100344_ggylzb.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131567/HerzogDoctorate/0427100345_w2lvn5.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131564/HerzogDoctorate/0427100346_wlr9a1.jpg"
                 ]
             },
             {
                 "num": "11B",
                 "title": "Palestine as the Source of Supply of Ritual Tekhelet to Babylonian Jewry",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "The impression created by a careful perusal of Menahot is that it was from Palestine that Babylonian Jewry, at least in the later Amoraic age, procured the <<i#Tekhelet<< they required for the <<i#tzitzit<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“Abayi said to Rab. Samuel bar Jehudah, ‘That <<i#Tekhelet<< – how do ye dye it?’ He said to him, etc.. .”<<1<<​ Rab. Samuel b. Jehudah who emigrated from Palestine about 337 C.E. is chiefly noted for a number of interesting <<i#halakhot<< he brought to Babylonia from the academies in the Holy Land. The language of the question put to him about the process of <<i#Tekhelet<< dyeing implies in all probability that such knowledge is expected from him on account of his Palestinian origin. It is not improbable that he was also known to have actually exercised in the Holy Land the trade of <<i#Tekhelet<<-dyer.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“Mar of Mashkhi brought <<i#Tekhelet<< in the lifetime of Rab. Ahai, etc…”<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The terms of this record too, so it seems to me, point to Palestine as the source of the importation intended for the use of the daughter community in Babylonia.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The impression thus gained from Menahot receives very appreciable support from the <<i#historic<< epistle referred to above.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“A pair came from Reket (Tiberias) and the eagle (Romans) caught them; and they held in their hands things manufactured at Luz (<<i#Tekhelet<<), etc…”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "This highly interesting document (c. 353-354) implies, as will be shown later, that the fact of their carrying with them <<i#Tekhelet<< was responsible for the arrest of the two scholars delegated by the Palestinian authorities to convey to the Babylonian community news of the most vital importance for the religious life of the latter. These men, I contend, would hardly have run the great risk, were not Babylonia Jewry absolutely dependent on Palestine for the supply of <<i#Tekhelet<<. It would perhaps be overstepping the limit of legitimate inference to deduce from the present text the prevalence of a regular practice with the emissaries sent from Palestine for the purpose of announcing the fixing of the calendar to carry with them at the same time <<i#Tekhelet<< for the religious use of the communities of the Exile. But that such may have been the case is far from improbable.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The regular visits of these learned messengers from Zion<<3<< whose trustworthiness must have been beyond all doubt, would certainly afford the best facilities for satisfying the law requiring <<i#Tekhelet<< for <<i#tzitzit<< to be procured from none but an absolutely confidential source.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "ירושלמי, תענית 42b.",
+                    "Ib. 43.",
+                    "See: 25 ,ביצהb, ״שליח ציון״"
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131568/HerzogDoctorate/0427100347_hz6ztn.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131565/HerzogDoctorate/0427100348_d43m71.jpg"
+                ]
             },
             {
                 "num": "11C",
                 "title": "Ritual Tekhelet and the Restrictions Placed by the Emperors upon the Manufacture and Sale of Purple",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "The imperial edicts concerning the fabrication of purple, its sale and use would form a most interesting porphyrologic study, the more so as the subject has not yet received adequate treatment. The researches of Amati<<1<<​ are certainly not to be despised but they should be corrected by the more thorough investigations of W. Adolf Schmidt.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "How was the Tekhelet industry affected by the imperial decrees regarding purple in general?<<2<< Caesar and Augustus restricted the use of purple to the governing classes of society. It is doubtful whether the decrees issued by them also included <<i#Tekhelet<< or to give it its Latin name hyacinthus; but even if such were the case, these liberal minded emperors would probably grant exemptions in favour of the proper observance of the rite of <<i#tzitzit<< by their Jewish subjects. The temple in Jerusalem, at all events, would remain entirely immune from the effects of restrictions of that nature. But even for <<i#tzitzit<< it is likely that special privileges were unnecessary: the early imperial edicts would hardly go to the length of prohibiting the appending of purple threads to the corners of one’s garments.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Nero (died 68), evincing greater porphyric zeal than his predecessors, prohibited outright the sale of the Tyrian and of the amethyst purple, restricting the use of both to the emperor alone.<<3<< It is dubious whether <<i#Tekhelet<< was comprised in the term <<i#Purpura<< amethystina, as accepted in Nero’s time.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The considerations advanced in connection with the decrees of Caesar and Augustus apply here as well.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "An homily of R. Huna reported in the Midrash Rabbah on Genesis might suggest, on the face of it, that in the days of that Aggadist <<i#Tekhelet<< in the <<i#tzitzit<< was limited to members of the Synhedrion.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "R. Huna said “she was touched by divine inspiration. Hotamkha חותמך (thy signet) refers to kingship as it is said, ‘Even if Jekonja,etc…’<<4<< <<i#Ptilkha<< פתילך (thy cord, thread) to the Sanhedrin who are distinguished with a <<i#ptil<< as it said <<i#ptil Tekhelet<<, <<i#umatkha<< ומטך (thy staff) to the messianic king, etc…”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The author of the homily probably was a contemporary of Rabbi or R. Judah the Prince, the compiler of the Mishnah (175-219) in whose time Palestinian Jewry lived in tolerable circumstances. It is highly improbable that the government then forbade the use of <<i#Tekhelet<< in the <<i#tzitzit<< by the general public.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "At all events a badge ordered by the Torah for the dress of every Jew would not come to be regarded as the proper insignia of the Synhedrion because by a cruel decree of the oppressor it had become confined to the latter, nor would this sad fact be put into the mouth of Tamar as part of a Sibyl, foretelling the greatness of the tribe of Judah.<<5<< The reference is, I think, to a band or lace of <<i#Tekhelet<< adorning the official robes of the members of the Synhedrion somewhat after the manner of the Roman senators.<<6<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Under the emperor Constantius (337-362) the restrictive measures with regard to the use of purple were very slackly enforced.<<7<< The use of <<i#Tekhelet<<, however, would seem to have been strictly prohibited to the Jews. The prohibition would probably be due to the fact of <<i#Tekhelet<< being connected with the Mosaic ritual. Constantius throughout his reign pursued a policy of relentless Jew-baiting. Of this we have eloquent testimony in the epistle sent by the Palestinian religious authorities to Raba, the virtual head of Babylonian Jewry.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "“(a) A pair came from Reket (Tiberias) and the eagle (the Romans) caught them;",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(b) and they held in their hand articles made at Luz (<<i#Tekhelet<<).",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(c) But by virtue of God’s mercy and their own merits they have escaped safely.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(d) The offspring of Nahshon (first prince of the tribe of Judah) desired to appoint one <<i#neṣib<< (intercalate a month) but the Aramean (the Romans) would not permit it;",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "(e) nevertheless the lords of the assemblies (the sages, Synhedrion) met together and appointed another <<i#neṣib<< in the month of the death of Aaron.<<8<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The imperial authorities thus interfered with the regulation of the calendar for the proper observance of the festivals. The mere presence of (e), its position in the context, the cryptic expression used for <<i#Tekhelet<< – all point to the existence of an imperial prohibition against <<i#Tekhelet<<. Was this part of a general edict against the observance of the Jewish rites or part of the legislation restricting the use of purple? Against the former supposition it might be urged that <<i#Tekhelet<< being also used for secular purposes, the mere possession of it would not make the owner liable to punishment. Was the decree so thoroughgoing as to forbid the Jews even the secular use of <<i#Tekhelet<<? Or was the <<i#Tekhelet<< found in the possession of “the pair” wrought in the form required by the law for <<i#tzitzit<<?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The persecutions under Constantius drove from Palestine a number of teachers of the Law including R. Samuel b. Judah who gave to Abayi at the latter’s request an account of the process of <<i#Tekhelet<<-dyeing. As Abayi died about 338 while R. Samuel b. Judah’s emigration from the Holy Land took place between 337 and 338 it is not improbable that the conversation of so much importance for the study of <<i#Tekhelet<< occurred very shortly after the latter’s arrival in Babylonia. May not the emigration of R. Samuel b. Judah have had something to do with the imperial prohibitions against <<i#Tekhelet<< with the manufacture of which that Amora was not improbably closely associated?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is not impossible that apprehensions were entertained at the time in Babylonia that under the stress of continued persecution the art of the fabrication of <<i#Tekhelet<< would vanish and that it was for that reason that Abayi seized the first opportunity to interrogate the newcomer from Palestine on the dyeing process, so that a record might be preserved of it in the Babylonian schools to which now passed the custody of the knowledge of the Torah.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "An edict of the year 383 restricted the manufacture and sale of both purpura oxyblatta and purpura hyacinthina solely to the imperial factories. It would be of some interest to learn how <<i#Tekhelet<< fared under the imperial monopoly. The imperial factories, it is true, were not precluded by that edict from selling to the people purple of the most precious sort, the law merely stipulating that no one but the emperor was to dress himself in a costume made wholly of <<i#purpura oxyblatta<< or <<i#hyacinthina<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "But as <<i#Tekhelet<< for <<i#tzitzit<< had to be dyed <<i#lishmah<<, the Jews could not procure it ready made from gentile factories. Did Jewish dyers of <<i#Tekhelet<< in Palestine enjoy special exemptions? Or were the imperial dye houses in Jewish territory mostly manned by Jews. W. Adolf Schmidt maintains that <<i#purpura conchyliata<< was always exempt from the restrictive measures regarding purpura blatta. Much will depend on the part played by the “drugs” said in the Talmud to have been employed in the fabrication of <<i#Tekhelet<<. If these were tinctorial materials, then <<i#Tekhelet<<, at least as manufactured in the Amoraic age, would fall under the generic appellation of <<i#purpura conchyliata<< and so would not be affected by the purple legislation, if Schmidt’s view is correct. But the point requires deep investigation.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Amati, Paschal, <<i#Marco Elephantutio … de postitutione Purpurarum<<, Caesenae (1784).",
+                    "Suetonius, <<i#Vita<< Caes, p. 43; Dio Cassius, bk. XLIX, p. 161.",
+                    "Idem, <<i#Vita Neronis<<, p. 32.",
+                    "Jerem. ch. 22.",
+                    "Kingship was the heritage of the house of David. The presidency of the Synhedrion from about 31 to the final dissolution of the Patriarchate was held by a line of nessim (Chiefs, princes) beginning with Hillel the Elder who traced his genealogy to King David and continuing from father to son till Gamaliel VI.",
+                    "Under Alexander Scroues (222-235) the Jews enjoyed complete religious liberties. It goes without saying that they had no difficulty with the practice of the Tekhelet rite. Germana, the slave of R. Judah II, the prince (religious head of the Jews (225-229)) is said to have been a dealer in Tekhelet. Yerushalmi, Abodah Zarah, II. 9. This is one of the only two references to Tekhelet extant in the Palestinian Talmud.",
+                    "Amati, <<i#Ib<<., ch. LXXXIII.",
+                    "Sanhedrin, 12a."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131630/HerzogDoctorate/0427100349_ioraw9.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131582/HerzogDoctorate/0427100350_axvviv.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131630/HerzogDoctorate/0427100351_unmqmz.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131576/HerzogDoctorate/0427100352_v8idb4.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131630/HerzogDoctorate/0427100353_tojf2i.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131579/HerzogDoctorate/0427100354_kealew.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131590/HerzogDoctorate/0427100355_uzvi2j.jpg"
+                ]
             },
             {
                 "num": "11D",
                 "title": "Limits of Time Within Which the Total Extinction of Tekhelet shel tzitzit – the Tekhelet of the tzitzit – Must Be Placed",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "<<i#Tekhelet<< was imported into Babylonia by Mar of Mashki “in the years of Rab Ahai.” It was probable that this R. Ahai is identical with the Amora of that name who was described by the Palestinian teachers of the law as “the light of the eyes of the exile.” (מאיר עיני הגולה). As he died about 506 this would be the latest record of an importation of <<i#Tekhelet<< for <<i#tzitzit<< into Babylonia.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The phrase “in the years of Rab. Ahai” indicates a considerable lapse of time; the passage is probably a late Saborean addition. It may safely be asserted that at the time of the completion of the Talmud (c. 570) <<i#Tekhelet<< still continued in practice for <<i#tzitzit<<, for there is nowhere in the Talmud the slightest allusion to the discontinuance of the rite.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "On the other hand in the <<i#Sheiltot<< d’Rab Ahai, a ritual work composed in Palestine about 760 all mention of <<i#Tekhelet<< is omitted. The disappearance of <<i#Tekhelet<< from the Jewish ritual thus falls between the final redaction of the Talmud by the Saboraim (c. 570) and the composition of the Sheiltot (760). From the entire absence of a reference to <<i#Tekhelet<< in the <<i#Sheiltot<<, I should conclude that <<i#Tekhelet shel tzitzit<< תכלת של ציצית must have been long extinct by the <<i#beginning<< of the eighth century.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Arab conquests of Palestine about 639 entailed the total destruction of the purple dyehouses administered by the imperial officials.<<1<<​ Was this the real cause of the extinction of <<i#Tekhelet<<?",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Benjamin of Tudela (travelled 1160-1173) makes mention of purple dyeing on the Tyrian Coast.<<2<< It would thus appear that the industry revived some time after the Arab occupation. The interval must have been a fairly long one seeing that the Jews who in Benjamin’s time played an important part in the industrial life of Tyre<<3<< had made no attempt to resuscitate <<i#Tekhelet<<-dyeing; the chain of tradition must have been too long broken.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is probable that the fixing of the <<i#halakhah<< (religious practice) in accordance with the opinion which held <<i#Tekhelet<< not to be a Sine Qua Non of the <<i#tzitzit<< was responsible to a great extent for the gradual extinction of ritual <<i#Tekhelet<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In the Midrash Tanhuma and Midrash Rabbah section שלח it is stated: “at the present time we have no <<i#Tekhelet<< but only <<i#lavan<< (white thread) in the <<i#tzitzit<<, for <<i#Tekhelet<< has been hidden (treasured up).”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "ועכשיו אין לנו תכלת אלא לבן תכלת נגנז",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "The redaction of these Aggadic collections falls about 750. There is probably an allusion here to the Sifre, Deut. 33.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "Amati. <<i#ib<<.",
+                    "מסעות בנימין מטודלא. ed. Asher p. 30b. ״ושם ימצא סיקר הטוב״ דף ל, ע״ב It would appear that in Benjamin’s time only red purple (ארגמן) was manufactured at Tyre. (סיקר = red.)",
+                    "Ib., ״כמו ד מאות יהודים ויש להם ספינות בים״ דף כ״ט Cf., /7״צידון … יהודים בעלי אומנות צובעים באים אל,.ל הדרוגים."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131590/HerzogDoctorate/0427100355_uzvi2j.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131632/HerzogDoctorate/0427100356_p7yvtu.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131582/HerzogDoctorate/0427100357_leud5e.jpg"
+                ]
             },
             {
                 "num": "11E",
                 "title": "References to Tekhelet shel tzitzit in the Gaonic Literature",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Mar Sar Shalom, Gaon (d. 859) speaks of Tekhelet as of a thing of the past:",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "ביד ישראל כשהיתה תכלת",
+                        "type": "hebrew"
+                    },
+                    {
+                        "txt": "Rab Nahshon Gaon (d. 889) in a responsum partly cited in the <<i#Ittur<< gives the Arabic equivalent for <<i#Tekhelet<<, saying nothing further. His silence implies that the inquirers to whom his answer was addressed had only asked for the interpretation of the word, not for information about the existence of the thing, its non-existence in the ritual being universally known.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In the Code of R. Simon Kahira written about 900 the non-existence of <<i#Tekhelet shel tzitzit<< is implied though not expressed.<<1<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Rab Sherira one of the last representatives of the Gaonic school (930-1000) in his account of the ceremony of the induction of the exilarch (ריש גלותא) makes mention of the use of <<i#Tekhelet<<, <<i#Argaman<< and <<i#tola’at shani<< for decorating the throne-like seat of the Prince of Captivity.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The reference to <<i#Tekhelet<< is no indication of the existence of <<i#Tekhelet shel tzitzit<< in Sherira’s time. Cloth of a colour resembling <<i#Tekhelet<< may have been obtainable but certainly not such as was manufactured by Jews in strict conformity with the requirements of the law for <<i#Tekhelet shel tzitzit<<. But it is highly possible that the term <<i#Tekhelet<< is not meant in its strict sense but is merely used as a colour designation, standing for dark blue (indigo, wood).<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "R. Samuel b. Hofni Gaon (d. 1034) in the treatise on <<i#tzitzit<< gives considerable attention to <<i#Tekhelet<<. There is no allusion to the contemporary non-existence or otherwise of <<i#Tekhelet shel tzitzit<< in the two chapters at my disposal, viz. the ninth edited by me and the tenth edited by Dr. Israelsohn.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "See: אגרת רב שריו״א",
+                    "See: ספר החינוך, Section ציצית"
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131257/HerzogDoctorate/0427100358_ainadd.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131629/HerzogDoctorate/0427100359_ex49p5.jpg"
+                ]
             },
             {
                 "num": "11F",
                 "title": "References to Tekhelet shel tzitzit in the Post-Gaonic Literature",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Alfassi (born at Kala-Ibn-Hammad in the neighborhood of Fez in 1013, died at Cordova, Spain, in 1103) expressly states in his great work: “at the present day we have no <<i#Tekhelet<<.”<<1<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Maimonides in his commentary on the Mishnah (completed in 1168) makes the following statement: “The <<i#tzitzit<< precept comprised two precepts, the first requiring fringes to be appended to the corners of one’s garments… and this is called <<i#laban<< (white), it being either of white wool or of white linen…, the second ordering a thread of <<i#Tekhelet wool<< to be wound round those fringes, which thread is called <<i#Tekhelet<<, as it is said: ‘and let them put upon the fringes of the corner a thread of <<i#Tekhelet<<.’ But we now have no <<i#Tekhelet<< because we do not know how to dye it; for not all woollen that is coloured like <<i#Tekhelet<< actually is <<i#Tekhelet<< (<<i#in the strict sense of the word<<), but only a certain kind which we are unable to fabricate at the present day; our <<i#tzitzit<< therefore consists of lavan (white) only.”<<2<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In a responsum relating to <<i#tzitzit<< Maimonides similarly declares “We have no <<i#Tekhelet<< at the present day.”<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "R. Aaron Halevi, one of the greatest Rabbinical authorities in Spain (d. 1300) in his compendium of the Laws, in the section devoted to <<i#tzitzit<<, notes with regret that “already many days have elapsed for Israel without the fortunate man being heard of who had <<i#Tekhelet<< appended to his <<i#tallit<<.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "If the collection of responsa Besamim Rosh (בשמי׳ ראש) ascribed to Asheri (1250-1327) be authentic, then an attempt was made in the last decades of the thirteenth century at the rediscovery of the <<i#hillazon<< and the consequent restoration of <<i#Tekhelet<< in Israel. The work has, however, long been condemned as an eighteenth century forgery.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The fall of Constantinople (May 29, 1453) marks the complete extinction of purple dyeing in the Old World.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "R. David ben Zamra born twenty three years after the occurrence of that great event throws out, in a responsum of his, a few remarks in explanation of the disappearance of <<i#Tekhelet<< in <<i#general<<: “it is possible”, he says, “that the species (i.e. the <<i#Tekhelet-hillazon<<) is still to be found, but that it is not known how it can be fished. There is, moreover, no need for it; <<i#Tekhelet<<-like dye being easily obtainable, I mean <<i#Isatis<< (<<i#Nil<< in Arabic): the dyeing with this pigment has reached such perfection that the colour is not removable from the cloth even by means of the most thorough washing.”<<4<<",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is worth noting that the remarkable researches carried on by gentile inquirers from William Cole to Lacaze-Duthiers found no echo in Jewish circles.",
+                        "type": "regular"
+                    }
+                ],
+                "footNotes": [
+                    "See: ספר החינוך, Section ציצית",
+                    "Alfassi, Hilkhot tzitzit.",
+                    "שו״ת רדב״ז ס״י תרפ׳׳ ה. Compare also Maimonides’ code: Hilkhot tzitzit.",
+                    "Jewish Encyclopedia, v.s. “Hasidim”."
+                ],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131629/HerzogDoctorate/0427100359_ex49p5.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131518/HerzogDoctorate/0427100360_uivevc.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131517/HerzogDoctorate/0427100361_cg7uny.jpg"
+                ]
             },
             {
                 "num": "11G",
                 "title": "An Attempt made by G.E. Leiner of Radzin to Restore Tekhelet shel tzitzit; History of the Radzin-Tekhelet",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "It was not until 1887 some 28 years after Lacaze-Duthiers’ famous experiments that a regenerator of <<i#Tekhelet<< arose in Israel in the person of Rabbi Gershon Enoch Leiner of Radzin, Russian Poland. Leiner seems to have been one of those unfortunate beings who owing to the circumstances in which birth has placed them, miss the destiny appointed for them by nature. Gifted with a genius for invention and a striking aptitude for research Leiner might have accomplished much in the domain of science had he been granted the necessary opportunities. The son of a neo-Hasidic wonder-rabbi<<1<< he nevertheless managed to acquire a knowledge of several European languages, and a familiarity with mechanics and medicine. His love for novelty showed itself first when as a young man of 23 he began the publication of a work designed to furnish with a <<i#Gemara<< the sixth order of the Mishnah not covered by either the Babylonian or the Palestinian <<i#Gemara<<. In later life when already holding in succession to his father the leadership of a Hasidic sect he caused the construction of a mill furnished with machinery of his own invention, which it is told, was capable of turning out over 80,000 lbs. of flour daily. This was an astounding figure for Polish manufacture in those days. The enterprise, by the way, eventually involved Leiner and some of his <<i#hasidim<< in complete financial ruin.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "In 1887 Leiner announced to the world in a pamphlet entitled <<i#Sefunei Temunei Hol<< that after much toil and labour he had at last hit upon a species of dye-giving mollusc answering fully to the traditional descriptions of the <<i#hillazon-shel-Tekhelet<<. The species in question, as the reader will recall, is the <<i#Sepia officinalis<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Towards the close of his announcement the rabbi makes the following important statement: “I have in my possession a quantity of the ink-like secretion of that species, but no chemist is able to analyse it. When on betaking myself to a Mediterranean coast I have secured some of these animals alive and I shall try, with God’s help, to extract the <<i#Tekhelet<<-dye from this <<i#hillazon<<.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The next year saw the establishment of a <<i#Tekhelet<< dye-house in Radzin. In a publication of the same year composed at Venice, Leiner gave a very concise account of his visit to Naples, and of arrangements made by him for the supply of the <<i#hillazon<< (i.e., <<i#Sepia officinalis<<) from “a small island at the end of an arm of the Western sea.”",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "By means of the application of certain colourless drugs, he announced he had been successful in extracting the <<i#Tekhelet<< dye from the secretion of the species in question. He gave no particulars but he offered to show the process of the dye production to anyone who liked to see it. The news at once raised a veritable commotion in Russian Jewry.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The followers of the Radzin rabbi hailed the discovery with boundless enthusiasm. Tales quickly gained circulation of colossal operations carried out on the Italian coast, in quest of the <<i#hillazon<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It was also whispered that as a result of a conversation the Hasidic leader had had with the Pope, the latter was seized with such admiration for the rabbi of Radzin that he commended him to the notice of the Czar",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The chiefs of the other Hasidic sects, however, invariably assumed an attitude of intense opposition.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The objections emanating from those quarters centered mainly around a statement found in the writings of R. Isaac Lurya, the father of the new <<i#Kabbalah<<, to the effect that from the destruction of the Temple until the coming of the Messiah the <<i#tzitzit<< must consist, for certain mystic reasons, entirely of <<i#laban<< (white threads). A similar assertion by R. Israel of Koznitz was likewise urged by Hasidic antagonists.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Another argument against Leiner’s <<i#Tekhelet<< was drawn from a passage in the Zohar where<<2<< the Sea of Gennesereth (<<i#Kinneret?<<) is declared to be the abode of the <<i#Tekhelet-hillazon<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "This objection really hoisted Leiner upon the horn of a dilemma. He would have had either to deny the authenticity of the passage in question, and so incur the charge of heresy on the part of Hasidism in general, or to cast his discovery to the winds. To escape from the difficulty Leiner took refuge in sophistry.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Among the <<i#Mitnagdim<< or non-Hasidim, the <<i#Radzin Tekhelet<< also failed to gain acceptance. Doubts were expressed about the possibility of rediscovering the <<i#hillazon<< and the dyeing process in all its particulars. Its lack of durability and fastness was pointed to as disproving the claims of the <<i#Radzin Tekhelet<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The statement about the periodical appearance of the <<i#hillazon<< once in seventy years likewise furnished an argument against Leiner’s pretended discovery.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The two foremost Rabbinical authorities at the time in Russia were R. Isaac Elhanan Spektor, Chief Rabbi of Kovno (Latvia, d. 1896) and R. Israel Joshua, Chief Rabbi of Kutna (Poland, d. 1893). Leiner left no stone unturned in order to elicit from these celebrities a favourable opinion about his <<i#Tekhelet<<, but he met with hardly any success.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The controversy about the new <<i#Tekhelet<< was not long in finding an echo in the Holy City. There lived at that time in Jerusalem R. Joshua Leib Diskin (d. 1897) known as “the Rabbi of Brisk,” who was really the greatest Talmudist of the age.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "A Jerusalem votary of the <<i#Radzin Tekhelet<< tried in vain to induce Diskin to interfere in the matter.<<3<<",
+                        "type": "regular"
+                    },
+                    {
+                        "url": "https://res.cloudinary.com/dqidhqkor/image/upload/v1724155255/HerzogDoctorate/radzin_tifbcz.png",
+                        "type": "img"
+                    },
+                    {
+                        "txt": "The outspoken opposition of many rabbis of note, the attitude of neutrality amounting to disapprobation on the part of the highest authorities, and the pronounced hostility on the part of the chiefs of the other Hasidic sects, all combined to relegate the <<i#Radzin Tekhelet<< to the narrow circle of a small sect consisting of some seven to eight thousand families. The dye-house founded by Leiner continues to the present day.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It would have never occurred to me to subject a specimen of the <<i#Radzin Tekhelet<< to chemical analysis in order to ascertain whether the colouring matter employed at Radzin was really derived from the secretion of <<i#Sepia<<, had it not been for the following circumstance. In a letter addressed to Professor Friedlaender, I had made mention to the <<i#Tekhelet<< manufactured at Radzin. The learned professor in his reply<<4<< asked me to procure him a receipt of the dyeing process.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "After the lapse of some time I forwarded to Professor Friedlaender the translation of a dyeing receipt communicated by a certain Mr. Joshuah Meir Keitelgisser replying in the absence of R. Mordecai Joseph Leiner, the son and successor of R. Gershon Enoch Leiner.<<5<< Together with that copy I sent of Professor Friedlaender a sample of <<i#Tekhelet<< I had received from Radzin through the medium of the above named gentleman. Here is the professor’s reply:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "Darmstadt 4. IV. 1913 <<n<< <<n<< Sehr geehrter Herr, <<n<< <<n<< Durch laengere Krankheit war ich leider verhindert früher auf Ihren interessanten Brief zu antworten. Was zunächst das Farbenverfahren aus Radzin betrifft, so fehlt in demselben charakteristischerweise die Hauptsache, nämlich der Farbstoff mit dem der Wollfaden gefaerbt. Derselbe ist ein ganz gewöhnlicher moderner Teerfarbstoff. Die Angaben über die Verwendung von Sepia off. sind nur irreführend und es ist ganz unmöglich damit diese Färbung zu erzeugen. Auch mit den mir bekannten Purpurschnecken halte ich es für unmöglich ein reines Blau herzustellen…",
+                        "txtTrans": "Dear sir, <<n<< <<n<< Unfortunately Due to a long illness, I was not able to answer your interesting letter earlier. As far as the Radzin dyeing process is concerned, the main thing is characteristically missing from it, namely the dye with which the woolen thread is dyed. It is a very common modern tar dye. The information about the use of Sepia off. Is only misleading and it is quite impossible to use it to produce this color. Even with the purple snails I know, I think it is impossible to produce a pure blue color …",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "I rubbed my eyes on reading the preceding lines. Tests carried out at the Fabrique des Gobelins yielded about the same result:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "Ministry of Public Instruction and Fine Arts Manufacture National Goblins <<n<< <<n<< Paris, May 7, 1913. <<n<< <<n<< Sir, <<n<< <<n<< I have examined the blue sample you sent me as you wish. I do not know of any natural blue color other than indigo capable of dyeing textile fibers securely. As for the sepia, it gives brown and not blue and still this brown is not convenient to fix on fiber. The blue of the enchattillon sent has all the characters of the Prussian blue obtained by wilting in iron salt and potash prumate…",
+                        "txtTrans": "Ministère de l’Instruction Publique et des Beaux-Arts Manufacture Nationale des Gobelins <<n<< <<n<< Paris le 7 mai 1913. <<n<< <<n<< Monsieur, <<n<< <<n<< J’ai examiné suivant votre desir l’enchantillon bleu que vous m’avez adressé. Je ne connais pas de couleur bleu naturelle autre que l’indigo capable de teindre solidement les fibres textiles. Quant à la sepia, elle donne du brun et non du bleu et encore ce brun n’est-il pas commode à fixer sur fibre. Le bleu de l’enchattillon envoyé presente tous les caractères du bleu de Prusse obtenu par fanage en sel de fer et prumate de potasse… <<n<< <<n<< Ch. Vallette",
+                        "type": "translation"
+                    },
+                    {
+                        "txt": "I wrote again to Professor Friedlaender asking whether his verdict represented the result of a chemical analysis or was simply based upon the impossibility of producing a like colour with the dye secretion of <<i#Sepia<<. To this the eminent tinctorial chemist replied as follows:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "Sehr geehrter Herr, <<n<< <<n<< Verzeihen Sie die Verspätung meiner Antwort auf Ihre Anfragen. Ich war mehrere Monate krank und könnte die Untersuchung der Faden nicht genau durchführen. Das ist inzwischen geschehen und ich kann Ihnen mit aller Sicherheit sagen, dass die Färbungen mit zwei ganz modernen Teerbarbstoffen hergestellt sind, nämlich einer Mischung eines Säuregrün und eines Säureviolett der Triphenylmethan-reihe die zusammen die blaue Nuance geben. Es ist ferner ganz unmöglich dieser Nuance mit Sepia nach den Recept zu erhalten, die überhaupt ohne jeden Einfluss auf das Resultat gewesen ist und nur zur Irreführung dient. Man kann sie ebensogut weglassen. Die Hauptsache hat der Färber verschwiegen, nämlich die Verwendung der Teerfarbstoffe. Ich habe nichts dagegen, wenn Sie dieses Resultat literarisch verwenden. Wenn Sie es englisch publicieren würde es sich vielleicht empfehlen wenn Sie es von einer englischen Autoritat z.B. von Prof. Green in Leeds bestätigen lassen würden… <<n<< <<n<<Prof. Friedlaender <<n<< <<n<<Darmstadt, Grüner Weg 44",
+                        "txtTrans": "Dear sir, <<n<< <<n<< Forgive the delay in my response to your requests. I was sick for several months and could not do the examination of the thread exactly. This has now happened and I can tell you with all certainty that the dyes are made with two very modern tar barbs, namely a mixture of an acid green and an acid violet of the triphenylmethane series which together give the blue shade. Furthermore, it is quite impossible to obtain this shade with Sepia according to the recipe, which had absolutely no influence on the result and only serves to mislead. You can just as easily leave them out. The dyer has kept silent about the main thing, namely the use of tar dyes. I have no objection if you use this result literarily. If you publish it in English it would be advisable if you had it confirmed by an English authority, for example, Prof. Green in Leeds … <<n<< <<n<<Prof. Friedlaender <<n<< <<n<< Darmstadt, Grüner Weg 44",
+                        "type": "translation"
+                    }
+                ],
+                "footNotes": [
+                    "Idem.",
+                    "The statement of the Zohar conflicts with the Talmud and is improbable itself. The sweet-water sea of Genesaret, however, harbours a wealth of shells of diverse colours. See Hebrew daily מוריה Jerusalem Dec. 10, 1913:״דיגת הפנינים בארץ ישראל״",
+                    "In the original Ms. at the bottom of p. 266, misnumbered “22,״ there is a smear of colour, identified “Radzin Tekhelet״ in the handwriting of the late Rabbi Herzog. Since we have not seen the original Ms., only photocopies of it in black and white, we can not describe, or copy the colour. (Editor’s note).",
+                    "“Darmstadt, Grüner Weg 44, d. 2 Januar 1913. <<n<< Sehr Geehrter Herr, <<n<< Ich danke Ihnen bestens für Ihren interessanten Brief von 10 III … Ihre Mitteilungen überTekhelet haben mich ausserordentlich interessiert … Es wäre mir nun sehr wichtig, wenn Sie mir mitteilen koennten, ob für die Herstellung der Schaufaden eine Vorschrift oder Tradition existiert, oder ob noch Faerbungen aus den ersten Jahrhunderten vorhanden sind (wohl sehr unwahrscheinlich)… Deshalb ist mir das Farbenverfahren aus Radzin, wenn Sie es mir unter Diskretion mitteilen, von Wichtigkeit, etc.” <<n<< ———– <<n<< “Darmstadt, Grüner Weg 44, January 2, 1913. <<n<< Dear Sir, <<n<< I thank you very much for your interesting letter of 10 III … I am extremely interested in your communications on Tekhelet … whether there are still dyes from the first centuries (probably very unlikely) … That is why the color procedure is from Radzin, if you inform me under discretion, of importance, etc.“",
+                    "בעזהש״י יום ג׳ בשלח שנת שוב״ע חיי״ם ברכ״ה ראדזין(2) החיים והשלום יחדיו יצמדו על ראש כבוד…. <<n<< אחדשכ״ת! מכתבו הסגור מיום ד בא העבר הערוך להאדומו״ר שליט״א לנכון הגיע, והיות כי איננו בפה ביתו לשעה, שנסע מפה זה איזה ימים, ובידי יש כח למלאות דרישת כת״ה, אבוא בזה להודיע כי החבילה של תכלת מקבל כת״ה ע״י פאסט ד חוטין חותם בתור חותם כדת תוה״ק. מוסגר בזה. ואשר כת״ה דורש הנהו לדעת בכדי להודיע שהתכלת הנמצא בפה הוא מתמצית רם החלזון ולא ממין צבע זולתו, ואנכי הנני היודע בטוב מלאכה הזאת, הנני לבאר לפניו את כל מיני הסממנים המתערבים אל הדם החלזון,<<n<< וכל מי שיודע ומכיר מהות הסממנים ידע כי הנם כולם משוללי כל צבע, ומראה כולם לבן, ומהם כמראה מים בעלמא, לבד הדם שהוא בעל מראה, דם החלזון הנמצא בתוך השלחופית מראהו שחור כדיו וקרוב עד כי ישבר ויהא לרציצים מרוב חוזקו. הדם הזה שמים ביורה עבה מאד ומצטרפים בה שחיקת ברזל היוצא מתחת המוריגה וגם סם לבן כשלג הנקרא Potasz, ואחרי השהי׳ בתור הבערת אש גדולה וחזקה בשעות ארבעה או חמשה, עד כי התבערה בוערת חוצה ופנימה כאשה של גיהנם, אזי ניתכת הדם הברזל שחוק והסם הלבן ויעשו לבתר אחד. אח״ז מריקים מתוך היורה העבה את כל המרקחת הזאת, ומשימים אותה ביורה גדולה מאוד ומים צלולים הרבה עד מאוד, ומבעירים אש תחת היורה הגדולה, והמרקחת הזאת עם המים הצלולים מתבשלים איזה ימים(רעת לנבון נקל כי מים צלולים מהצורך מדי פעם להוסיף ולשטוף, כי טבע האש לכלות המים בכח הבישול), אח״ז שמים את כל התבשיל הזה על משמרת ומקבלים את המים הצלולים שהדם נתבשל בם, ונשאר תמצית הדם כלול ב , היינו המרק, ושמים אותה המרק שוב ביורה נקי׳ על גבי האש, ומתבשלת שוב זמן, עד שנעשית ע״י הבישול גושית, ואח״ז מריקים אותה ע״ג ספלים ומתדבקת בדופני ושולי הספלים גלדי גלדי ומסננים ושופכין המים מתיר הספלים, ומקבלים את כגלדין הדקין, והוא עיקר ותמצית הדם. מראה התמצית הזה הוא כמראה מלח עבה ביומא דעננא(לבנה כהה) דינקעל ווייס. חלק מזה המלח משימים לתוך יורה זכה ומים צלולים במרה וגם סממנים, היינו Tartar.deporat. Amoni muriadic. Acid, Sulfuric ׳משימים גם את הצמר הטוי׳ לשם ציצית ולשם תכלת של מצוה, ומבעירים אש תחת היורה, וכן שוהים עד כי קולטת הצמר את הצבע מתוך היורה, <<n<< והמים נשארים ביורה. ושוהים שוב כשיעור הראוי, ומכינים שוב יורה מלאה מים צלולים, ומערבים בתור המים מעט מן הסמים .Acid. Sulfaricum ומבעירים אש תחת היורה עד כדי חימום, ושמים שוב הצמר הצבוע, ומשהין אותה בכדי שיעור, וזהו גמר צביעתה. כי אחרי שקלטה הצמר את הצבע בהיורה שבה הדם חלזון עם הסממנים, שטרודה למבלע לא פלטה על החוטין מראה הראוי, וחבוקה וטמונה בה, ובזו היורה של מים חמים האחרונה מתעורר הגוון האמתי גם למעלה, כמו שנמצא בלוע בתוך הצמר. <<n<< זהו כל אופן… עשיית הצבע וצביעת הצמר לתכלת של מצוה, ואין יותר … <<n<< … בלתי מכירו רו״ש יהושע מאיר קייטילגיסער הכותב בבית כאדומו״ר שליט״"
+                ],
+                "orgPdfs": [
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131598/HerzogDoctorate/0427100362_b09h1t.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131598/HerzogDoctorate/0427100363_q21n92.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131594/HerzogDoctorate/0427100364_rytsui.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131599/HerzogDoctorate/0427100365_foqvvg.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131526/HerzogDoctorate/0427100366_eubphx.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131632/HerzogDoctorate/0427100367_sl29zc.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131656/HerzogDoctorate/0427100368_zwqkwf.jpg",
+                   "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131651/HerzogDoctorate/0427100369_z1uwk7.jpg"
+                ]
             },
             {
                 "num": "11H",
                 "title": "Results Obtained from the Chemical Examination of Samples of the Radzin-Tekhelet",
-                "txt": [],
-                "footNotes": []
+                "txt": [
+                    {
+                        "txt": "Following Professor Friedlaender’s kind advice I addressed a sample of Radzin <<i#Tekhelet<< to Professor Green with a view to a chemical examination being practised upon it.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "At the same time I asked him whether the dye secretion of <<i#Sepia officinalis<< had ever been chemically analysed, the idea occurring to me at the time that perhaps the chemical constitution of <<i#Sepia off<<. might include the two stuffs referred to in Professor Friedlaender’s reply. Here is the answer I received from the Leeds Professor;",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Department of Tinctorial Chemistry and Dyeing.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The University, Leeds",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "July 30th, 1913",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Isaac Herzog Esq.M.A.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "29, Rue des Francs Bourgeois, Paris",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Dear Sir,",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "We have tested the sample of wool furnished and find that it is dyed with Prussian Blue. The colouring matter has therefore no relationship whatever to the natural dyestuffs of the Mollusca. So far as I am aware the secretion of the <<i#Sepia<< has never been examined. It would undoubtedly form a very interesting study…",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "A.C. Green",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "The Radzin <<i#Tekhelet<< thus stands self-condemned, or the results of chemistry are to be questioned.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "I should hesitate very much before condemning of fraud a man of the stamp of the late G.E. Leiner.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It would seem that the late Hasidic Chief was victimized by some fraudulent Italian chemist. On arriving in Italy, Leiner, as he states himself, worked hard with a view to discovering a process for the extraction of the <<i#Tekhelet<< dye from the <<i#Sepia off<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Attracted by Leiner’s offers of high remuneration, some clever but swindling specialist in tinctorial chemistry contrived, it would appear, to concoct Prussian dye with <<i#Sepia<< secretion, in such a manner as to conceal the presence of the dye.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "It is the same source, I should think, which has been supplying the Radzin dyehouse with the necessary quantities of <<i#Sepia<< ink-bags filled with a solidified black secretion which though purporting to be the natural colouring matter is in reality nothing but an artificial compound in which the ink-like secretion of <<i#Sepia<< only serves to cheat the eye. It would appear that the defrauder also managed to become the sole contractor to the <<i#Tekhelet<< factory at Radzin.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Investigations carried out in Italy might perhaps clear up the mystery, as it is not improbable that Leiner previously to his falling into the swindler’s net had made an announcement in the Italian press offering a huge sum for the discovery of a process whereby a blue of a certain nuance might be extracted from the secretion of <<i#Sepia officinalis<<.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Notes by Dr. A. Dedekind.",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "Keeper at the Egyptian Museum of the Austrian Imperial Court, Vienna:",
+                        "type": "regular"
+                    },
+                    {
+                        "txtOrg": "In der zweiten Beilage Zeile 9 u.s.w. sagen Sie der Passus ‘Was Dr. Dedekind’s omission etc.. . <<n<< <<n<< Eventuell können Sie hervorheben, dass ich P. lapillus mit in die Kategorie von den vermöge des Wortes תכלת markierten Farbenton von Violett, resp. Blau mit eingereicht habe, obwohl ich sehr wohl wüsste, dass Purpura lapillus im Mittelmeere nicht vorkommt. <<n<< <<n<< Auf Seite 33 Ihrer zweiten Beilage sagen Sie, dass ‘die Auskunft von Dr. Germain sich im Einklang mit der Jüdischen Tradition befände’ -, das doch ist nicht richtig. Eine Talmudistische Nachricht sagt sonst ausdrücklich, dass תכלת als Ton ירק (= grün) sei; das ist eben ein Vorstadienten einer Fefinitiv-Purpurfarbe. Das Janthina is von allen Amfange an violett, hat also gar kein Farbenzwischenstadiums von grün (ירק). Damit ist gesagt, das תכלת mit Janthina gar Nichts zu tun hat, sondern eine Purpurschnecke ist. Cf. Schleiden, Das Meer (3. Auflage) unter purpur. <<n<< <<n<< Wien, am 21 Mai 1914. <<n<< <<n<< A. Dedekind.",
+                        "txtTrans": "In the second supplement, line 9, etc. say the passage ‘What is Dr. Dedekind’s mission etc … <<n<< <<n<< Perhaps you can point out that I submitted P. lapillus with the colors of violet, or blue marked with the word blue, although I would know very well that Purpura lapillus does not occur in the Mediterranean. <<n<< <<n<< On page 33 of your second supplement you say that ‘the information provided by Dr. Germain would be in line with Jewish tradition ’- that is not right. A Talmudic message otherwise expressly states that blue as a tone is vegetable (= green); that is just a preliminary stage of a definitive purple color. The Janthina is purple from the beginning, so it has no intermediate color of green (vegetable). This means that Blue has nothing to do with Janthina, but is a purple snail. Cf. Schleiden, Das Meer (3rd edition) under purple. <<n<< Vienna, 21 May 1914 <<n<< <<n<< A. Dedekind.",
+                        "type": "translation"
+                    }
+                ],
+                "footNotes": [],
+                "orgPdfs": [
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131651/HerzogDoctorate/0427100369_z1uwk7.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131662/HerzogDoctorate/0427100370_ixxmg2.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131598/HerzogDoctorate/0427100371_ho8saw.jpg",
+                    "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131260/HerzogDoctorate/0427100372_bft17t.jpg"
+                ]
             }
+        ]
+    },
+    {
+        "num": "A",
+        "title": "APPENDIX A - THE LAST TWO CHAPTERS OF SAMUEL BEN HOFNI’S כתאב אוזכאס שרע אלציצית",
+        "subChapters": [],
+        "text": [
+            {
+                "txt": "THE LAST TWO CHAPTERS OF SAMUEL BEN HOFNI’S כתאב אוזכאס שרע אלציצית",
+                "type": "regular"
+            },
+            {
+                "txt": "BY ISAAC HERZOG, Paris",
+                "type": "regular"
+            },
+            {
+                "txt": "I",
+                "type": "title"
+            },
+            {
+                "txt": "Samuel ben Hofni Gaon, head of the academy of Sora (died 1034) is undoubtedly one of the most remarkable personalities of the gaonic school. Like his famous predecessor Saadya, Samuel b. Hofni was at once an eminent Talmudic authority, a philosophical thinker and a Biblical exegete. A philosopher of less originality and an exegete of a lower order than the sage of Fayum, he none the less possesses sufficient interest to deserve close study.",
+                "type": "regular"
+            },
+            {
+                "txt": "While the philosophical and exegetical sides of Samuel’s literary activity have received considerable attention, its halakic aspect has been wellnigh neglected. The fact does not stand alone. It may be taken as exemplifying the comparative neglect into which has fallen the Halakah that department of Jewish learning which more than any other is justly entitled to be called Jewish science (חכמת ישראל). To confine ourselves to the present instance. It was certainly not so much on account of his philosophical culture as on that of his mastery of the Halakah that Samuel b. Hofni occupied the gaonic chair at the Academy of Sora. In his case, however, the paucity of the material available might perhaps be urged as an excuse.",
+                "type": "regular"
+            },
+            {
+                "txt": "Dr.I. Israelsohn, who had rendered a real service to Jewish literature by his excellent edition of Samuel’s Commentary on the Pentateuch, recently made an effort in the direction of drawing from obscurity what remains of the Gaon’s halakhic writings.",
+                "type": "regular"
+            },
+            {
+                "txt": "In the Hakedem of September, 1909, Dr. Israelsohn published from an unique manuscript at the St. Petersburg Library the tenth or last chapter of Samuel ben Hofni’s treatise on <<i#tzitzit<< כתאצ אחכאם שרע אלציצית.",
+                "type": "regular"
+            },
+            {
+                "txt": "The reason for singling out that particular chapter is given by Dr. Israelsohn in the following words which I may be permitted to quote:",
+                "type": "regular"
+            },
+            {
+                "txtOrg": "‘Unter den 7 erhaltenen Capiteln ist es besonders das letzte, welches unsere Aufmerksamkeit fesselt nicht so sehr durch seinen Inhalt als durch eine merkwürdige Mischna-Variante die es bietet. Der Autor behandelt in diesem Capitel die Frage, “ob in Ermangelung von purpurblauen Fäden (מכלת) die Pflicht der Schaufäden wegfällt” und geht hierbei von der Mischna 4 מנחות, I aus. Während nun in unserem Texte die Mischna התכלת אינה מעכבת את הלבן והלבן אינו מעכב את התכלת lautet .. . wird sie von unserem Autor in ihrer ersten Hälfte in diametralentgegengesetztem Sinne citiert und zwar התכלת מעכבת את הלבן. Die Möglichkeit eines Copistenfehlcrs in unserer Handschrift ist im gegebenen Falle vollkommen ausgeschlossen, da das Mischna-Citat. wie es in der Handschrift lautet, entsprechend in’s Arabische übersetzt ist und der ganzen Discussion über die in Rede stehende Frage zu Grunde gelegt wird … Es bleibt nur die Voraussetzung übrig dass in dem Texte, der ihm Vorgelegen, wirklich die von ihm angeführte Lesart gestanden hat. Aber auch in diesem Falle ist es sehr auffällig und befremdend dass Samuel ben Chofni, dem doch als Gaon die Halacha in allen ihren Teilen gegenwärtig sein musste, sich von einer augenscheinlich falschen Lesart hat irreführen lassen.’",
+                "txtTrans": "‘Among the 7 surviving capitulas, it is especially the last one that captivates our attention not so much by its content as by a strange Mishnah variant it offers. In this capital, the author deals with the question “whether, in the absence of purple blue threads (Container), the duty of the show threads is omitted” and proceeds from the Mishnah 4 Tributes. While now in our texts the Mishnah The tinder does not inhibit the heart and white does not inhibit the biodegradable is .. . it is quoted by our author in its first half in a diametrically opposed sense, namely The tindering inhibits the white. The possibility of a copist error in our handwriting is completely excluded in the given case, since the Mishnah citate. as it says in the manuscript, is translated into Arabic accordingly and the whole discussion about the question in question is based on it … All that remains is the condition that the text before him really contained the reading he cited. But even in this case it is very striking and strange that Samuel ben Chofni, to whom Halacha had to be present in all its parts as Gaon, was misled by an apparently incorrect reading.’",
+                "type": "translation"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "II",
+                "type": "title"
+            },
+            {
+                "txt": "The ninth chapter though not of such importance for the history of the Talmudic text as the tenth or last, nevertheless offers some interesting points. My interest in it was aroused while studying הלכות ציצית in Maimonides’s Code. In giving a description of the חלזון or species of mollusk used for the dyeing of תכלת. Maimonides states דמו שחור כדיו. This particular is not traceable to any known Talmudic or Midrashic source. We could speak with greater confidence if we had at our disposal the now lost ירושלמי קדשים. Did the great codifier identify the חלזון של תכלת with <<i#sepia officinalis<<, which secretes a black fluid? Cf. Lewysohn, Zoologie des Talmuds, § 369. I should rather think we have here a combination of Talmudic and Aristotelian authority. Aristotle in speaking of the purple producing mollusca supplies the following information:",
+                "type": "regular"
+            },
+            {
+                "txtOrg": "Eiai δέ τώι’ πορφυ,ιώι’ γέι’η πλείω … καί το άι’θος αϊτών ai μέν πλεισται μέλαν εχουσιν, ενιαι δ’ έρνθρό και’ μικρόν, κτλ. <<n<< <<n<< (Hist. Anim. ν. 15. 4.)",
+                "txtTrans": "There are many kinds of purpuræ … Most of them contain a black pigment; in others it is red, and the quantity of it small. (Project Gutenberg, Aristotle, History of Animals, Book V Ch. XIII: 3)",
+                "type": "translation"
+            }
+        ],
+        "footNotes": [],
+        "orgPdfs": [
+           "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131362/HerzogDoctorate/0427100341_gkseir.jpg"
+        ]
+    },
+    {
+        "num": "B",
+        "title": "APPENDIX B – PROCEEDINGS OF THE BELFAST NATURAL HISTORY AND PHILOSOPHICAL SOCIETY, 1919-20",
+        "subChapters": [],
+        "text": [
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            }
+        ],
+        "footNotes": [],
+        "orgPdfs": [
+           "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131362/HerzogDoctorate/0427100341_gkseir.jpg"
+        ]
+    },
+    {
+        "num": "C",
+        "title": "ADDENDUM: HISTORICAL RECORD OF DYEING PROCESS USED IN RADZIN",
+        "subChapters": [],
+        "text": [
+            {
+                "txt": "",
+                "type": "regular"
+            },
+            {
+                "txt": "",
+                "type": "regular"
+            }
+        ],
+        "footNotes": [],
+        "orgPdfs": [
+           "https://res.cloudinary.com/dqidhqkor/image/upload/v1709131362/HerzogDoctorate/0427100341_gkseir.jpg"
         ]
     }
 ]
