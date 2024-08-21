@@ -5,7 +5,9 @@ import mongodb from 'mongodb'
 
 export const chapterService = {
     query,
+    queryHeb,
     getByNum,
+    getByNumHeb,
     remove,
 }
 
@@ -21,6 +23,18 @@ async function query(filterBy = {}) {
     }
 }
 
+async function queryHeb(filterBy = {}) {
+    const criteria = _buildCriteria(filterBy)
+    try {
+        const collection = await dbService.getCollection('herzog_chapters_heb')
+        var chapters = await collection.find(criteria).toArray()
+        return chapters
+    } catch (err) {
+        logger.error('cannot find Hebrew chapters', err)
+        throw err
+    }
+}
+
 async function getByNum(num) {
     try {
         const collection = await dbService.getCollection('herzog_chapters')
@@ -28,6 +42,17 @@ async function getByNum(num) {
         return chapter
     } catch (err) {
         logger.error(`while finding chapter ${num}`, err)
+        throw err
+    }
+}
+
+async function getByNumHeb(num) {
+    try {
+        const collection = await dbService.getCollection('herzog_chapters_heb')
+        const chapter = await collection.findOne({ num })
+        return chapter
+    } catch (err) {
+        logger.error(`while finding Hebrew chapter ${num}`, err)
         throw err
     }
 }

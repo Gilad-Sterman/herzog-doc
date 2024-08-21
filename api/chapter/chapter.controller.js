@@ -22,3 +22,26 @@ export async function getChapters(req, res) {
         res.status(500).send({ err: 'Failed to get chapters' })
     }
 }
+
+export async function getChaptersHeb(req, res) {
+    try {
+        const filterBy = {
+            txt: req.query?.txt || '',
+        }        
+        const chapters = await chapterService.queryHeb(filterBy)
+        res.send({ chapters })
+    } catch (err) {
+        logger.error('Failed to get Hebrew chapters', err)
+        res.status(500).send({ err: 'Failed to get chapters' })
+    }
+}
+
+export async function getChapterHeb(req, res) {
+    try {
+        const chapter = await chapterService.getByNumHeb(req.params.num)
+        res.send(chapter)
+    } catch (err) {
+        logger.error('Failed to get Hebrew chapter', err)
+        res.status(500).send({ err: 'Failed to get chapter' })
+    }
+}
