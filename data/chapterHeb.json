@@ -8,24 +8,24 @@
                 "title": "הקדמה",
                 "txt": [
                     {
-                        "txt": "The aim of this chapter is not to give a more or less adequate account of the manufacture of purple in ancient times, but merely to discuss a certain number of facts, an acquaintance with which is calculated to assist the uninitiated reader in following intelligently the subsequent treatment of the various aspects of <<i#Tekhelet<<.<<1<<",
+                        "txt": "מטרת פרק זה אינה לתת תיאור פחות או יותר מדוייק על ייצור הסגול בימי קדם, אלא רק לדון במספר מסוים של עובדות, שהיכרות איתן אמורה לסייע לקורא הבלתי מודע לעקוב בתבונה אחר הטיפול הבא בהיבטים השונים של תכלת.<<1<<",
                         "type": "regular"
                     },
                     {
-                        "txt": "Purple dyeing is not really so wholly a thing of the dead past as most people are apt to suppose. The tainting of cloth by means of marine animal pigment is still practised, albeit in a crude, primitive form, by the natives on certain coasts of Central America.<<2<< But it is only the history of the art in oriental and classical antiquity which directly bears upon the inquiry forming the subject of the present work.",
+                        "txt": "צביעת סגול היא לא ממש נחלת העבר המת כמו שרוב האנשים נוטים לשער. צביעת הבד באמצעות פיגמנט של בעלי חיים ימיים עדיין נהוגה, אם כי בצורה גסה ופרימיטיבית, על ידי הילידים בחופים מסוימים של מרכז אמריקה<<2<<. אך רק ההיסטוריה של האמנות בעת העתיקה המזרחית והקלאסית קשורה ישירות לחקירה המהווה את נושא העבודה הנוכחית.",
                         "type": "regular"
                     },
                     {
-                        "txt": "Dating from hoary antiquity the noble art of purple dyeing passed through a long and checkered career breathing out its last on the shores of the Bosphorus, amid the deafening din and clatter of the all-devouring arms of the victorious Turk (1453).",
+                        "txt": "מימי העת העתיקה, האמנות האצילית של צביעת הסגול עברה קריירה ארוכה ומסובכת כשהיא נושפת לאחרונה על חופי הבוספורוס, בתוך הכאוס והרעש מחריש האוזניים של זרועותיו טורפות הכל של הטורק המנצח (1453).",
                         "type": "regular"
                     },
                     {
-                        "txt": "The ancients had no great variety of dyestuffs at their disposal, but of those available, the most highly prized was that obtained from the colouring matter secreted by certain marine snails. Upon the manipulation and application of this were exercised the skill and ingenuity of successive generations of craftsmen working under different conditions upon different shores of the mighty deep.",
+                        "txt": "לרשות הקדמונים לא היה מגוון גדול של חומרי צבע ברשותם, אבל מבין אלה הזמינים, היקר ביותר היה זה שהתקבל מחומרי הצבע שהופרשו על ידי חלזונות ימיים מסוימים. עם המניפולציה והיישום של זה הופעלו המיומנות והתחכום של דורות עוקבים של בעלי מלאכה שעבדו בתנאים שונים על חופים שונים של המעמקים האדירים.",
                         "type": "regular"
                     }
                 ],
                 "footNotes": [
-                    "The readers desirous of pursuing with anything like thoroughness the none too easy – study of the porphyrology will have been, I think, well advised, if he chooses the following works as his guides: ( 1 ) Die Griechischen Papyrusurkunden der Königlichen Bibliothek zu Berlin, pp. 96-212 (Die Purpurfäberei und der Purpurhandel im Alterthum), W. Adolf Schmidt, Berlin ( 1842); (2) “<<i#Purpura<<,” Maurice Besnier in: Dictionnaire des Antiquités grecques et romaines, ed. Daremberg et Saglio T.IV, pp. 769-778. Paris (1908); (3) Ein Beitrag zur Purpurkunde, Alexander Dedekind, four volumes, Berlin (1898-1911).",
+                    "עבור קוראים המעוניינים לחקור ביסודיות יחסית את הנושא הלא פשוט של לימוד הפורפירולוגיה מומלץ, לדעתי, לבחור בעבודות הבאות כמדריכים: ( 1 ) Die Griechischen Papyrusurkunden der Königlichen Bibliothek zu Berlin, pp. 96-212 (Die Purpurfäberei und der Purpurhandel im Alterthum), W. Adolf Schmidt, Berlin ( 1842); (2) “Purpura,” Maurice Besnier in: Dictionnaire des Antiquités grecques et romaines, ed. Daremberg et Saglio T.IV, pp. 769-778. Paris (1908); (3) Ein Beitrag zur Purpurkunde, Alexander Dedekind, four volumes, Berlin (1898-1911).",
                     "Cf. p. 13 and in Edward Schunck, “Purple Dyeing in Modern Time,” Journal of the Chemical Society, vol. 37. Transactions, pp. 613617-, London (1880). E. von Martens, “Purpur Färberei in Central America,״ Verhandlungen der Berliner Anthropologischen Gesellschaft, October 22, 1895."
                 ],
                 "orgPdfs": [
@@ -38,121 +38,120 @@
                 "title": "המינים המיוחדים המשמשים בייצור סגול",
                 "txt": [
                     {
-                        "txt": "The question which most readily suggests itself is: which species were anciently employed in purple dyeing? Our chief authorities are Aristotle and Pliny. Unfortunately the statements of both authors leave much to be desired in point of particularisation.",
+                        "txt": "השאלה שהכי מציעה את עצמה היא: אילו מינים שימשו בעבר בצביעת סגול? המקורות הראשיים שלנו הם אריסטו ופליניוס. למרבה הצער, ההצהרות של שני המחברים משאירות הרבה לרצוי בעניין הדיוק.",
                         "type": "regular"
                     },
                     {
-                        "txt": "In Aristotle’s History of the Animals reference is often made to a genus of marine snails bearing the name of <<i#Purpura<<. In the fifth book, chapter 15, we are informed that it is that genus which furnishes the pigment for the dyeing of purple.<<1<<",
+                        "txt": "בתולדות החיות של אריסטו מתייחסים לעתים קרובות לסוג של חלזונות ימיים הנושאים את השם <<i#פורפורה<<. בספר החמישי, פרק 15, אנו לומדים כי סוג זה הוא זה אשר מספק את הפיגמנט לצביעת סגול.<<1<<",
                         "type": "regular"
                     },
                     {
-                        "txt": "“There are, indeed, numerous kinds of <<i#Purpurae<<. Some are big, as those about the cape of Sigeum and Lectum (The coast of Troade at the entry of the Hellespont.) ; others are small, as those of the Euripus and about the coasts of Coria. Those who are found in harbours are big and rough, and for the greater part have their flower of a black colour, but some have it red and small. Of those that are big some attain the weight of a mina. Those which are upon the shores and in the proximity of promontories are small in size but have their flower red, at least in far the greater part. The <<i#Purpurae<< are caught in spring tide at the time when they make their wax. In the dog days they are not caught for then they do not feed but they hide and squat. Their flower is placed between the micon and the neck. The connection of these two parts is thick; the colour is like that of a white membrane which can be removed; on being squeezed it taints and colours the hand. There is something like a vein crossing it. It is this which is regarded as the flower, the remainder being like alum. The flower of the <<i#Purpurae<< is worst when they make their wax. The small <<i#Purpurae<< are crushed together with their shells, for it would be hard to detach their flower. From the bigger ones, on the other hand, the flower is separated after the shell has been removed. In this way the neck becomes separated from the micon; for the flower being placed between the two, over that which is called the stomach, its (i.e., the flower’s) removal necessarily separates the two. Care is taken to crush the <<i#Purpurae<< while they are alive, for if the <<i#Purpura<< dies before that operation it ejects and vomits its flower. For this reason also, they are kept in nets until a sufficient quantity of them has been collected to allow of their being expeditiously bruised.",
+                        "txt": "“ישנם, אכן, סוגים רבים של פורפורה. חלקן גדולות, כמו אלו על מפרץ סיגאום ולקטום (חוף הטרואדה בכניסה להלספונט.); אחרות קטנות, כמו אלו של האוריפוס ובחופי קוריה. אלו שנמצאות בנמלים הן גדולות ומחוספסות, ולרוב הפרח שלהן בצבע שחור, אבל לחלקן הוא אדום וקטן. מבין אלו הגדולות חלקן מגיעות למשקל של מינה. אלו שנמצאות על החופים ובקרבת הצוקים הן קטנות בגודלן אך פרחיהן אדומים, לפחות ברובן הגדול. הפורפורות נלכדות בגאות האביב בזמן שהן מייצרות את השעווה שלהם. בימי הכלבים לא תופסים אותן כי הן לא יוצאות לאכול אלא מתחבאות וכורעות. הפרח שלהן ממוקם בין המיקון לצוואר. החיבור של שני החלקים הללו עבה; הצבע דומה לזה של קרום לבן שניתן להסירו; בלחיצה זה מכתים וצובע את היד. יש מין וריד שחוצה אותו. זה מה שנחשב לפרח, והשאר הוא כמו אלום. הפרח של <<i#הפורפורה<< הוא הגרוע ביותר כשהן מייצרות את השעווה שלהן. הפורפורות הקטנות נמחצות יחד עם קונכיותיהן, כי יהיה קשה לנתק את הפרח שלהן. מהגדולות יותר, לעומת זאת, הפרח מופרד לאחר הסרת הקליפה. בדרך זו הצוואר הופך מופרד מהמיקון; היות והפרח מונח בין השניים, מעל מה שנקרא הקיבה, ההסרה שלו (כלומר, הפרח) בהכרח מפרידה בין השניים. מקפידים לרסק את <<i#הפורפורה<< בעודן בחיים, שכן אם <<i#הפורפורה<< מתה לפני אותה פעולה היא פולטת ומקיאה את פרחה. גם מסיבה זו, הן נשמרות ברשתות עד שאוספים כמות מספקת כדי לאפשר את חבלותן במהירות.",
                         "type": "regular"
                     },
                     {
-                        "txt": "The ancients placed no nets beneath the baits with the result that the <<i#Purpura<< would often drop into the water after it had been caught up, but the moderns arrange matters in such a manner that even if the <<i#Purpura<< drops off, it does not get lost.",
+                        "txt": "הקדמונים לא הניחו רשתות מתחת לפיתיונות וכתוצאה מכך <<i#הפורפורה<< הייתה נופלת למים לעתים קרובות לאחר שנתפסה, אבל המודרניים מסדרים את העניינים כך שגם אם <<i#הפורפורה<< נושרת, היא לא הולכת לאיבוד.",
                         "type": "regular"
                     },
                     {
-                        "txt": "They most readily drop off when they are full but even when they are empty they are not easily drawn up.",
+                        "txt": "הן נושרות בקלות רבה כשהן מלאות, אבל גם כשהן ריקות הן לא נתפסות בקלות.",
                         "type": "regular"
                     },
                     {
-                        "txt": "These are the particulars relating to the <<i#Purpurae<<. The buccinae are born in the same way and at the same season. The buccinae and the <<i#Purpurae<< both have their opercula placed in the same manner and have it since their birth like all other turbinatae. They feed by drawing out what is called their tongue beneath their operculum. This tongue of the <<i#Purpura<< is bigger than a finger. The animal makes use of it for feeding and for piercing the shells of other conchylia and even its own shell. The <<i#Purpura<< and the buccina both live very long. The <<i#Purpura<< lives about six years, and its growth can be annually watched on the intervals formed upon its helix.”<<2<<",
+                        "txt": "אלו הם הפרטים הנוגעים לפורפורה. הבוצ'ינים נולדים באותה צורה ובאותה עונה. הציפורן של הבוצינה והפורפורה מונח באותו אופן, והוא קיים אצלם מאז לידתם כמו כל שאר בעלי הקונכיות. הם אוכלים על ידי הוצאת מה שנקרא לשונם מתחת לציפורן שלהם. הלשון הזו של הפורפורה גדולה מאצבע. היצור עושה בו שימוש לאכילה ולניקוב קונכיות של יצורים אחרים ואפילו את הקונכייה שלה. הפורפורה והבוצ'ינה חיות שתיהן זמן רב. הפורפורה חיה כשש שנים, וניתן לצפות בגידולה מדי שנה במרווחים הנוצרים על הסליל בקונכייה  שלה.”<<2<<",
                         "type": "regular"
                     },
                     {
-                        "txt": "In chapter IV Aristotle says that the <<i#Purpurae<< belong to that class of conchylia which have their bodies completely hidden by the shell with the exception of the head, that they have a trunk doing service for a tongue which is so strong that they can pierce shells with it.<<3<<",
+                        "txt": "בפרק ד' אריסטו אומר שהפורפורות שייכות לאותו מעמד של בעלי קונכייה שגופם מוסתר לחלוטין על ידי הקונכייה למעט הראש, שיש להן חדק שמשרת כלשון שהוא כל כך חזק שהם יכולים לחורר קונכיות איתו.<<3<<",
                         "type": "regular"
                     },
                     {
-                        "txt": "It is absolutely certain that <<i#Purpura<< in Aristotle’s nomenclature embraces the genus bearing that name in modern conchology. But it is really more comprehensive. When he says that “several species are distinguished by reason of their size and by the prickles with which they are furnished,” Aristotle is plainly referring to species of the genus Murex.<<4<<",
+                        "txt": "זה ברור לחלוטין שפורפורה במינוח של אריסטו כולל את המין הנושא את השם הזה בקונקולוגיה המודרנית. אבל זה באמת יותר מקיף. כשהוא אומר ש”מספר מינים נבדלים בגלל גודלם ובגלל הבליטות שיש להם”, אריסטו מתכוון בפירוש למינים מהסוג מיורקס.<<4<<",
                         "type": "regular"
                     },
                     {
-                        "txt": "All the species belonging to the genera termed <<i#Purpura<< and Murex by the modern systematists furnish in varying quantities a colouring matter.<<5<< This is contained in a kind of bandelet situated at the lower face of the mantle between the intestine and the respiratory organ. On being removed from this gland, the purpuric liquid is of a whitish hue. Submitted to the action of light, it becomes first of a puslike colour, turning next into greenish and then passing through a succession of tints; it finally settles into what is termed its definite tone which varies according to the species, climate, weather and other circumstances, but all these different tones may be roughly described as representing a range of colours varying between red and blue as their extremes. While the colour is developing, the matter emits a strong garlic-like smell.",
+                        "txt": "כל המינים השייכים לסוגים המכונים פורפורה ומיורקס על ידי הסיסטמטיסטים המודרניים מספקים בכמויות שונות חומר צביעה.<<5<< זה נמצא במעין רצועה הממוקמת בחלק התחתון של המעטפת בין המעי לאיבר הנשימה. בזמן ההוצאה מהבלוטה הזו, הנוזל הפורפורי הוא בעל גוון לבנבן. תחת פעולת האור, הוא הופך תחילה לצבע דמוי מוגלה, לאחר מכן הופך לירקרק ואז עובר דרך רצף של גוונים; לבסוף הוא מתיישב במה שמכונה הגוון המובהק שלו המשתנה בהתאם למין, אקלים, מזג אוויר ונסיבות אחרות, אך ניתן לתאר את כל הגוונים השונים הללו כמייצגים מגוון צבעים המשתנים על הרצף בין אדום בקצה אחד, לכחול בקצה השני. בזמן שהצבע מתפתח, החומר פולט ריח חזק דמוי שום.",
                         "type": "regular"
                     },
                     {
-                        "txt": "We should, however, be naturally led to think, even in the absence of direct evidence, that out of this great number of possibilities, the ancients would fix upon a definite number of species as the better adapted for dyeing purposes, and that such would not be indiscriminately employed.",
+                        "txt": "עם זאת, אנו מובלים באופן טבעי לחשוב, גם בהיעדר ראיות ישירות, שמתוך מספר רב זה של אפשרויות, הקדמונים קבעו מספר מוגדר של מינים כמתאימים יותר למטרות צביעה, ושמינים אלו שימשו תוך הבחנה.",
                         "type": "regular"
                     },
                     {
-                        "txt": "Aristotle, however, leaves us in the dark on this vital point. Here Pliny fills the gap but only to a limited extent.",
+                        "txt": "אולם אריסטו משאיר אותנו בחושך בנקודה חיונית זו. כאן פליניוס ממלא את החסר אבל רק במידה מוגבלת.",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“Concharum ad <<i#Purpuras<< et concylia… duo sunt genera: buccinum minor concha ad similitudinem ejus quae buccini sonus editur unde et causa nomini, rotunditate oris in margine incisa: alterum <<i#Purpura<< vocatur canaliculato procurrente rostro et canaliculi latere introrsus tubulato, qua proseratur lingua. Praeterea clavatum est ad turbinem usque, aculeis in orbem septenis fere, qui nonsunt bucino…”<<6<<",
-                        "txtTrans": "There are two kinds of shells in relation to <<i#Purpuras<< and shellfish… one is a smaller shell similar in appearance to that which produces the sound of a trumpet, from which also comes the reason for the name, having a roundness with the edge of the opening notched: the other is called <<i#Purpura<<, having a protruding beaked channel and the side of the channel inwardly tubular, through which the tongue is extended. Moreover, it is studded with spines in a whirl up to the top, almost seven in a circle, which are not found on the trumpet shell.",
+                        "txtTrans": "ישנם שני סוגים של קונכיות ביחס לפורפורס ולרכיכות… אחד הוא קונכייה קטנה דומה במראה לזו שמפיקה את צליל החצוצרה, ממנה גם בא הסיבה לשם, עם עגולות שפת הפתח שנחרצה: השני נקרא פורפורה, עם קנה מתבלט וצד הערוץ מבפנים צינורי, שדרכו מוארך הלשון. יתר על כן, היא מצולעת עם קוצים בסיבוב עד לגובה הצמרת, כמעט שבעה במעגל, שאינם נמצאים בקונכיית החצוצרה.",
                         "type": "translation"
                     },
                     {
-                        "txt": "The description of the buccinum leaves no doubt that the Roman naturalist designates by that name the genus <<i#Purpura<< of modern conchology, but there is nothing in the text which might lead to the identification of the particular species. We are placed in a more advantageous position with regard to <<i#Purpura<<. “Not only,”  “Non seulement,” says the great French conchologist Lacaze-Duthiers,",
+                        "txt": "תיאור הבוצ'ינום אינו מותיר ספק כי חוקר הטבע הרומי מציין בשם זה את הסוג פורפורה של הקונצ'ולוגיה המודרנית, אך אין שום דבר בטקסט שיכול להוביל לזיהוי המין המסוים. אנו נמצאים בעמדה טובה יותר ביחס לפורפורה. לא” רק”, אומר הקונצ'ולוג הצרפתי הגדול לקאז-דוטהיירס,",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“La description du canal pour le passage de ce qu’il appelle à tort la langue est un caractère des murex en général, mais encore les points qu’il décrit prouvent que Pline avait certainement en vue le Murex brandaris…”<<7<< (Mémoire sur la Pourpre. Ann. des Sciences naturelles, 4ème Série Zoologie, tome 1., Paris 1859.)",
-                        "txtTrans": "“The channel description for the passage which he mistakenly calls by the language is in general, a character of the Murex, but still, the points he describes prove that Pliny certainly had the Murex Brandaris in his mind…” (Memory on the Purple, Ann. des Sciences naturelles, 4th Série Zoologie, tome 1., Paris 1859.)",
+                        "txtTrans": "“תיאור בקטע שהוא קורא לו בטעות לפי השפה הוא באופן כללי, דמות של המורקס, אבל עדיין, הבליטות שהוא מתאר מוכיחות שלפליניוס בהחלט היה את המורקס ברנדרס בראשו…” (זיכרון על הסגול, Ann. des Sciences naturelles, 4th Série Zoologie, דף 1, פריז 1859.)",
                         "type": "translation"
                     },
                     {
-                        "txt": "The <<i#Purpura<< of Pliny corresponds to Murex brandaris. With regard to the several varieties of <<i#Purpura<< (murex in modern nomenclature) enumerated by Pliny (limonensis, algensis, calculensis, dialutensis, etc.), Lacaze-Duthiers confesses his inability to refer them to their corresponding appellations in modern conchology.<<8<< Dr. D.L. Germain, of the National Museum d’Histoire Naturelle, informs me that this is as impossible to the zoologists of today as it was to Lacaze-Duthiers in 1859.1 doubt whether these varieties are all sub-species of Murex brandaris. Pliny’s description of <<i#Purpura<< seems indeed to apply especially to the latter species, but it is difficult to tell how far Pliny may be trusted with regard to even major details, or to what extent his generalisations are meant to have a delimiting force.",
+                        "txt": "הפורפורה של פליניוס תואמת למיורקס ברנדרס. בהתייחס למספר הזנים של פורפורה (מורקס במינוח המודרני) שנמנו על ידי פליניוס (לימוננסיס, אלג'נסיס, קלקולנסיס, דיאלוטנסיס וכו'), לקאז-דוטהיירס מתוודה על חוסר יכולתו להפנות אותם לכינויים המקבילים שלהם בקונקולוגיה המודרנית. <<8<< ד”ר DL ז'רמן, מהמוזיאון הלאומי להיסטוריה טבעית, מודיע לי שזה בלתי אפשרי לזואולוגים של היום כפי שהיה בלתי אפשרי ללקאז-דוטהיירס ב-1859. ספק אם הזנים הללו הם כולם תת-מינים של מיורקס ברנדרס. נראה שהתיאור של פליניוס של הפורפורה אכן מתייחס במיוחד למין האחרון, אך קשה לדעת עד כמה ניתן לסמוך על פליניוס אפילו לגבי פרטים מרכזיים, או באיזו מידה ההכללות שלו אמורות להיות בעלות כוח תוחם.",
                         "type": "regular"
                     },
                     {
-                        "txt": "In the literature of the subject of ancient purple dyeing the reader will often meet with the collocation of Buccinum of Pliny with Kerux of Aristotle. I forebear giving many references, but it is sufficient to instance W. Adolf Schmidt, op. cit. p. 107 par. 13. This author is a model of painstaking exactness, at least in his work on ancient purple, and in the correctness of his references to the classics yields, I think, to none of the authors I have come across in my study of the subject. The meaning of the respective terms is indeed the same in Greek and in Latin: Buccinum and Kerux trumpet, i.e., trumpet-like shell. Yet I cannot refrain from giving expression on my part to the suspicion that the Kerux of Aristotle is not identical with the Buccinum of Pliny. I have not been able to discover a single explicit reference in Aristotle to the Kerux being employed in purple dyeing, though it is generally associated with the Porphyra in that author. In the desire of learning the view of a specialist I consulted Dr. L. Germain on the Kerux or Buccinum of Aristotle. Here is the reply of the learned keeper at the Department of Malacologie, of the Musée National d’Histoire Naturelle:",
+                        "txt": "בספרות של נושא צביעת סגול עתיקה, הקורא יפגוש לעתים קרובות את ההקבלה בין הבוצ'ינום של פליניוס והקרוקס של אריסטו. אני נמנע מלתת אזכורים רבים, אבל זה מספיק לקחת כדוגמא W. Adolf Schmidt, op. cit. ע. 107 פר. 13. מחבר זה הוא מודל של דיוק קפדני, לפחות בעבודתו על סגול עתיק, ונכונות ההתייחסויות שלו לקלאסיקות מתעלה, אני חושב, על כל אחד מהמחברים שנתקלתי בהם במחקרי בנושא.  המשמעות של המונחים הבאים היא אכן זהה ביוונית ובלטינית: חצוצרת בוצ'ינום וקורקס, כלומר קונכייה דמוית חצוצרה. עם זאת איני יכול להימנע ממתן ביטוי מצדי לחשד שהקורקס של אריסטו אינו זהה לבוצ'ינום של פליניוס. לא הצלחתי למצוא התייחסות מפורשת אחת אצל אריסטו לקרוקס המועסק בצביעת סגול, אם כי היא קשורה בדרך כלל לפורפירה אצל אותו מחבר. מתוך הרצון ללמוד את השקפתו של מומחה התייעצתי עם ד”ר ל. ז'רמן על הקורקס או הבוצ'ינום של אריסטו. הנה תשובתו של השומר המלומד במחלקה למלקולוגיה, של המוזיאון הלאומי להיסטוריה טבעית:",
                         "type": "regular"
                     },
                     {
-                        "txtOrg": "“Buccinum. Aristote les définit en disant:’Les Buccines ont des coquilles raboteuses.’ (Hist. Anim. lib. IV. cap.IV.) C’est comme vous voyez bien vague. Mais étant donné, d’une part que les Buccinum tels que nous les comprenons aujourd’hui (Type: Buccinum undatum Linné) sont des animaux vivant dans le Manche et l’Océan, et que, d’autre part, Aristote n’a guère connu que les animaux Méditerranéens, je crois qu’il faut considerer sous le nom de Buccinum d’Aristote les grands Ravella et Tritonium.”",
-                        "txtTrans": "“Buccinum. Aristotle defines them by saying, ‘Buccines have rough shells.'(Hist. Anim. lib. IV. cap.IV.) It’s as you see it as vague. But given that, on the one hand, the Buccinum as we understand them today (Type: Buccinum undatum Linnaeus) are animals living in the English Channel and the Ocean, and that, on the other hand, Aristotle knew only the Mediterranean animals, I believe that we must consider under the name of Buccinum of Aristotle the great Ravella and Tritonium. “",
-                        "type": "translation"
-                    },
-                    {
-                        "txt": "The Buccinum (Kerux) of Aristotle is thus quite different from the Buccinum of Pliny. The Buccinum of the latter which answers to the species of the <<i#Purpura<< of the moderns is comprised by Aristotle in his <<i#Purpura<< (Porphyra). But though there is no express statement in Aristotle about the use of the Buccinum (Kerux) in purple dyeing, it must not be concluded on that account that it was not really so employed. The sole inference that this silence warrants is that it did not occupy that prominent position in the craft that would have to be attributed to it on the assumption of its identity with Pliny’s Buccinum; for, in the latter’s account, the Buccinum is the counterpart of the <<i#Purpura<< (duo sunt genera, etc.).",
+                        "txt": "“בוצ'ינום. אריסטו מגדיר אותם באומרו, 'לבוצ'ינים יש קליפות גסות' (Hist. Anim. lib. IV. cap. IV.) זה כפי שאתה רואה את זה מעורפל. אבל בהתחשב בעובדה שמצד אחד, הבוצ'ינום כפי שאנו מבינים אותם כיום (סוג: Buccinum undatum Linnaeus) הם בעלי חיים החיים בתעלת למאנש ובאוקיינוס, וכי מצד שני, אריסטו הכיר רק את בעלי החיים הים תיכוניים, אני מאמין שעלינו לשקול תחת אותו שם של בוצ'ינום אצל אריסטו את הרוולה והטריטוניום הגדולים.”",
                         "type": "regular"
                     },
                     {
-                        "txt": "Aristotle states that some of the <<i#Purpurae<< are big and weigh a mina, i.e. about 12 1/2 ounces.<<9<< Dr. L. Germain, in reply to a question I addressed to him with regard to the possibility of identifying these, says:",
+                        "txt": "הבוצ'ינום (קרוקס) של אריסטו שונה אם כן מהבוצ'יום של פליניוס. הבוצ'ינום של השני, המקביל למין הפורפורה של המודרניים, כלולה על ידי אריסטו בפורפורה שלו (Porphyra). אבל אף על פי שאין אמירה מפורשת אצל אריסטו לגבי השימוש בבוצ'ינום (קרוקס) בצביעת סגול, אין להסיק מזה שהוא לא היה בשימוש לכך. המסקנה היחידה ששתיקה זו מצדיקה היא שהוא לא תפס את אותו מעמד בולט במלאכה שהיה צריך לייחס לה בהנחת זהותה עם הבוצ'ינום של פליניוס; שכן, בדבריו של השני, הבוצ'ינום הוא המקבילה של הפורפורה (duo sunt genera וכו').",
+                        "type": "regular"
+                    },
+                    {
+                        "txt": "אריסטו קובע שחלק מהפורפורות גדולות ושוקלות מינה, כלומר בערך 350 גרם.<<9<< ד”ר ל. ז'רמן, בתשובה לשאלה שהפניתי אליו בנוגע לאפשרות לזהות את אלה, אומר:",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“Il s’agit évidemment ici des grandes coquilles Méditerranéennes appartenant aux genres Tritonium (Trit. nodiferum de Lamarck, An s/ vertèbres, 1822, VII. p. 129) et Ranella (Ran. gigantea de Lam. id. 1822, VII, p. 150) qui, vivant dans la Méditerranée (zone corraloum, profondeur assez grande) sont ramassées de temps à autre part les pêcheurs et secrétent également une liqueur pourprée.”",
-                        "txtTrans": "“Obviously, here is a question of the large Mediterranean shells belonging to the genera Tritonium (Trit. Nodiferum of Lamarck, An s / vertebras, 1822, VII. P. 129) and Ranella (Ran. Gigantea of Lam. Id. 1822, VII, p. 150) which, living in the Mediterranean (corraloum zone, rather great depth) are picked up from time to time by the fishermen and they also secrete a purple liquor.”",
+                        "txtTrans": "“ברור שמדובר בקונכיות ים תיכוניות גדולות השייכות לזנים טריטוניום (Trit. nodiferum de Lamarck, An s/ vertebrae, 1822, VII. p. 129) ו-Ranella (Ran. gigantea de Lam. id. 1822, VII, p. 150) ) שחיים בים התיכון (אזור קורלום, עומק גדול למדי) נאספים מדי פעם על ידי דייגים וגם מפרישים נוזל סגול”",
                         "type": "translation"
                     },
                     {
-                        "txt": "Now, the Tritonium and the Ranella being identical, according to Dr. L. Germain with Aristotle’s buccinum, it would thus appear that the buccina, though generally held distinct by Aristotle from the <<i#Purpurae<<, have been confounded with the latter in the passage dealing with the <<i#Purpurae<< as productive of pigment. The sentence, however, forming the transition from the <<i#Purpurae<< to the buccina,<<10<< would rather seem to imply that the buccinum has not so far been included. Pliny, in fact, makes it clear that there are two different genera bearing the name of buccinum.",
+                        "txt": "כעת, בהיות הטריטוניום והרנלה זהים, לפי ד”ר ל. ז'רמן לבוצ'ינום של אריסטו, נראה אפוא שהבוצ'ינה, אף שהבוצ'ינה מובחנת בדרך כלל על ידי אריסטו מהפורפורה, התבלבלה עם האחרון בקטע העוסק ב Purpurae כמייצר צבע. אולם המשפט, המהווה את המעבר מהפורפורה לבוצ'ינה,<<10<< דווקא מרמז שהבוצ'ינום לא נכלל עד כה. פליניוס, למעשה, מבהיר שיש שני סוגים שונים הנושאים את השם בוצ'ינום.",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“Buccinum minor concha ad similitudinem ejus qui buccini sonus editur.”",
-                        "txtTrans": "The whelk is a smaller shell resembling the one that gives out the sound of a trumpet (Pliny; Natural History Book IX; LXI. 132)",
+                        "txtTrans": "הבוצ'ינום הוא  בעל קונכייה קטנה יותר שצורתו דומה לאותה קונכייה ששימשה כחצוצרה (פליניוס; ספר תולדות הטבע IX; LXI. 132)",
                         "type": "translation"
                     },
                     {
-                        "txt": "The ancients used as trumpets shells of molluscs of huge size belonging to the genera Tritonium and Ranella of modern conchology. The genus which played such a foremost part in purple dyeing resembled the latter in shape but was of much smaller size “minor concha” by the way, would seem to have been incorrectly interpreted by even Lacaze-Duthiers:",
+                        "txt": "הקדמונים השתמשו כחצוצרות בקונכיות של רכיכות בגודל עצום השייכות לזנים טריטוניום ורנלה של הקונצ'ולוגיה המודרנית. המין שמילא תפקיד חשוב כל כך בצביעה סגולה דומה לזן השני בצורתו, אבל היה בגודל קטן בהרבה ”קונכייה קטנה” אגב, נראה כאילו התפרש באופן שגוי אפילו על ידי לקאז-דוטהיירס:",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“Le plus petit est le buccin”<<11<<",
-                        "txtTrans": "“The smallest is the whelk”.",
+                        "txtTrans": "“הקטן ביותר הוא הבוצ'ינה”.",
                         "type": "translation"
                     },
                     {
-                        "txt": "“Minor concha” should, I think, be taken with the following “ad similitudinem ejus etc.,” the buccinum employed in purple dyeing is a smaller shellsnail than the genus from which it (the purple buccinum) derives its name on account of resemblance of shape.",
+                        "txt": "”קונכייה קטנה” צריך, לדעתי, להילקח עם ה-”שצורתו דומה וכו'”, הבוצ'ינום המופעל בצביעת סגול הוא חלזון קטן יותר מהסוג שממנו הוא (הבוצ'ינום הסגול) מקבל את שמו בגלל הדמיון של צורתם.",
                         "type": "regular"
                     },
                     {
-                        "txt": "In F. de Mély’s edition of the Cyranides, a magico-medical work, Variants et Additions, p. 271, one reads: “The main <<i#Purpura<<, also called conchylia, is smaller than the buccinum.”<<12<< How is this to be reconciled with the current construe of Pliny’s “minorconcha” as meaning that the buccinum is smaller than the <<i#Purpura<<? Has <<i#Porphyra<< in this text the same signification as, according to Dr. Germain, it has in Aristotle, designating the big sized Ranella and Tritonium?",
+                        "txt": "במהדורה של F. de Mély של ה-Cyranides, יצירה קסומה-רפואית, Variants et Additions, p. 271, אחד קורא: ”הפורפורה הראשית, הנקראת גם קונצ'יליה, קטנה מהבוצ'ינום. <<12<< כיצד יש ליישב זאת עם הפירוש הנוכחי של ה”קונכייה קטנה” של פליניוס, כלומר שהבוצ'ינום קטן מהפורפורה? האם לפורפירה בטקסט הזה היא משמעותית כמו, לפי ד”ר ז'רמן, אצל אריסטו, שמופרדת מהרנלה והטריטוניום הגדולים?",
                         "type": "regular"
                     },
                     {
-                        "txt": "have found no information regarding the intrinsic quality of the colouring liquid secreted by the big Ranella and Tritonia whether it yields a fugitive or a fast dye. Should it, however, on experiment, turn out to be the former, as I indeed anticipate, our gain will have been a twofold one. We shall first have been afforded light on a very obscure point in Pliny, and, what is not less important, we shall have been placed in a position to assert with a higher degree of confidence that at least certain species belonging to the above genera, though not among the more prominent varieties, figured among the molluscs anciently used for dyeing purposes.",
+                        "txt": "לא מצאתי מידע לגבי האיכות הפנימית של נוזל הצביעה המופרש על ידי הרנלה והטריטוניה הגדולים, בין אם הוא מניב צבע דוהה או מהיר. אולם אם בעזרת ניסוי יתברר שזהו הראשון, כפי שאני אכן צופה, הרווח שלנו יהיה כפול. תחילה זה מאיר לנו על נקודה מאוד לא ברורה אצל פליניוס, ודבר נוסף שאינו פחות חשוב, נוכל לטעון בדרגה גבוהה יותר של ביטחון שלפחות מינים מסוימים השייכים לסוגים הנ”ל, אם כי לא בין הזנים הבולטים יותר, היו בין הרכיכות ששימשו בעבר למטרות צביעה.",
                         "type": "regular"
                     },
                     {
-                        "txt": "Pliny says of the buccinum that it yields a fugitive dye: “buccinum per se damnatur quoniam focum remittit.” Now the dye furnished by the genus <<i#Purpura<< which is the buccinum Pliny is characterized by its fastness. Though unsupported by textual evidence, Lacaze-Duthiers in his Mémoires sur la Pourpre hazarded the suggestion that the species now called <<i#Purpura<< haemastoma whose dye is particularly durable largely corresponds to Pliny’s buccinum.<<13<<Lacaze-Duthiers could not, of course, help charging Pliny with ignorance. The French naturalist was not really the first to have pointed out the error. Edward Bancroft had done so long before.<<14<< Pliny is certainly wrong, but it would nevertheless be of some interest to trace the source of his blunder. If the dye furnished by the Ranella and Tritonium is, as I expect, not durable, Pliny will have erroneously transferred this information he had got about the quality of the dye secretion of a larger buccinum to that of the smaller <<i#Purpura<< of the moderns. Incidentally, we would learn that the former was also exploited for the dyeing industry.",
+                        "txt": "פליניוס אומר על הבוצ'ינום שהוא מניב צבע דוהה: ”בוצ'ינום כשלעצמו damnatur quoniam focum remittit.” כעת הצבע שמסופק על ידי הסוג פורפורה שהוא הבוצ'ינום של פליניוס מאופיין במהירות שלו. למרות שלא נתמך בראיות טקסטואליות, Lacaze-Duthiers ב-Mémoires sur la Pourpre שלו טען שהמין הנקרא כיום פורפורה המסתומה שצבעו עמיד במיוחד מתאים במידה רבה לבוצ'ינום של פליניוס.<<13<< לקאז-דוטהיירס לא יכל, כמובן, לעשות דבר מלבד להאשים את פליניוס בבורות. חוקר הטבע הצרפתי לא באמת היה הראשון שהצביע על הטעות. אדוארד בנקרופט עשה זאת הרבה לפני כן.<<14<< פליניוס בהחלט טועה, אבל בכל זאת יהיה עניין מסוים להתחקות אחר מקור הטעות שלו. אם הצבע שסופק על ידי הרנלה והטריטוניום אינו עמיד, כפי שאני מצפה, פליניוס ייחס בטעות את המידע הזה שקיבל על איכות הפרשת הצבע של בוצ'ינום גדול יותר לזו של הפורפורה הקטנה יותר של המודרניים. אגב, נלמד שהראשון נוצל גם לתעשיית הצביעה.",
                         "type": "regular"
                     }
                 ],
