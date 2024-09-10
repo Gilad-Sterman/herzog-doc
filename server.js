@@ -37,9 +37,10 @@ if (process.env.NODE_ENV === 'production') {
 
 // import { userRoutes } from './api/user/user.routes.js'
 import { chapterRoutes } from './api/chapter/chapter.routes.js'
-
+import { searchRoutes } from './api/search/search.routes.js'
 // app.use('/api/user', userRoutes)
 app.use('/api/chapter', chapterRoutes)
+app.use('/api/search', searchRoutes)
 
 
 app.get('/**', (req, res) => {
