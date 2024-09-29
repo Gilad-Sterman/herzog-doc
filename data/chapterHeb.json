@@ -787,12 +787,12 @@
                 "title": "חוסר יכולת השינוי של הצבע הסגול",
                 "txt": [
                     {
-                        "txt": "The durability of purple dye is almost proverbial. In all the works dealing with ancient purple which I have read I have seen this stated as something universally acknowledged, the only exception being made in the case of the red dye of the buccinum on the authority mainly of Pliny. Yet in ransacking the classics I have come across a certain passage which has furnished food for thought on the point. “Thou knowest that the dyers, when they wish to dye wool so as to give it the colour called alourges chose first among wool of different colours that which is white: then they prepare it with very great care so that it may imbibe as much of the dye as possible: after that they dye it. Thus prepared, the dye never passes off, and the fabric, whether washed with or without corrosives preserves its colour in its full strength. But if wool of another coloration is used instead, or even the white wool without proper preparation, thou knowest what the result is? Yes, a fugitive colour and an unpleasant one.”",
+                        "txt": "העמידות של צבע סגול היא כמעט פתגמית. בכל העבודות העוסקות בסגול עתיק שקראתי ראיתי את זה נאמר כמשהו מוכר בכל העולם, החריגה היחידה נעשתה במקרה של הצבע האדום של הבוצ'ינום בסמכותו של פליניוס בעיקר. עם זאת, בחיפוש בקלאסיקות נתקלתי בקטע מסוים שסיפק חומר למחשבה בעניין. ”אתם יודעים שהצובעים, כאשר הם רוצים לצבוע צמר כדי לתת לו את הצבע הנקרא אלורז'ים, בחרו תחילה מבין צמר בצבעים שונים את הלבן: אחר כך הם מכינים אותו בזהירות רבה כדי שיוכל לספוג כמה שיותר מהצבע: לאחר מכן צובעים אותו. כשצובעים כך, הצבע לעולם אינו דוהה, והבד, בין אם נשטף עם או בלי חומרים קורוזיביים, שומר על צבעו במלוא עוצמתו. אבל אם משתמשים במקום זאת בצמר בצבע אחר, או אפילו בצמר לבן ללא הכנה מתאימה, אתם יודעים מה התוצאה? כן, צבע דוהה לא יפה”.",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“(Praecipue vero liberat eo malo phycos)  Thalassion id est fucus marinus lactucae similis, qui conchyliis substernitur etc.”<<1<<",
-                        "txtTrans": "The sovereign remedy, however, for this complaint is phycos thalassion, or seaweed, which is like lettuce, and is used as a ground-colour for the purple of the murex; it is sovereign etc.",
+                        "txtTrans": "אולם החומר החצוני המתאים ביותר לתלונה זו היא phycos thalassion, או אצת ים, שהיא כמו חסה, ומשמשת כצבע קרקע לסגול של המיורקס; זה הטוב ביותר וכו'.",
                         "type": "translation"
                     },
                     {
@@ -801,7 +801,7 @@
                     },
                     {
                         "txtOrg": "“Qui conchyliis, hoc est cujus colore lana primum imbuitur cum vestis conchyliatae tinctura praeparatur.”<<3<<",
-                        "txtTrans": "This shell, that is, the color of which wool is first saturated, is prepared with the dye of scarlet cloth.",
+                        "txtTrans": "רכיכה זו, כלומר, צבעו של הצמר רווי לראשונה בצבע של בד ארגמן",
                         "type": "translation"
                     },
                     {
@@ -809,32 +809,28 @@
                         "type": "img"
                     },
                     {
-                        "txt": "Pliny indeed makes mention of the cleansing of the wool prior to immersion into the bath, but that is all (“Vellus elutriatum” [Fleece] <<4<<). He nowhere hints that this was indispensable for the durability and fastness of the colour. Modern experimenters say nothing of the kind. The language of Plato would seem to imply, I think, more than mere cleansing of the wool.",
+                        "txt": "פליניוס אמנם מזכיר את ניקוי הצמר לפני הטבילה באמבט, אבל זה הכל (”Vellus elutriatum” [Fleece] ). <<4<< הוא לא רומז בשום מקום שזה היה הכרחי לעמידות וליציבות של הצבע. נסיינים מודרניים לא אומרים דבר כזה. נדמה ששפתו של אפלטון מרמזת, אני חושב, על יותר מסתם ניקוי הצמר.",
                         "type": "regular"
                     },
                     {
-                        "txt": "Does not this rather refer instead to the treating of the wool with certain mordants or styptics for binding the dye to the fibre? But does the purple dye require mordants?",
+                        "txt": "האם זה לא מתייחס דווקא לטיפול בצמר עם חומרי קישור מסוימים או חומרי חיבור מסוימים לקשירת הצבע לסיבים? אבל האם הצבע הסגול מצריך חומרי מקשר?",
                         "type": "regular"
                     },
                     {
-                        "txt": "May not Plato be referring here to Murex trunculus whose dye applied by itself is a",
+                        "txt": "אולי אפלטון מתכוון כאן למיורקס טרנקולוס שהצבע שהוא מפיק בפני עצמו הוא צבע דוהה? האם צביעת סגול ביוון בתקופת אפלטון הייתה מוגבלת בעיקר למיורקס טרנקולוס?",
                         "type": "regular"
                     },
                     {
-                        "txt": "fugitive one? May not purple dyeing in Greece in Plato’s time have been mainly confined to Murex trunculus?",
+                        "txt": "מהנסיינים המודרניים ויליאם קול טוען ביחס לפרח או להפרשת הצבע של הפורפורה לפילוס שהוא עמיד לשטיפה למרות חזרה על כך פעמים רבות, אבל הוא מקפיד להוסיף שלמרות זאת הכביסה הראשונה ”הפיגה במידת מה” את הצבע ( שם).",
                         "type": "regular"
                     },
                     {
-                        "txt": "Of modern experimenters William Cole states with regard to the flower or dye secretion of <<i#Purpura<< lapillus that it is fast to washing though it be ever so many times repeated, but he is careful to add that nevertheless the first washing “somewhat allayed” the colour (ib.).",
-                        "type": "regular"
-                    },
-                    {
-                        "txt": "Note: Plato’s statement that only white wool is fit for purple may perhaps throw light on a difficult point. The epithet purpureus often taxes the ingenuity of commentators. But the following are veritable erreis interpretum (Veritable, but erroneous, interpreters): ( 1 ) Pedo Albinoramus, Eleg. ad Mareen. Gl:",
+                        "txt": "הערה: האמירה של אפלטון שרק צמר לבן מתאים לסגול עשויה להאיר נקודה קשה. הכינוי purpureus גובה לעתים קרובות מס על כושר ההמצאה של פרשנים. אבל להלן מתורגמנים אמיתיים, אך מוטעים: (1) Pedo Albinoramus, Eleg. עד מרין. Gl:",
                         "type": "regular"
                     },
                     {
                         "txtOrg": "“sum memor (et arte memini) sic ducere thyrsos Brachia purpurea candidiora nix.” (2)",
-                        "txtTrans": "“(I am mindful (and I remember art) so I draw wands, purple arms brighter than snow)”",
+                        "txtTrans": "“(אני מודע (ואני זוכר אמנות) אז אני מצייר שרביטים, זרועות סגולות בהירות יותר משלג)”",
                         "type": "translation"
                     },
                     {
@@ -843,11 +839,11 @@
                     },
                     {
                         "txtOrg": "“Tempestirius in domum Pauli purpureis alis oloribus conmisolata Mationis.”",
-                        "txtTrans": "Flying with purple swans, you will more seasonably revel in the house of Paulus Maximus.",
+                        "txtTrans": "לעוף עם ברבורים סגולים, להתענג על ביתו של פאולוס מקסימוס בצורה עונתית יותר.",
                         "type": "translation"
                     },
                     {
-                        "txt": "There never was such a thing as white purple, purplish snow! purplish swans! I should take purpureus in these instances in the sense of fit for purple. Nix is poetic for snow-white wool (Cf. Plato, cf. Pliny vellus ellutriatum): “whiter than snow-like wool, fit to be dyed with purple.”<<5<< Similarly for the swans.",
+                        "txt": "מעולם לא היה דבר כזה סגול לבן, שלג סגול! ברבורים סגולים! אני צריך לקחת את purpureus במקרים אלה במובן של מתאים לסגול. <<5<< ניקס הוא פיוטי עבור צמר לבן כשלג (השווה אפלטון, ראה Pliny vellus ellutriatum): ”לבן יותר מצמר דמוי שלג, מתאים לצביעה בסגול.” באופן דומה עבור הברבורים.",
                         "type": "regular"
                     }
                 ],

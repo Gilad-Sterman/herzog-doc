@@ -6,7 +6,7 @@ export const searchService = {
 }
 
 async function query(text) {
-    const criteria = {}
+    const criteria = buildCritiria(text)
     try {
         const collection = await dbService.getCollection('herzog_chapters')
         var searcRes = await collection.find(criteria).limit(10).toArray()
@@ -18,7 +18,7 @@ async function query(text) {
 }
 
 async function queryHeb(text) {
-    const criteria = {}
+    const criteria = buildCritiria(text)
     try {
         const collection = await dbService.getCollection('herzog_chapters_heb')
         var searcRes = await collection.find(criteria).limit(10).toArray()
@@ -26,5 +26,20 @@ async function queryHeb(text) {
     } catch (err) {
         logger.error('cannot find results', err)
         throw err
+    }
+}
+
+function buildCritiria(text) {
+    return {
+        $or: [
+            { title: { $regex: text, $options: 'i' } }, // Search in main title
+            {
+                subChapters: {
+                    $elemMatch: {
+                        title: { $regex: text, $options: 'i' } // Search in subChapters.title
+                    }
+                }
+            }
+        ]
     }
 }
